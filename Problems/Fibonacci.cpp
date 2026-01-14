@@ -1,0 +1,25 @@
+
+
+//--------------------fibonaci series
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+
+    int number;
+    int first = 0;
+    int second = 1;
+    cout << "enter a number ";
+    cin >> number;
+    for (int i = 0; i < number; i++)
+    {
+        int third = first + second;
+        cout << third << " ";
+        first = second;
+        second = third;
+    }
+
+    return 0;
+}
