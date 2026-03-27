@@ -1,0 +1,557 @@
+[
+  {
+    "id": "sikkim-budget-001",
+    "destinationId": "sikkim",
+    "title": "Sikkim Budget Explorer",
+    "duration": "5 Days / 4 Nights",
+    "price": "Rs.10500",
+    "priceValue": 10500,
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800",
+    "description": "Explore the enchanting hill kingdom of Sikkim on a pocket-friendly budget without compromising on its best highlights. From the bustling MG Marg in Gangtok to the sacred Tsomgo Lake shimmering at 12,000 feet, this budget package covers the essential gems of East Sikkim. Cozy homestays and shared transportation keep costs down while delivering an authentic Sikkimese experience.",
+    "inclusions": [
+      "4 nights budget hotel/homestay accommodation",
+      "Daily breakfast and dinner (MAP plan)",
+      "Shared vehicle for sightseeing",
+      "Tsomgo Lake and Baba Mandir excursion (permits included)",
+      "Rumtek Monastery guided visit"
+    ],
+    "exclusions": [
+      "Train/flight to NJP/Bagdogra",
+      "Lunch on all days",
+      "Nathula Pass permit and visit (extra Rs.200)",
+      "Personal expenses, shopping, entry fees"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Gangtok - MG Marg Evening",
+        "image": "Gangtok MG Marg pedestrian zone colorful evening Sikkim",
+        "activities": [
+          "12:00 PM - Arrive at New Jalpaiguri (NJP) or Bagdogra, shared taxi to Gangtok (4-5 hrs via NH10)",
+          "6:00 PM - Evening stroll on MG Marg pedestrian mall, Sikkim's lively shopping and food street",
+          "7:30 PM - Dinner at a local Sikkimese restaurant, try thukpa (noodle soup) and momos"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Gangtok City Sights",
+        "image": "Rumtek Monastery golden roof Gangtok Sikkim Buddhist monastery",
+        "activities": [
+          "9:00 AM - Rumtek Monastery (24 km from Gangtok) - largest monastery in Sikkim, Golden Stupa",
+          "12:30 PM - Visit Enchey Monastery on a hill above Gangtok (200-yr old Nyingma monastery)",
+          "3:00 PM - Gangtok Ropeway (3 stations, panoramic city views, Rs.60 each way), Flower Exhibition Centre"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Tsomgo Lake & Baba Mandir",
+        "image": "Tsomgo Lake Chang Lake Gangtok frozen altitude Sikkim mountains",
+        "activities": [
+          "8:00 AM - Drive to Tsomgo Lake (35 km, 1.5 hrs) - Chang Lake at 3,753 m, yak rides available",
+          "11:30 AM - Continue to Baba Mandir (13,200 ft) - shrine of Harbhajan Singh, legendary Indian soldier",
+          "2:00 PM - Return to Gangtok, visit Cottage Industries Institute for handicrafts, evening at MG Marg"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Ravangla - Buddha Park",
+        "image": "Ravangla Buddha Park 130 ft Buddha statue South Sikkim valley",
+        "activities": [
+          "8:30 AM - Drive from Gangtok to Ravangla (65 km, 2.5 hrs) - scenic south Sikkim",
+          "11:00 AM - Tathagata Tsal (Buddha Park) - magnificent 130-ft Shakyamuni Buddha statue, beautifully landscaped",
+          "2:00 PM - Ralong Monastery - important Karma Kagyu monastery, panoramic Kanchenjunga views, return to Gangtok"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Morning Walk & Departure",
+        "image": "Gangtok morning valley view sunrise Sikkim hills",
+        "activities": [
+          "7:00 AM - Early morning walk to Do Drul Chorten Stupa - largest stupa in Sikkim, 108 prayer wheels",
+          "9:00 AM - Breakfast, visit Directorate of Handicrafts and Handloom for authentic Sikkimese crafts",
+          "11:00 AM - Shared taxi to NJP/Bagdogra for onward journey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sikkim-family-001",
+    "destinationId": "sikkim",
+    "title": "Sikkim Family Himalayan Holiday",
+    "duration": "6 Days / 5 Nights",
+    "price": "Rs.24000",
+    "priceValue": 24000,
+    "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=800",
+    "description": "A wonderful family holiday combining the serenity of Buddhist monasteries, the awe of Himalayan high-altitude lakes, and the wonder of Kanchenjunga views. Children will delight in yak rides at Tsomgo Lake, the cable car ride over Gangtok city, and spotting red pandas at the Sikkim Himalayan Zoological Park. Parents will cherish the spiritual calm of ancient monasteries and the dramatic mountain landscapes.",
+    "inclusions": [
+      "5 nights accommodation in family-friendly hotels",
+      "Daily breakfast and dinner",
+      "Private vehicle for all transfers and sightseeing",
+      "Tsomgo Lake and Nathula Pass permits (if open)",
+      "Sikkim Himalayan Zoo and cable car entry fees"
+    ],
+    "exclusions": [
+      "Train/flight to NJP/Bagdogra",
+      "Lunch on all days",
+      "Personal expenses and shopping",
+      "Tips for driver and guide"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive Gangtok - City Orientation",
+        "image": "Gangtok city view aerial hillside Sikkim family holiday",
+        "activities": [
+          "1:00 PM - Arrive at NJP, private cab to Gangtok (4-5 hrs), check into family hotel",
+          "5:30 PM - Evening at MG Marg - kids enjoy street food: wai wai noodles, churpi (yak cheese)",
+          "7:00 PM - Gangtok night market, light family dinner, early rest for altitude acclimatization"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Gangtok Sightseeing - Zoo & Ropeway",
+        "image": "Sikkim Himalayan Zoological Park red panda snow leopard Gangtok",
+        "activities": [
+          "9:00 AM - Sikkim Himalayan Zoological Park - red pandas, snow leopards, Tibetan wolves (Rs.30 for kids)",
+          "12:00 PM - Tashi Viewpoint (north of Gangtok) for panoramic view of Kanchenjunga range on clear days",
+          "3:00 PM - Gangtok Ropeway (children love it), Enchey Monastery, Do Drul Chorten Stupa with prayer wheels"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Tsomgo Lake & Baba Mandir Adventure",
+        "image": "Tsomgo Lake yak ride family Sikkim altitude lake frozen",
+        "activities": [
+          "7:30 AM - Drive to Tsomgo Lake (1.5 hrs, 3753 m) - kids excited by yak rides and the magical alpine lake",
+          "11:00 AM - Baba Mandir (4,023 m) - incredible views and the story of Sapper Harbhajan Singh fascinates children",
+          "2:00 PM - Return to Gangtok, evening rest, hot chocolate and thukpa at a local cafe"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Pelling - Monastery & Kanchenjunga Views",
+        "image": "Pelling Kanchenjunga view sunrise West Sikkim mountain snow peak",
+        "activities": [
+          "8:00 AM - Drive from Gangtok to Pelling (115 km, 4 hrs via Ravangla)",
+          "1:00 PM - Pemayangtse Monastery - 300-yr-old monastery with 7-tiered wooden sculpture of Guru Rinpoche's heaven",
+          "4:00 PM - If weather clear, incredible Kanchenjunga sunset view from hotel/viewpoint (8,586m, world's 3rd highest)"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Khecheopalri Lake & Rabdentse Ruins",
+        "image": "Khecheopalri Lake sacred wish fulfilling lake West Sikkim forest",
+        "activities": [
+          "8:30 AM - Drive to sacred Khecheopalri Lake (12 km from Pelling) - the 'wish-fulfilling' lake, serene forest walk",
+          "11:00 AM - Rabdentse Ruins - second capital of Sikkim, stone ruins on a forest ridge with sweeping valley views",
+          "2:00 PM - Drive back to Pelling, afternoon at leisure, kids can spot birds in the monastery gardens"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Yuksom & Departure",
+        "image": "Yuksom first capital Sikkim Norbugang Throne coronation site forest",
+        "activities": [
+          "8:00 AM - Visit Yuksom (1 hr from Pelling) - the first capital of Sikkim, Norbugang Throne coronation site",
+          "10:00 AM - Dubdi Monastery (oldest in Sikkim, 1701) - short 30-min hike through forest, children enjoy treasure hunt",
+          "1:00 PM - Drive to NJP/Bagdogra (5-6 hrs) for onward journey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sikkim-honeymoon-001",
+    "destinationId": "sikkim",
+    "title": "Sikkim Romantic Himalayan Retreat",
+    "duration": "6 Days / 5 Nights",
+    "price": "Rs.42000",
+    "priceValue": 42000,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "Nestled in the folds of the mighty Himalayas, Sikkim offers one of the most romantic and surreal honeymoon experiences in India. Wake up to Kanchenjunga peering through morning clouds from your premium resort window, hold hands by sacred alpine lakes, and explore ancient Buddhist monasteries draped in prayer flags. This intimate journey through Sikkim's misty valleys and sky-high passes is tailor-made for new beginnings.",
+    "inclusions": [
+      "5 nights in premium romantic resorts with mountain views",
+      "Daily breakfast and special couple dinners",
+      "Private vehicle with decorated car on arrival day",
+      "Couple photography session at Pelling sunrise point",
+      "Tsomgo Lake and Nathula Pass permits"
+    ],
+    "exclusions": [
+      "Flights/train to NJP/Bagdogra",
+      "Lunch on all days",
+      "Personal expenses and tips",
+      "Additional activities not in itinerary"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival - Gangtok Romance Begins",
+        "image": "Gangtok boutique hotel mountain view romantic couple Sikkim",
+        "activities": [
+          "1:00 PM - Private car with flower decoration picks you up from NJP, scenic drive to Gangtok (4-5 hrs)",
+          "6:00 PM - Sunset from Tashi Viewpoint over snow-capped Kanchenjunga range (on clear days)",
+          "7:30 PM - Candlelit welcome dinner at a rooftop restaurant on MG Marg, Sikkimese and continental menu"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Monasteries & Cable Car Romance",
+        "image": "Rumtek Monastery golden prayer flags blue sky Sikkim romantic",
+        "activities": [
+          "9:00 AM - Rumtek Monastery - largest in Sikkim, spiritual serenity and golden stupa",
+          "12:00 PM - Gangtok Ropeway romantic cable car ride, sweeping views of the entire city and hills",
+          "4:00 PM - Stroll through Namgyal Institute of Tibetology, evening quiet time at Do Drul Chorten Stupa"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "High Altitude Lake & Nathula Romance",
+        "image": "Tsomgo Lake couple romantic Himalaya altitude misty Sikkim",
+        "activities": [
+          "8:00 AM - Drive to Tsomgo Lake (3,753 m) - romantic misty lake ringed by rhododendrons (blooms Apr-May)",
+          "11:00 AM - Nathula Pass (4,310 m, if permits available) - stand on the India-China border, incredible altitude experience",
+          "2:00 PM - Return to Gangtok, couples' hot spring experience at a local spa, evening at MG Marg shops"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Journey to Pelling - Mountain Views",
+        "image": "Pelling resort Kanchenjunga sunrise couple West Sikkim romance",
+        "activities": [
+          "8:00 AM - Scenic drive to Pelling (4 hrs) with stops at Ravangla Buddha Park and tea garden viewpoints",
+          "1:00 PM - Check in to premium Kanchenjunga-facing resort, afternoon enjoying the mountain view from room balcony",
+          "6:00 PM - Sunset dinner at resort with Kanchenjunga backdrop, Sikkim wines and local cuisine"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Sacred Lake & Monastery Serenity",
+        "image": "Khecheopalri Lake morning mist reflection West Sikkim forest",
+        "activities": [
+          "7:30 AM - Sunrise walk around Khecheopalri Lake - birds floating on glass-still water, prayer flag reflections",
+          "10:00 AM - Pemayangtse Monastery - couples receive monk blessing, explore the centuries-old murals",
+          "3:00 PM - Couples photography session at Rabdentse Ruins hilltop with Kanchenjunga backdrop"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Yuksom & Farewell to the Mountains",
+        "image": "Yuksom ancient forest mist Sikkim couple departure",
+        "activities": [
+          "8:30 AM - Gentle morning walk in Yuksom's ancient forests, visit Kathok Lake (quiet meditation point)",
+          "11:00 AM - Final mountain-view breakfast at resort, check out and departure photos",
+          "12:00 PM - Drive to NJP/Bagdogra (5-6 hrs), carry memories of the Himalayas forever"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sikkim-adventure-001",
+    "destinationId": "sikkim",
+    "title": "Sikkim High-Altitude Adventure",
+    "duration": "6 Days / 5 Nights",
+    "price": "Rs.22000",
+    "priceValue": 22000,
+    "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800",
+    "description": "Push your limits in one of India's most adventurous territories with this high-altitude Sikkim adventure package. Trek through rhododendron forests to Dzongri views, kayak on the Teesta River, mountain bike down Gangtok's slopes, and attempt the legendary Goecha La trek approach. With altitudes soaring past 4,000 metres and landscapes straight from a Himalayan dream, every day is an achievement.",
+    "inclusions": [
+      "5 nights accommodation in trekking lodges and mountain camps",
+      "All meals (breakfast, lunch packed, dinner)",
+      "Certified trekking guide for all hikes",
+      "White-water rafting on Teesta River (Grade III)",
+      "Trekking permits and Inner Line Permits"
+    ],
+    "exclusions": [
+      "Train/flight to NJP/Bagdogra",
+      "Personal trekking gear (rental available in Gangtok)",
+      "Nathula Pass entry permit fee (Rs.200)",
+      "Emergency evacuation insurance (strongly recommended)"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive Gangtok - Acclimatize & Brief",
+        "image": "Gangtok trekking preparation gear Sikkim adventure start",
+        "activities": [
+          "1:00 PM - Arrive NJP, drive to Gangtok, check in to trekkers lodge, gear check",
+          "4:00 PM - Acclimatization hike to Tashi Viewpoint (30-min gentle trail), altitude ~1,650 m",
+          "6:00 PM - Trek briefing with guide, equipment check, route planning for Yuksom-Dzongri trek"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Teesta River Rafting - Adrenaline Rush",
+        "image": "Teesta River white water rafting rapids Sikkim adventure",
+        "activities": [
+          "8:00 AM - Drive to Sirwani (52 km from Gangtok, 2 hrs) for Teesta River rafting put-in point",
+          "9:00 AM - 3-hour Grade III white-water rafting on Teesta River through the gorgeous Teesta Valley gorge",
+          "3:00 PM - Mountain biking rental in Gangtok (downhill trails, 2 hrs, helmet and pads provided)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Drive to Yuksom - Goecha La Trek Begins",
+        "image": "Yuksom trekking start point Goecha La Sikkim dense forest trail",
+        "activities": [
+          "7:00 AM - Drive from Gangtok to Yuksom (115 km, 4 hrs) through Pelling",
+          "12:00 PM - Arrive Yuksom (1,780 m), Trek Base: register at forest office, get trekking permits",
+          "3:00 PM - Acclimatization walk to Kathok Lake (2 hrs loop trail) through rhododendron and oak forest"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Yuksom to Tsokha Trek (9 km)",
+        "image": "Yuksom Tsokha trekking trail rhododendron forest Sikkim green",
+        "activities": [
+          "6:30 AM - Trek start after early breakfast, trail through dense forest and waterfalls",
+          "12:00 PM - Reach Bakhim (2,750 m) after 6 km - lunch break at forest department hut",
+          "4:00 PM - Continue to Tsokha (3,050 m, 3 km more), basic camp, stargazing at altitude at night"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Tsokha to Dzongri (11 km) - Panoramic Views",
+        "image": "Dzongri top Kanchenjunga panorama trekking Sikkim high altitude",
+        "activities": [
+          "5:00 AM - Early start for long climb to Dzongri (4,030 m) through rhododendron forests",
+          "12:00 PM - Reach Dzongri, panoramic views of Kanchenjunga, Pandim, Kabru, and multiple glacial peaks",
+          "2:00 PM - Optional: Dzongri Top (30-min steep climb) for 360-degree Himalayan view, return camp for rest"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Dzongri Descent & Return to Gangtok",
+        "image": "Trekking descent Sikkim mountain forest valley river trail",
+        "activities": [
+          "6:00 AM - Early sunrise views from Dzongri Top (if not done yesterday), breakfast at camp",
+          "8:00 AM - Trek down to Yuksom (16 km descent, 6-7 hrs, knees test!)",
+          "5:00 PM - Reach Yuksom, drive to Gangtok or nearest town, well-earned dinner and rest"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sikkim-luxury-001",
+    "destinationId": "sikkim",
+    "title": "Sikkim Ultra-Luxury Mountain Escape",
+    "duration": "7 Days / 6 Nights",
+    "price": "Rs.95000",
+    "priceValue": 95000,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "Experience Sikkim's majestic Himalayan splendour through an ultra-premium lens with personalised butler service, private monastery visits, exclusive helicopter rides over Kanchenjunga, and stays at Sikkim's finest mountain resorts. This package weaves together spiritual depth, adventure, and indulgence for the discerning traveller who demands the very best that the Himalayan kingdom has to offer.",
+    "inclusions": [
+      "6 nights in 5-star and boutique luxury mountain resorts",
+      "All meals with chef-curated Sikkimese cuisine",
+      "Private vehicle with experienced driver-guide throughout",
+      "Helicopter sightseeing over Kanchenjunga (20 min)",
+      "Private monastery visits with monk guide and blessing ceremony"
+    ],
+    "exclusions": [
+      "Business class travel to NJP/Bagdogra",
+      "Premium alcohol and wines",
+      "Tips and gratuities (recommended)",
+      "Additional helicopter rides beyond included one"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival - Luxury Himalayan Welcome",
+        "image": "Elgin Nor-Khill heritage hotel Gangtok luxury Sikkim mountain",
+        "activities": [
+          "1:00 PM - Private luxury vehicle from NJP to Gangtok (4.5 hrs) with welcome refreshments in car",
+          "5:00 PM - Check in to Elgin Nor-Khill or Netuk House (heritage boutique hotel), welcome Sikkimese tea ceremony",
+          "7:30 PM - Private candlelit dinner at hotel with chef's special Sikkimese degustation menu and Himalayan views"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Private Monastery Circuit & Ropeway",
+        "image": "Rumtek Monastery private visit golden stupa Sikkim sunrise exclusive",
+        "activities": [
+          "8:00 AM - Exclusive private morning visit to Rumtek Monastery with resident lama (arranged after regular hours)",
+          "11:00 AM - Private Enchey Monastery prayer ceremony and monk blessing ritual",
+          "3:00 PM - Private ropeway cabin to Flower Exhibition Centre, exclusive Gangtok city panorama, dinner at rooftop bar"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Helicopter & High Altitude Experience",
+        "image": "Helicopter Kanchenjunga aerial view Sikkim snow peaks luxury flight",
+        "activities": [
+          "8:00 AM - Private helicopter sightseeing over Kanchenjunga range and Tsomgo Lake (20-30 min flight)",
+          "11:00 AM - Drive to Tsomgo Lake (permit included) - private yak and lakeside gourmet picnic arranged",
+          "3:00 PM - Nathula Pass visit (4,310 m, India-China border) with exclusive access arrangements"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Pelling - Premium Mountain Resort",
+        "image": "Pelling luxury resort Kanchenjunga view infinity pool West Sikkim",
+        "activities": [
+          "8:00 AM - Scenic drive to Pelling via Ravangla and Buddha Park (5 hrs with stops)",
+          "2:00 PM - Check in to Mayfair Spa Resort Gangtok or similar luxury property with Kanchenjunga panorama",
+          "5:00 PM - Private sunset viewing from resort's exclusive deck, personal butler service, evening spa treatment"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Sacred Lakes & Monastery Wellness",
+        "image": "Khecheopalri Lake sunrise mist prayer flags Sikkim luxury private",
+        "activities": [
+          "7:00 AM - Private sunrise car to Khecheopalri Lake, exclusive monk-guided lake puja ceremony",
+          "10:00 AM - Pemayangtse Monastery private visit and Rabdentse Ruins exclusive historian tour",
+          "3:00 PM - Return to resort for Himalayan hot stone massage and Tibetan singing bowl therapy (90 min)"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "North Sikkim - Zero Point Expedition",
+        "image": "Zero Point North Sikkim snow covered road 4300m alpine landscape",
+        "activities": [
+          "5:00 AM - Private vehicle convoy to North Sikkim (permit included): Chungthang, Lachung, Yumthang Valley",
+          "12:00 PM - Yumthang Valley (Valley of Flowers, 3,564 m) - sea of rhododendrons in season, private lunch setup",
+          "4:00 PM - Continue to Zero Point (4,428 m) - the last Indian outpost, vast snowfields and silence"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Farewell Spa Morning & Departure",
+        "image": "Luxury hotel morning Sikkim mountain Kanchenjunga dawn goodbye",
+        "activities": [
+          "7:00 AM - Final sunrise Kanchenjunga view from exclusive resort terrace with champagne breakfast",
+          "9:30 AM - Farewell full-body Himalayan herb massage at resort spa (90 min)",
+          "12:00 PM - Checkout, private vehicle to NJP/Bagdogra (5 hrs), depart with lifetime mountain memories"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sikkim-cultural-001",
+    "destinationId": "sikkim",
+    "title": "Sikkim Monastery & Culture Trail",
+    "duration": "5 Days / 4 Nights",
+    "price": "Rs.17000",
+    "priceValue": 17000,
+    "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=800",
+    "description": "Sikkim is a living museum of Tibetan Buddhist culture, and this cultural trail reveals its spiritual soul through monastery visits, ancient coronation sites, and vibrant festival experiences. From Rumtek's golden stupa to the oldest monastery in Sikkim at Yuksom, the first capital Yuksom to the sacred Tashiding Monastery, this journey immerses you in 350 years of Himalayan Buddhist tradition.",
+    "inclusions": [
+      "4 nights accommodation in monastery guesthouses and heritage hotels",
+      "Daily breakfast and dinner",
+      "Private vehicle for sightseeing",
+      "Monastery entry fees and guided cultural explanations",
+      "Visit to Namgyal Institute of Tibetology"
+    ],
+    "exclusions": [
+      "Train/flight to NJP/Bagdogra",
+      "Lunch on all days",
+      "Photography fees inside certain monasteries",
+      "Personal expenses"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive Gangtok - Buddhist Heritage",
+        "image": "Do Drul Chorten Stupa prayer wheels Gangtok Sikkim Buddhist",
+        "activities": [
+          "1:00 PM - Arrive Gangtok, check in, freshen up",
+          "3:00 PM - Namgyal Institute of Tibetology - excellent museum of Buddhist manuscripts, thangkas, and ritual objects",
+          "5:00 PM - Do Drul Chorten Stupa - largest stupa in Sikkim, circumambulate the 108 prayer wheels at dusk"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Rumtek & Enchey Monasteries",
+        "image": "Rumtek Monastery Sikkim Karma Kagyu school golden roof prayer",
+        "activities": [
+          "8:30 AM - Rumtek Monastery (24 km) - seat of the Karma Kagyu school, Golden Stupa housing relics of the 16th Karmapa",
+          "11:30 AM - Rumtek Dharma Chakra Centre - large monk community, debate courtyard, religious art",
+          "3:00 PM - Enchey Monastery (Gangtok hilltop) - Nyingma-tradition, 200 years old, sweeping city views, evening prayers"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Pelling - Pemayangtse & Rabdentse",
+        "image": "Pemayangtse Monastery Pelling West Sikkim ancient Buddhist art",
+        "activities": [
+          "8:00 AM - Drive from Gangtok to Pelling (4 hrs) with Ravangla Buddha Park stop",
+          "2:00 PM - Pemayangtse Monastery (1705, oldest major monastery in Sikkim) - remarkable wooden Zangdok Palri sculpture",
+          "5:00 PM - Rabdentse Ruins (2nd capital of Sikkim) - stone ruins on a forested promontory, prayer flags, valley views"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Tashiding Monastery & Khecheopalri",
+        "image": "Tashiding Monastery sacred stupa thongwa rangdol Sikkim West",
+        "activities": [
+          "8:30 AM - Tashiding Monastery - one of Sikkim's holiest, Thongwa Rangdol stupa said to absolve all sins by sight",
+          "11:30 AM - Sacred Khecheopalri Lake (30 min from Tashiding) - birds remove any floating leaf, keeping it pristine",
+          "2:30 PM - Return to Pelling via Khecheopalri village and cardamom orchards"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Yuksom - First Capital & Departure",
+        "image": "Yuksom Norbugang coronation throne ancient first capital Sikkim",
+        "activities": [
+          "8:00 AM - Drive to Yuksom (1 hr from Pelling) - 1642 coronation site of first Chogyal king of Sikkim",
+          "9:30 AM - Dubdi Monastery (oldest monastery in Sikkim, 1701, 30-min forest hike to reach it)",
+          "12:00 PM - Drive to NJP/Bagdogra (5-6 hrs) for departure, rich with Buddhist heritage memories"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sikkim-weekend-001",
+    "destinationId": "sikkim",
+    "title": "Gangtok Weekend Mountain Escape",
+    "duration": "3 Days / 2 Nights",
+    "price": "Rs.9500",
+    "priceValue": 9500,
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800",
+    "description": "For a quick but fulfilling escape to the Himalayas, Gangtok delivers everything in a compact weekend getaway. Marvel at Kanchenjunga from a sunrise viewpoint, explore vibrant MG Marg, take the iconic ropeway over the city, and make a spiritual journey to the sacred Tsomgo Lake. It is the perfect short Himalayan retreat for those short on time but long on adventure.",
+    "inclusions": [
+      "2 nights accommodation in Gangtok hotel",
+      "Daily breakfast and dinner",
+      "Shared taxi from/to NJP",
+      "Tsomgo Lake excursion (shared vehicle, permit included)",
+      "Ropeway ticket and Enchey Monastery visit"
+    ],
+    "exclusions": [
+      "Train tickets to/from NJP",
+      "Lunch on all days",
+      "Nathula Pass permit and visit (extra cost)",
+      "Personal expenses"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive Gangtok - First Himalayan Evening",
+        "image": "Gangtok evening lights MG Marg hill station Sikkim weekend",
+        "activities": [
+          "1:00 PM - Shared taxi from NJP to Gangtok (4-5 hrs, scenic NH10 through Teesta Valley)",
+          "6:00 PM - MG Marg evening walk - food stalls, shops, cafe culture, try Sikkimese momos and wai-wai",
+          "8:00 PM - Dinner at Hotel Tibet Restaurant (try phaley, thenthuk, and chhurpi soup) on MG Marg"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Tsomgo Lake & City Sights",
+        "image": "Tsomgo Lake Chang Lake Sikkim altitude yak morning mist",
+        "activities": [
+          "7:30 AM - Drive to Tsomgo Lake (1.5 hrs, 3753 m) - stunning glacial lake, yak rides, snow if winter",
+          "11:30 AM - Return, lunch break at Gangtok, afternoon: Gangtok Ropeway cable car ride over the city",
+          "3:30 PM - Enchey Monastery and Do Drul Chorten Stupa walk, evening sunset from Tashi Viewpoint"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Morning Monastery & Departure",
+        "image": "Rumtek Monastery morning Gangtok Sikkim sunrise departure",
+        "activities": [
+          "8:00 AM - Morning drive to Rumtek Monastery (24 km, 45 min), golden stupa and prayer hall visit",
+          "10:30 AM - Return to Gangtok, quick souvenir shopping for thangkas, carpets, and Sikkim teas at MG Marg",
+          "12:00 PM - Shared taxi to NJP/Bagdogra for onward journey"
+        ]
+      }
+    ]
+  }
+]

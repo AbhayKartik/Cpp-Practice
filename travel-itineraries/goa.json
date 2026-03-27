@@ -1,0 +1,557 @@
+[
+  {
+    "id": "goa-budget-001",
+    "destinationId": "goa",
+    "title": "Goa Budget Beach Holiday",
+    "duration": "5 Days / 4 Nights",
+    "price": "Rs.9000",
+    "priceValue": 9000,
+    "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800",
+    "description": "Experience the best of Goa's beaches, nightlife, and history on a budget that won't leave you stressed. Staying in affordable hostels and beach guesthouses near popular North Goa beaches, this package covers the must-see Calangute and Baga beaches, the historic churches of Old Goa, and the wild energy of the Anjuna Flea Market. Cheap beach shacks and local restaurants keep food costs refreshingly low.",
+    "inclusions": [
+      "4 nights in budget hostels/guesthouses near Calangute or Baga",
+      "Daily breakfast only",
+      "Shared airport/station transfers",
+      "Old Goa heritage walk with guide",
+      "Anjuna Flea Market visit (Wednesday, if applicable)"
+    ],
+    "exclusions": [
+      "Flight/train to Goa",
+      "Lunch and dinner on all days",
+      "Water sports and adventure activities",
+      "Personal expenses, nightlife expenses"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival - North Goa Beach Vibes",
+        "image": "Baga Beach North Goa sunset beach shacks evening crowd",
+        "activities": [
+          "2:00 PM - Arrive Goa (Dabolim or Mopa airport or Madgaon station), transfer to Calangute guesthouse",
+          "4:30 PM - First dip at Calangute Beach - Queen of Goa beaches, 7 km golden sand stretch",
+          "7:00 PM - Dinner at Britto's or any beachside shack at Baga Beach, try fish curry rice and prawn balchao"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Old Goa Heritage & Panjim",
+        "image": "Basilica of Bom Jesus Old Goa UNESCO World Heritage white church",
+        "activities": [
+          "9:00 AM - Old Goa UNESCO churches tour: Basilica of Bom Jesus (St. Francis Xavier's tomb), Se Cathedral",
+          "12:00 PM - Walk through Panjim Latin Quarter (Fontainhas) - Portuguese-era colorful houses, cafes, bakeries",
+          "4:00 PM - Miramar Beach (Panjim) and Dona Paula (sunset viewpoint, Arabian Sea meets Mandovi River)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Anjuna & Vagator - Hippy Trail",
+        "image": "Anjuna Beach rock formation Vagator North Goa flea market hippie",
+        "activities": [
+          "9:00 AM - Anjuna Flea Market (Wednesday only) or Anjuna Beach and rocky headland exploration",
+          "1:00 PM - Walk or rent scooter (Rs.300/day) to Vagator Beach - dramatic red cliff and blue sea",
+          "4:30 PM - Chapora Fort (Vagator) - immortalised in Dil Chahta Hai, sweeping views of north Goa coastline"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "South Goa Day Trip - Palolem",
+        "image": "Palolem Beach South Goa crescent coconut trees tranquil",
+        "activities": [
+          "8:00 AM - Bus or taxi to Palolem Beach, South Goa (1.5 hrs, Rs.150 by bus) - crescent-shaped paradise",
+          "11:00 AM - Kayak rental at Palolem (Rs.200/hr), explore Butterfly Beach by boat (Rs.300 return)",
+          "5:30 PM - Return to North Goa, evening at Baga Beach, sunset drinks at Tito's Lane beachside bar"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Beach Morning & Departure",
+        "image": "Calangute beach morning sunrise Goa departure golden light",
+        "activities": [
+          "8:00 AM - Final morning swim at Calangute or Candolim Beach, buy souvenirs",
+          "10:00 AM - Mapusa Friday Market (if Friday) or Calangute market for cashews, feni, and Goan spices",
+          "12:30 PM - Transfer to airport/station for onward journey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goa-family-001",
+    "destinationId": "goa",
+    "title": "Goa Family Beach Bonanza",
+    "duration": "6 Days / 5 Nights",
+    "price": "Rs.22000",
+    "priceValue": 22000,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+    "description": "Goa is not just for party-goers - it offers a wonderful family holiday with gentle beaches, fascinating history, exotic spice gardens, and the thundering Dudhsagar Falls. This carefully planned family package balances beach relaxation at safe South Goa beaches, exciting jeep safaris to Dudhsagar, interactive spice plantation tours, and educational Old Goa heritage walks. Memories that the whole family will cherish for years.",
+    "inclusions": [
+      "5 nights in family rooms at North and South Goa hotels",
+      "Daily breakfast and dinner",
+      "Private AC vehicle for all transfers",
+      "Dudhsagar Falls jeep safari (shared jeep from Mollem)",
+      "Spice plantation lunch tour with traditional meal"
+    ],
+    "exclusions": [
+      "Flights/train to Goa",
+      "Lunch on most days (included on spice plantation day)",
+      "Water sports (available at extra cost)",
+      "Personal expenses and tips"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive Goa - Candolim Family Beach",
+        "image": "Candolim Beach family Goa calm water safe swimming children",
+        "activities": [
+          "1:00 PM - Arrive Goa, transfer to family hotel near Candolim or Calangute",
+          "3:30 PM - Candolim Beach - calmer and less crowded than Baga, safe for children, fort view from beach",
+          "6:30 PM - Dinner at beachside restaurant, kids menu available, try Goan fish curry and bebinca dessert"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Fort Aguada & Old Goa History",
+        "image": "Fort Aguada lighthouse Sinquerim Beach Goa Portuguese fort",
+        "activities": [
+          "9:00 AM - Fort Aguada (400-yr old Portuguese fortress, well-preserved lighthouse), Sinquerim beach",
+          "11:30 AM - Drive to Old Goa (25 km), visit Basilica of Bom Jesus and Se Cathedral (UNESCO World Heritage)",
+          "3:00 PM - Panjim's Fontainhas Latin Quarter, try Goan bebinca at a local bakery, Panjim waterfront stroll"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Dudhsagar Falls - Jungle Safari",
+        "image": "Dudhsagar Falls waterfall jeep Goa Western Ghats jungle monsoon",
+        "activities": [
+          "6:30 AM - Early drive to Mollem National Park (2 hrs), shared jeep into jungle to Dudhsagar Falls",
+          "10:00 AM - Dudhsagar Falls (Milk of the Sea) - 310m-high four-tiered waterfall, swim in natural pool",
+          "3:00 PM - Spotted deer, birds in Bhagwan Mahavir Wildlife Sanctuary on the way back to hotel"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Spice Plantation & North Goa Markets",
+        "image": "Goa spice plantation tour cashew trees nutmeg pepper farm",
+        "activities": [
+          "9:00 AM - Ponda Spice Plantation tour (Sahakari or Tropical Spice Plantation) - identify 30+ spices, elephant interaction",
+          "12:30 PM - Traditional Goan lunch served on banana leaf (included)",
+          "3:30 PM - Drive to Anjuna or Mapusa market for Goan cashews, feni, and handicrafts"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "South Goa - Palolem Beach Day",
+        "image": "Palolem Beach family day boat ride Goa crescent calm water",
+        "activities": [
+          "9:00 AM - Drive to Palolem Beach, South Goa (1.5 hrs) - safest and most family-friendly beach in Goa",
+          "11:00 AM - Dolphin watching boat trip from Palolem (Rs.200/person, 45 min trip), almost guaranteed dolphin sightings",
+          "5:00 PM - Return north, evening at Baga Beach, kids enjoy Goa carnival rides near Tito's Lane"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Leisure Morning & Departure",
+        "image": "Goa morning beach breakfast shack last day family departure",
+        "activities": [
+          "8:00 AM - Leisure final breakfast at favourite beach shack",
+          "10:00 AM - Last souvenir shopping: cashews, port wine, Goan curry masala kits",
+          "12:30 PM - Transfer to Dabolim airport or Madgaon station for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goa-honeymoon-001",
+    "destinationId": "goa",
+    "title": "Goa Romantic Beach Escape",
+    "duration": "6 Days / 5 Nights",
+    "price": "Rs.38000",
+    "priceValue": 38000,
+    "image": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800",
+    "description": "Goa transforms into one of India's most romantic destinations for honeymooners seeking sun-drenched beaches, candlelit seafood dinners, and the magic of sunsets over the Arabian Sea. This premium honeymoon package combines the vivacious energy of North Goa with the serene luxury of South Goa's quiet beaches, private yacht sunsets, couples spa treatments, and exclusive dining experiences. Start your forever by the sea.",
+    "inclusions": [
+      "5 nights in romantic sea-facing rooms at boutique hotels",
+      "Daily breakfast and romantic dinners",
+      "Private AC vehicle throughout",
+      "Private sunset yacht cruise (1.5 hrs)",
+      "Couples spa treatment and welcome flower decoration"
+    ],
+    "exclusions": [
+      "Flights/train to Goa",
+      "Lunch on all days",
+      "Personal expenses and extra activities",
+      "Tips for driver and hotel staff"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival - Goa Romance Begins",
+        "image": "Goa boutique hotel sea view romantic couple honeymoon arrival",
+        "activities": [
+          "1:00 PM - Private transfer with floral decoration, check in to boutique sea-facing hotel in Candolim/Calangute",
+          "4:00 PM - Stroll along Candolim Beach, couple photography at golden hour, wave chasing and sunset drinks",
+          "7:30 PM - Romantic candle-lit dinner at a cliff or beach restaurant, live guitar music, fresh prawn and lobster"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Old Goa & Panjim Portuguese Romance",
+        "image": "Fontainhas Panjim Latin Quarter Portuguese houses romantic Goa walk",
+        "activities": [
+          "9:00 AM - Hand-in-hand stroll through Fontainhas Latin Quarter - pastel houses, tiny cafes, art galleries",
+          "11:00 AM - Visit Se Cathedral and Basilica of Bom Jesus - centuries of history in whitewashed grandeur",
+          "5:00 PM - Private sunset yacht cruise from Panjim Jetty over Mandovi River and out to sea (champagne served)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Anjuna Flea & Private Beach Cove",
+        "image": "Anjuna private cove secluded beach romantic Goa North couple",
+        "activities": [
+          "9:00 AM - Anjuna Flea Market for unique jewellery, bohemian gifts, and couple keepsakes",
+          "12:00 PM - Quiet lunch at a Vagator cliffside cafe, explore Chapora Fort together",
+          "4:00 PM - Find a quiet cove beach near Ozran (Small Vagator) for private time, sunset from the red cliffs"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "South Goa - Palolem Serenity",
+        "image": "Palolem Beach romantic couple sunset South Goa tranquil crescent",
+        "activities": [
+          "8:00 AM - Drive to South Goa (1.5 hrs), check in to boutique beach resort at Palolem or Agonda",
+          "11:00 AM - Morning kayaking to Butterfly Beach or Honeymoon Island (accessible only by kayak or boat)",
+          "6:00 PM - Beachside bonfire dinner at Palolem shack, live musician, cocktails as waves crash"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Agonda Beach & Couples Spa",
+        "image": "Agonda Beach South Goa secluded untouched morning couple spa",
+        "activities": [
+          "8:00 AM - Morning yoga on Agonda Beach (resort-arranged), quietest major beach in Goa",
+          "11:00 AM - Couples deep tissue massage and Ayurvedic oil treatment at resort spa (90 min)",
+          "6:00 PM - Final Goa sunset together at Palolem Beach, dinner at a floating restaurant on a boat"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Colva Beach Morning & Farewell",
+        "image": "Colva Beach South Goa morning white sand long stretch farewell",
+        "activities": [
+          "8:00 AM - Leisurely walk on Colva Beach (South Goa's longest beach, often deserted in mornings)",
+          "10:30 AM - Goa souvenir shopping: Goa wines, cashew feni, handmade shell jewellery",
+          "1:00 PM - Transfer to Dabolim airport for onward journey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goa-adventure-001",
+    "destinationId": "goa",
+    "title": "Goa Action & Adventure Pack",
+    "duration": "6 Days / 5 Nights",
+    "price": "Rs.19500",
+    "priceValue": 19500,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "Goa goes way beyond beaches with this action-packed adventure package. Surf the waves of Ashwem, parasail over Baga, dive the shipwrecks off Grande Island, trek to the top of Dudhsagar Falls, and explore Goa's wildlife on a jeep safari. From the surf at dawn to bioluminescent plankton at night, this Goa adventure will shatter any preconceptions about India's smallest state.",
+    "inclusions": [
+      "5 nights accommodation near Calangute and Palolem",
+      "Daily breakfast and dinner",
+      "Private vehicle for all transfers",
+      "Scuba diving at Grande Island (2 dives)",
+      "Dudhsagar Falls jeep safari and waterfall trek"
+    ],
+    "exclusions": [
+      "Flights/train to Goa",
+      "Lunch on all days",
+      "Surfing lessons (Rs.800/hr extra)",
+      "Personal equipment and wetsuit (rental available)"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive Goa - Water Sports Welcome",
+        "image": "Baga Beach water sports parasailing jet ski Goa adventure",
+        "activities": [
+          "1:00 PM - Arrive Goa, check in, quick lunch at beach shack",
+          "3:00 PM - Baga Beach water sports afternoon: jet ski (15 min), banana boat ride, parasailing over Baga",
+          "7:00 PM - Dinner at Fiesta Goa or beachside restaurant, adventure briefing for tomorrow's dive"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Grande Island Scuba Diving",
+        "image": "Grande Island Goa scuba diving shipwreck coral reef underwater",
+        "activities": [
+          "7:00 AM - Boat to Grande Island (45 min from Miramar) with dive operator (Barracuda Diving recommended)",
+          "9:00 AM - First scuba dive at Suzy's Wreck (15 m depth, 1944 merchant ship, sea fans, moray eels)",
+          "12:00 PM - Second dive at Bounty Bay (coral reef dive, lion fish, puffer fish, schools of barracuda)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Surfing at Ashwem & Arambol",
+        "image": "Ashwem Beach Goa surfing waves morning sunrise board",
+        "activities": [
+          "6:00 AM - Sunrise surf session at Ashwem Beach (North Goa's best surfing beach, gentler waves, good for beginners)",
+          "10:00 AM - Visit Arambol Beach - bohemian north Goa village, cliff walk to sweet water lake",
+          "4:00 PM - Stand-up paddleboarding (SUP) at Mandrem Beach (calm lagoon, ideal for SUP, Rs.400/hr)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Dudhsagar Falls Trek & Jeep Safari",
+        "image": "Dudhsagar Falls trek Western Ghats Goa adventure waterfall swim",
+        "activities": [
+          "6:00 AM - Early drive to Mollem (2 hrs), jeep safari into Bhagwan Mahavir Wildlife Sanctuary",
+          "10:00 AM - Reach Dudhsagar Falls base, swim in the natural pool below the 310m cascade (permit required)",
+          "3:00 PM - Trek through jungle on the way back, spot gaur, deer, and exotic birds, return to hotel by evening"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "South Goa - Kayaking & Night Plankton",
+        "image": "Palolem kayaking sea kayak Goa South bioluminescent plankton night",
+        "activities": [
+          "8:00 AM - Drive to Palolem (1.5 hrs), morning sea kayaking to Butterfly Beach and back (2 hrs)",
+          "1:00 PM - Lunch and rest, rent scooter to explore Agonda and Cabo de Rama Fort (19th century Portuguese fort)",
+          "9:00 PM - Night kayaking/swimming in Palolem Bay for bioluminescent plankton (season: Oct-Feb)"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Quad Biking & Departure",
+        "image": "Goa quad biking adventure beach dunes off road morning",
+        "activities": [
+          "8:00 AM - Drive back to North Goa, quick quad biking/ATV adventure in the hills near Calangute (1.5 hrs, Rs.600)",
+          "11:00 AM - Final swim at Baga Beach, pack souvenirs and snacks for journey",
+          "1:30 PM - Transfer to airport or station for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goa-luxury-001",
+    "destinationId": "goa",
+    "title": "Goa Ultra-Luxury Beach Retreat",
+    "duration": "7 Days / 6 Nights",
+    "price": "Rs.95000",
+    "priceValue": 95000,
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
+    "description": "Goa's finest luxury experience brings together exclusive heritage villas, private yacht dinners, curated art walks through colonial Panjim, personal spa journeys, and access to Goa's most secluded beaches that most visitors never discover. Stay in award-winning boutique beach resorts, dine at Goa's top fine-dining restaurants, and experience the most refined version of India's favourite beach destination.",
+    "inclusions": [
+      "6 nights in 5-star luxury beach resorts and heritage villas",
+      "All meals (breakfast, lunch, dinner) with premium restaurant options",
+      "Private chauffeur-driven vehicle throughout",
+      "Private sunset yacht dinner on the Arabian Sea",
+      "Daily spa treatment (90 min) at resort wellness centre"
+    ],
+    "exclusions": [
+      "Business class flights to Goa",
+      "Premium wines and spirits",
+      "Tips and gratuities (recommended 10%)",
+      "Personal shopping and gambling at Casino (entry arranged on request)"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival - Luxury Goa Welcome",
+        "image": "Taj Fort Aguada Resort luxury Goa sea view arrival sunset",
+        "activities": [
+          "1:00 PM - Private chauffeur at airport, transfer to Taj Fort Aguada Resort & Spa or W Goa, floral welcome",
+          "4:00 PM - Personal butler arranges private beach chair and sundowners at resort's exclusive beach stretch",
+          "7:30 PM - Welcome dinner at resort's signature restaurant or Fisherman's Wharf Panjim (Goa's finest seafood)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Private Old Goa Art & Heritage",
+        "image": "Old Goa Basilica Bom Jesus private historian tour luxury heritage",
+        "activities": [
+          "9:00 AM - Private historian-guided Old Goa tour: Basilica of Bom Jesus, Se Cathedral, Museum of Christian Art",
+          "1:00 PM - Private lunch at Verandah in the Forest (heritage bungalow, 10 km from Panjim, heritage lunch)",
+          "4:00 PM - Fontainhas art gallery walk with a Goan art curator, aperitifs at a Portuguese-era house cafe"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Private Yacht Day & Sunset Dinner",
+        "image": "Goa private yacht sunset Arabian Sea luxury dinner cruise",
+        "activities": [
+          "9:00 AM - Day cruise on private yacht: snorkeling at Grande Island, dolphin watching, floating lunch on deck",
+          "4:00 PM - Sunset sailing back to Panjim, champagne and canapes on deck as sun sets over Arabia Sea",
+          "8:00 PM - Private gourmet dinner at Thalassa (Greek-Goan seafood restaurant, Vagator sea view)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "North Goa Exclusive Experiences",
+        "image": "Anjuna North Goa exclusive villa pool morning luxury Goa private",
+        "activities": [
+          "10:00 AM - Private spice plantation tour with Ayurvedic herbalist, learn medicinal plants and spice processing",
+          "1:30 PM - Lunch at a luxury villa restaurant with garden-to-table Goan cuisine",
+          "5:00 PM - Exclusive visit to Chapora Fort at sunset arranged by private guide, no crowds, personal photography session"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "South Goa - Secluded Beach Luxury",
+        "image": "Palolem luxury beach villa South Goa private infinity pool sunset",
+        "activities": [
+          "9:00 AM - Private transfer to Leela Goa (Cavelossim) or ISSA Waterfront (South Goa luxury properties)",
+          "12:00 PM - Private beach butler, premium sunbed on Mobor Beach, complimentary water sports",
+          "7:00 PM - Exclusive dinner at The Leela's fine-dining with live classical Indian music, Goan prawn and lobster"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Dudhsagar & Plantation Wellness",
+        "image": "Goa luxury wellness spa massage resort beachside outdoor treatment",
+        "activities": [
+          "7:00 AM - Private jeep (luxury) for Dudhsagar Falls with gourmet packed breakfast en route (not sharing jeep)",
+          "12:00 PM - Plantation owner's bungalow lunch (exclusive arrangement) with Goan thali and local wine",
+          "4:00 PM - Return, 2-hr Balinese and Goan Ayurvedic combined massage at resort spa"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Final Beach Morning & Grand Farewell",
+        "image": "Goa luxury hotel pool morning last day farewell champagne breakfast",
+        "activities": [
+          "7:30 AM - Champagne breakfast on private beach with resort chef",
+          "10:00 AM - Final dip in the Arabian Sea, curated Goan gift hamper presented by hotel",
+          "1:00 PM - Private transfer to Dabolim airport, depart in the style you arrived"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goa-cultural-001",
+    "destinationId": "goa",
+    "title": "Goa Heritage & Spice Culture Tour",
+    "duration": "5 Days / 4 Nights",
+    "price": "Rs.15500",
+    "priceValue": 15500,
+    "image": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=800",
+    "description": "Goa's soul lies not just on its beaches but in its extraordinary layered history, blending Hindu, Portuguese, and Konkani cultures across 450 years of coexistence. This cultural tour explores UNESCO World Heritage churches of Old Goa, the Portuguese architecture of Fontainhas, a traditional Goan spice plantation, ancient Hindu temples, and the vibrant local markets that still feel frozen in time. A journey through Goa's heart.",
+    "inclusions": [
+      "4 nights in heritage-style hotels in Panjim or Old Goa area",
+      "Daily breakfast and dinner",
+      "Private vehicle for all sightseeing",
+      "Licensed cultural guide for Old Goa and Fontainhas walks",
+      "Spice plantation lunch tour (traditional Goan meal included)"
+    ],
+    "exclusions": [
+      "Flights/train to Goa",
+      "Lunch (except spice plantation day)",
+      "Personal expenses and tips",
+      "Photography fees at some churches"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive Panjim - Portuguese Latin Quarter",
+        "image": "Fontainhas Panjim Latin Quarter colorful houses Goa Portuguese heritage",
+        "activities": [
+          "2:00 PM - Arrive Goa, transfer to heritage hotel in Panjim area",
+          "4:00 PM - Guided walk through Fontainhas Latin Quarter - Goa's oldest Portuguese neighbourhood, colourful 18th-century houses",
+          "7:00 PM - Dinner at one of Fontainhas' charming cafes or Viva Panjim restaurant (Goan specialties)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Old Goa - UNESCO World Heritage",
+        "image": "Se Cathedral Old Goa interior golden altar Portuguese Goa Catholic",
+        "activities": [
+          "9:00 AM - Old Goa World Heritage tour: Se Cathedral (1619, largest in Asia), Basilica of Bom Jesus (St Francis Xavier)",
+          "11:30 AM - Church of St Francis of Assisi and Archaeological Museum of Goa (pre-Portuguese Hindu sculptures)",
+          "3:00 PM - Chapel of Our Lady of the Mount (hilltop, panoramic Old Goa views), Convent of St Monica ruins"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Hindu Goa - Temples of Ponda",
+        "image": "Mangeshi Temple Ponda Goa Hindu temple heritage traditional",
+        "activities": [
+          "9:00 AM - Ponda temple circuit: Shri Mangeshi Temple (most visited Hindu temple in Goa, 18th-century)",
+          "11:00 AM - Shri Shantadurga Temple (ornate lamp tower, 1738, unique blend of Hindu-Portuguese architecture)",
+          "2:00 PM - Ponda Spice Plantation tour: walk through cashew, vanilla, nutmeg and cardamom, traditional lunch"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Goa Markets & Coastal Villages",
+        "image": "Mapusa Friday Market Goa local produce spices flowers crowd",
+        "activities": [
+          "8:30 AM - Mapusa Friday Market (Goa's most authentic local market, fresh produce, pickles, Goan sausages)",
+          "11:30 AM - Drive through traditional Goan fishing villages of Siolim and Assagao, visit a local toddy shop",
+          "3:00 PM - Chapora Fort (Vagator) for historical context - built 1617, panoramic coastline views"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Goa Museum & Departure",
+        "image": "Goa State Museum Panjim exhibits cultural history artefacts",
+        "activities": [
+          "9:00 AM - Goa State Museum (history, sculpture, numismatics, paintings), Menezes Braganza Institute (library, azulejos)",
+          "11:30 AM - Final Panjim waterfront walk, buy artisanal Goan cashews and local craft items",
+          "1:00 PM - Transfer to airport/station, carry Goa's unique cultural blend in your memories"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goa-weekend-001",
+    "destinationId": "goa",
+    "title": "Goa Weekend Beach Escape",
+    "duration": "3 Days / 2 Nights",
+    "price": "Rs.10000",
+    "priceValue": 10000,
+    "image": "https://images.unsplash.com/photo-1562602833-0f4ab2fc46e5?w=800",
+    "description": "Goa in a weekend - the perfect antidote to the city grind. Three sun-filled days cover Old Goa's iconic churches, the best of Calangute and Baga beaches, a scenic scooter ride through Vagator and Chapora, and the irresistible energy of Goa's beachside shack culture. This quick getaway packs in enough Goan magic to last until your next visit.",
+    "inclusions": [
+      "2 nights in a beach hotel near Calangute",
+      "Daily breakfast",
+      "Shared airport/station transfers",
+      "Old Goa guided walking tour (2 hrs)",
+      "Anjuna Beach visit and flea market (if Wednesday)"
+    ],
+    "exclusions": [
+      "Flights/train to Goa",
+      "Lunch and dinner on all days",
+      "Water sports and adventure activities",
+      "Personal expenses"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive Goa - Calangute to Vagator",
+        "image": "Calangute Beach sunset Goa first day weekend arrival water",
+        "activities": [
+          "1:00 PM - Arrive Goa, shared transfer to Calangute hotel, check in and freshen up",
+          "4:00 PM - Calangute Beach swim and relaxation, watch fishermen bring in their evening catch",
+          "7:00 PM - Scooter rental (Rs.300/day) and night ride along North Goa coast, dinner at Baga beach shack"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Old Goa & Vagator Day",
+        "image": "Chapora Fort sunset Vagator Goa Dil Chahta Hai iconic view panoramic",
+        "activities": [
+          "9:00 AM - Old Goa guided heritage walk (Basilica, Se Cathedral, 2 hrs, guide included)",
+          "1:00 PM - Lunch at Panjim restaurant, scooter ride north to Vagator Beach - dramatic red cliffs",
+          "4:30 PM - Chapora Fort sunset - immortalised in Bollywood, panoramic north Goa coastline views, beach sundowner"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Anjuna & Departure",
+        "image": "Anjuna Beach rock flea market Goa morning bright colours stalls",
+        "activities": [
+          "8:30 AM - Anjuna Beach morning walk on rocky coastline",
+          "10:00 AM - Anjuna Flea Market (Wednesday) or Anjuna Beach market stalls: jewellery, clothes, spices",
+          "12:30 PM - Final Goan lunch at a local shack, transfer to airport/station"
+        ]
+      }
+    ]
+  }
+]
