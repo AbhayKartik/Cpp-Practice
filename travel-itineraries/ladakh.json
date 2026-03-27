@@ -1,0 +1,145 @@
+[
+  {
+    "id": "ladakh-budget-001",
+    "destinationId": "ladakh",
+    "title": "Ladakh Budget Explorer",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹18,000",
+    "priceValue": 18000,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "Experience the raw beauty of Ladakh on a budget. This package covers Leh town, Pangong Lake, and Nubra Valley with basic but comfortable guesthouses and shared transfers.",
+    "inclusions": ["5 nights accommodation in guesthouses", "Daily breakfast and dinner", "Shared Innova transfers for sightseeing", "Inner Line Permits for Nubra and Pangong", "Local guide for monastery visits"],
+    "exclusions": ["Flights to/from Leh", "Lunch", "Personal expenses", "Rohtang/Khardung La permit fee", "Travel insurance"],
+    "days": [
+      {"day": 1, "title": "Arrival in Leh – Acclimatization Day", "image": "Leh town aerial view with Leh Palace on hilltop Ladakh", "activities": ["Arrive at Kushok Bakula Rimpochhe Airport (3,524m); transfer to hotel", "Complete rest for acclimatization – light walk around Leh Market in the evening", "Visit Leh Palace (exterior) and Shanti Stupa at sunset (short walk only)"]},
+      {"day": 2, "title": "Leh Local Sightseeing", "image": "Leh Palace ancient ruins daytime Ladakh valley", "activities": ["Morning: Visit Shanti Stupa for sunrise panorama over the Stok Kangri range", "Afternoon: Explore Hemis Monastery (45 km, 1.5 hrs) – largest monastery in Ladakh", "Evening: Stroll through Leh Main Bazaar and Hall of Fame Museum"]},
+      {"day": 3, "title": "Leh to Nubra Valley via Khardung La", "image": "Khardung La pass snow-covered highest motorable road sign Ladakh", "activities": ["Early morning drive to Nubra Valley via Khardung La Pass (5,602m – world's highest motorable road)", "Stop at Khardung La for photos (brief stop, max 20 min due to altitude)", "Visit Diskit Monastery and giant Maitreya Buddha statue; camel ride on Hunder sand dunes (optional)"]},
+      {"day": 4, "title": "Nubra to Pangong Lake", "image": "Pangong Tso lake turquoise blue waters mountains Ladakh 3 Idiots", "activities": ["Drive from Nubra to Pangong Lake via Shyok route (approx 5 hrs)", "Arrive at Pangong Tso (4,350m) – the iconic blue lake; check in to lakeside camp", "Evening walk along the lake shore; enjoy the surreal colour change of the lake at dusk"]},
+      {"day": 5, "title": "Pangong Lake to Leh", "image": "Pangong Lake sunrise golden hour reflection mountains", "activities": ["Early morning sunrise at Pangong Lake – one of Ladakh's most photographed moments", "Drive back to Leh via Chang La Pass (5,360m) – third highest motorable pass", "Evening free for shopping in Leh Market (Pashmina, Thangka, turquoise jewellery)"]},
+      {"day": 6, "title": "Departure from Leh", "image": "Leh Airport morning mountains backdrop departure Ladakh", "activities": ["Morning leisure; early check-out", "Transfer to Kushok Bakula Airport for departure flight", "End of Ladakh Budget Explorer"]}
+    ]
+  },
+  {
+    "id": "ladakh-family-001",
+    "destinationId": "ladakh",
+    "title": "Ladakh Family Discovery",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹30,000",
+    "priceValue": 30000,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "A family-friendly Ladakh tour designed with proper acclimatization, moderate activities, and comfortable stays. Perfect for families with children or elderly members.",
+    "inclusions": ["6 nights accommodation in 3-star hotels/guesthouses", "Daily breakfast and dinner", "Private Innova transfers throughout", "Inner Line Permits", "Camel safari at Hunder sand dunes", "Local sightseeing guide"],
+    "exclusions": ["Flights to/from Leh", "Lunch", "Personal expenses", "Entry fees to monasteries", "Travel insurance"],
+    "days": [
+      {"day": 1, "title": "Arrival & Rest in Leh", "image": "Leh town panoramic view mountains backdrop Ladakh valley green", "activities": ["Arrive Leh Airport; transfer to hotel (3-star)", "Full day rest – complete acclimatization is essential for families", "Light dinner; early bedtime recommended for altitude adjustment"]},
+      {"day": 2, "title": "Leh Monasteries & Shanti Stupa", "image": "Shanti Stupa white dome Leh panoramic valley view dusk", "activities": ["Morning: Visit Shanti Stupa (short drive + 15-step climb) for panoramic valley views", "Afternoon: Thiksey Monastery (resembles Potala Palace), Shey Palace", "Evening: Explore Leh Main Bazaar for local handicrafts"]},
+      {"day": 3, "title": "Magnetic Hill & Sangam Point", "image": "Sangam confluence Zanskar Indus River Ladakh aerial view", "activities": ["Morning: Visit Magnetic Hill (optical illusion road), Gurudwara Pathar Sahib", "Sangam – confluence of Indus and Zanskar rivers (excellent photo opportunity)", "Afternoon: Alchi Monastery (68 km from Leh) – 11th century murals; return by evening"]},
+      {"day": 4, "title": "Nubra Valley Excursion", "image": "Hunder sand dunes Nubra Valley Bactrian camels double-hump Ladakh", "activities": ["Drive to Nubra via Khardung La Pass; brief stop at the summit for photos", "Visit Diskit Monastery – 14th century Gelugpa monastery, giant Future Buddha statue", "Camel ride on Hunder cold desert sand dunes – family favourite activity"]},
+      {"day": 5, "title": "Nubra to Pangong Lake", "image": "Pangong Lake Shayok Valley road panoramic turquoise water Ladakh", "activities": ["Scenic drive from Nubra to Pangong Tso via Shyok Valley (approx 5 hours)", "Arrive Pangong and settle into lakeside camp/guesthouse", "Evening walk along the lake; bonfire at the camp (if available)"]},
+      {"day": 6, "title": "Pangong Sunrise & Return to Leh", "image": "Pangong Lake sunrise pink golden hour mountains reflection", "activities": ["Wake up early for magical Pangong sunrise", "Drive back to Leh; en route visit Rancho's School (3 Idiots filming location) at Druk Padma Karpo School", "Evening free in Leh; dinner at local restaurant"]},
+      {"day": 7, "title": "Departure", "image": "Leh Airport gate morning departure mountains Ladakh last view", "activities": ["Morning: Last shopping opportunity in Leh Market", "Transfer to airport for departure", "End of Ladakh Family Discovery"]}
+    ]
+  },
+  {
+    "id": "ladakh-honeymoon-001",
+    "destinationId": "ladakh",
+    "title": "Ladakh Romantic Escape",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹55,000",
+    "priceValue": 55000,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "A romantic journey through the moonscapes of Ladakh for honeymooners. Private transfers, lakeside glamping at Pangong, candlelit dinners under starlit skies.",
+    "inclusions": ["6 nights accommodation (boutique hotels + lakeside glamping tent)", "Daily breakfast and candlelit dinner", "Private cab (Innova/SUV) throughout", "Inner Line Permits", "Sunset shikara ride on Pangong", "Couple spa session at hotel"],
+    "exclusions": ["Flights to/from Leh", "Lunch", "Personal expenses", "Travel insurance", "Monument entry fees"],
+    "days": [
+      {"day": 1, "title": "Arrival – Romantic Leh Welcome", "image": "Leh boutique hotel room view Himalayan peaks romantic Ladakh", "activities": ["Arrive Leh; private transfer to boutique hotel", "Rest day with light walk in Leh Garden in the evening", "Welcome dinner at hotel with view of the Stok Kangri range"]},
+      {"day": 2, "title": "Leh Sightseeing", "image": "Leh Palace ancient stone walls romantic couple viewpoint Ladakh", "activities": ["Morning: Shanti Stupa sunrise views – peaceful and romantic", "Afternoon: Hemis Monastery and Thiksey Monastery", "Evening: Leh Bazaar for couple shopping – Pashmina shawls, jewellery"]},
+      {"day": 3, "title": "Nubra Valley – Cold Desert Romance", "image": "Nubra Valley sand dunes camel ride couple sunset golden hour Ladakh", "activities": ["Drive over Khardung La Pass (world's highest motorable road)", "Private camel ride at Hunder sand dunes during golden hour", "Stargazing dinner at Nubra camp – unmatched clear-sky experience"]},
+      {"day": 4, "title": "Nubra to Pangong", "image": "Pangong Tso lake shore tent camp couple evening blue water Ladakh", "activities": ["Scenic drive to Pangong Tso via Shyok Valley", "Settle into premium glamping tent directly on the lake shore", "Sunset at Pangong Lake – mesmerising blue-to-violet colour shift"]},
+      {"day": 5, "title": "Pangong Lake Day", "image": "Pangong Lake dawn pink sky reflection couple Ladakh mountains", "activities": ["Sunrise at Pangong Lake – private and surreal", "Leisure morning: kayaking on the lake (if available)", "Afternoon: explore nearby hillock for unobstructed lake views; evening bonfire dinner"]},
+      {"day": 6, "title": "Return to Leh – Leisure", "image": "Leh Market couple shopping Pashmina shawls evening Ladakh", "activities": ["Morning drive back to Leh via Chang La Pass", "Afternoon: couple spa at hotel", "Farewell candlelit dinner at Leh's finest restaurant"]},
+      {"day": 7, "title": "Departure", "image": "Ladakh mountain road early morning mist romantic departure", "activities": ["Morning leisure; late checkout if possible", "Transfer to Leh Airport", "End of Ladakh Romantic Escape"]}
+    ]
+  },
+  {
+    "id": "ladakh-adventure-001",
+    "destinationId": "ladakh",
+    "title": "Ladakh Adventure Quest",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹28,000",
+    "priceValue": 28000,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "Designed for thrill-seekers, this package includes Zanskar River rafting, high-altitude trekking, mountain biking, and overnight camping under Ladakh's star-filled skies.",
+    "inclusions": ["6 nights accommodation (hotels + camping)", "Daily breakfast and dinner", "Private Innova transfers", "Zanskar River rafting (Grade III-IV)", "Mountain biking rental (2 days)", "All permits"],
+    "exclusions": ["Flights to/from Leh", "Lunch", "Personal expenses", "Travel insurance (strongly recommended)", "Trekking equipment rental"],
+    "days": [
+      {"day": 1, "title": "Arrival & Acclimatization", "image": "Leh town morning mountains clear sky adventure base camp Ladakh", "activities": ["Arrive Leh; transfer to hotel; full rest for acclimatization", "Evening light walk in Leh; gear briefing with adventure guide", "Early dinner and rest – crucial before high-altitude activities"]},
+      {"day": 2, "title": "Leh & Environs on Mountain Bike", "image": "Mountain biking Ladakh valley gravel trail Indus River backdrop", "activities": ["Morning: mountain bike ride from Leh to Choglamsar village and back (25 km)", "Afternoon: Hall of Fame Museum; Leh War Memorial", "Evening: Briefing for Zanskar rafting tomorrow"]},
+      {"day": 3, "title": "Zanskar River Rafting & Nubra Drive", "image": "Zanskar River white water rafting Grade IV rapids Ladakh gorge", "activities": ["Early morning: Zanskar River rafting from Chilling to Nimmu (Grade III-IV, 26 km, ~4 hrs)", "Post-rafting drive to Nubra Valley via Khardung La", "Evening: Camping at Nubra with bonfire"]},
+      {"day": 4, "title": "Nubra – Sand Dunes & Camel Ride", "image": "Hunder sand dunes Bactrian camels dusk adventure Ladakh trekker", "activities": ["Morning: Sunrise trek on Nubra sand dunes (self-guided, 5 km loop)", "Camel safari at Hunder during golden hour", "Afternoon: Diskit Monastery visit; overnight camp in Nubra"]},
+      {"day": 5, "title": "Pangong Lake & Camping", "image": "Pangong Lake trekker camp high altitude blue water Ladakh adventure", "activities": ["Drive from Nubra to Pangong via Shyok Valley", "Arrive Pangong; acclimatize; evening hike to nearby ridge for aerial lake view", "Overnight at lakeside camp under billions of stars"]},
+      {"day": 6, "title": "Pangong to Leh via Chang La", "image": "Chang La pass 17688 ft signboard snow ice adventure trekker Ladakh", "activities": ["Sunrise at Pangong; pack camp", "Drive back to Leh via Chang La (5,360m) – stop at the summit", "Evening: Mountain biking in Leh environs (optional 2nd day biking)"]},
+      {"day": 7, "title": "Departure", "image": "Ladakh mountains farewell view from aircraft window clear sky", "activities": ["Morning: Last visit to Leh Shanti Stupa for parting view", "Transfer to airport", "End of Ladakh Adventure Quest"]}
+    ]
+  },
+  {
+    "id": "ladakh-luxury-001",
+    "destinationId": "ladakh",
+    "title": "Ladakh Luxury Himalayan Journey",
+    "duration": "8 Days / 7 Nights",
+    "price": "₹1,40,000",
+    "priceValue": 140000,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "Indulge in Ladakh's breathtaking landscapes from the comfort of luxury boutique camps and heritage hotels. Private helicopter option to Pangong, fine dining, and personalised experiences.",
+    "inclusions": ["7 nights at luxury boutique hotels and premium glamping camps", "All meals (breakfast, lunch, dinner)", "Private SUV with chauffeur throughout", "All permits and entry fees", "Helicopter transfer to Pangong Lake (one-way)", "Private monastery tour with English-speaking scholar guide", "Couple spa at Leh Apricot hotel"],
+    "exclusions": ["Flights to/from Leh", "Alcoholic beverages", "Personal shopping", "Travel insurance", "Gratuities"],
+    "days": [
+      {"day": 1, "title": "Arrival – Luxury Welcome in Leh", "image": "Luxury boutique hotel Leh mountains view private balcony Ladakh", "activities": ["Arrival at Leh; private luxury transfer to 5-star boutique hotel", "Full acclimatization rest; oxygen supply available in room", "Welcome dinner with traditional Ladakhi cuisine at hotel rooftop"]},
+      {"day": 2, "title": "Leh Heritage Tour", "image": "Thiksey Monastery sunrise golden hour Buddhist monks prayer Ladakh", "activities": ["Sunrise at Shanti Stupa with hot Ladakhi butter tea served by guide", "Private guided tour of Hemis Monastery (richest monastery in Ladakh)", "Afternoon: Thiksey Monastery; evening Leh Palace interior tour"]},
+      {"day": 3, "title": "Alchi & Lamayuru", "image": "Lamayuru Moonland landscape 11th century monastery Ladakh dramatic", "activities": ["Drive to Lamayuru (120 km, 3 hrs) – oldest monastery in Ladakh set in surreal moonland", "Lunch at Alchi village; explore Alchi Monastery (11th-century murals)", "Return to Leh by evening; sunset cocktails on hotel terrace"]},
+      {"day": 4, "title": "Helicopter to Pangong Lake", "image": "Helicopter landing Pangong Lake Ladakh premium aerial view mountains", "activities": ["Luxury helicopter transfer from Leh to Pangong Lake (approx 30 min scenic flight)", "Check in to premium lakeside camp with en-suite facilities", "Private kayaking session on Pangong Tso"]},
+      {"day": 5, "title": "Pangong Leisure Day", "image": "Pangong Lake premium glamping tent interior luxury Ladakh sunrise", "activities": ["Sunrise photography session on the lake shore with professional photographer", "Morning yoga session by the lake", "Afternoon: private guided hike to the hillock above the lake for aerial views; gourmet picnic lunch"]},
+      {"day": 6, "title": "Nubra Valley – Desert Luxury", "image": "Nubra Valley luxury camp desert sand dunes stars night Ladakh glamping", "activities": ["Scenic road from Pangong to Nubra via Shyok Valley", "Private camel ride on Hunder dunes at golden hour", "Overnight at luxury tented camp with stargazing dinner"]},
+      {"day": 7, "title": "Nubra to Leh via Khardung La", "image": "Khardung La sign 18380ft luxury SUV parked snow Ladakh summit", "activities": ["Drive over Khardung La Pass with champagne stop at the summit", "Return to Leh; afternoon spa treatment at hotel", "Farewell gourmet dinner with live Ladakhi folk music performance"]},
+      {"day": 8, "title": "Departure", "image": "Leh Airport morning Himalayan peaks clear blue sky luxury departure", "activities": ["Leisurely breakfast; late checkout", "Private transfer to Leh Airport", "End of Ladakh Luxury Himalayan Journey"]}
+    ]
+  },
+  {
+    "id": "ladakh-cultural-001",
+    "destinationId": "ladakh",
+    "title": "Ladakh Cultural Immersion",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹22,000",
+    "priceValue": 22000,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "Explore the rich Tibetan Buddhist heritage of Ladakh through its ancient monasteries, colourful festivals, traditional villages, and vibrant local culture.",
+    "inclusions": ["5 nights accommodation in heritage guesthouses", "Daily breakfast and dinner", "Private Innova transfers", "Monastery entry fees", "Local cultural guide", "Traditional Ladakhi cooking class"],
+    "exclusions": ["Flights to/from Leh", "Lunch", "Personal expenses", "Camera fees at some monasteries", "Travel insurance"],
+    "days": [
+      {"day": 1, "title": "Arrival & Leh Culture Walk", "image": "Leh old town narrow lanes Buddhist prayer flags Ladakh culture", "activities": ["Arrive Leh; rest and acclimatize", "Evening walking tour of Leh's old town – prayer wheels, chortens, mani walls", "Visit Leh Main Bazaar for local products – dried apricots, Pashmina, Thangka paintings"]},
+      {"day": 2, "title": "East Ladakh Monasteries", "image": "Hemis Monastery courtyard monks red robes festival Ladakh", "activities": ["Morning: Hemis Monastery – largest and wealthiest in Ladakh; attend morning prayer ceremony if available", "Afternoon: Thiksey Monastery (resembles Potala Palace Lhasa), Shey Palace", "Evening: Stagna Monastery; local village interactions"]},
+      {"day": 3, "title": "West Ladakh – Alchi & Lamayuru", "image": "Alchi Monastery 11th century wooden carvings murals ancient Ladakh", "activities": ["Drive west to Alchi Monastery (68 km) – unique for its 11th-century wooden architecture and murals", "Lunch at local dhaba in Saspool village", "Continue to Lamayuru Monastery (120 km) set in striking moonland landscape; check in to guesthouse"]},
+      {"day": 4, "title": "Nubra Valley & Diskit Monastery", "image": "Diskit Monastery Maitreya Buddha giant statue Nubra Valley Ladakh", "activities": ["Drive Leh to Nubra via Khardung La Pass", "Visit Diskit Monastery – 14th century Gelugpa monastery with giant Maitreya Buddha (32m)", "Traditional cooking class in Nubra village home – momos, Skyu, butter tea"]},
+      {"day": 5, "title": "Sumur Village & Return to Leh", "image": "Sumur village Ladakh apricot trees stream traditional house mountains", "activities": ["Morning: Visit Sumur Monastery (Samstanling Gompa) – serene and less touristy", "Walk through Sumur village; apricot orchards (July-Aug) or frozen streams (winter)", "Afternoon drive back to Leh via Khardung La; evening Leh Bazaar farewell walk"]},
+      {"day": 6, "title": "Departure", "image": "Ladakh prayer flags hilltop wind culture spiritual farewell morning", "activities": ["Morning: Brief visit to Namgyal Tsemo Gompa (easy hilltop monastery above Leh Palace)", "Transfer to Leh Airport", "End of Ladakh Cultural Immersion"]}
+    ]
+  },
+  {
+    "id": "ladakh-weekend-001",
+    "destinationId": "ladakh",
+    "title": "Ladakh Long Weekend Escape",
+    "duration": "4 Days / 3 Nights",
+    "price": "₹14,000",
+    "priceValue": 14000,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "A quick but memorable Ladakh getaway covering Leh town, key monasteries, and Magnetic Hill in just 4 days. Ideal for a long weekend trip.",
+    "inclusions": ["3 nights accommodation in comfortable guesthouse", "Daily breakfast", "Shared cab sightseeing (2 days)", "Monastery entry fees", "Airport transfers"],
+    "exclusions": ["Flights to/from Leh", "All lunches and dinners", "Personal expenses", "Inner Line Permits (for Pangong/Nubra – not covered)", "Travel insurance"],
+    "days": [
+      {"day": 1, "title": "Arrival & Acclimatization", "image": "Leh town evening lights mountains backdrop Ladakh first view", "activities": ["Arrive Leh; transfer to guesthouse; MANDATORY rest", "Evening short walk to Leh Market only (flat ground)", "Early dinner and sleep – no exertion on Day 1"]},
+      {"day": 2, "title": "Leh City & East Monasteries", "image": "Thiksey Monastery morning light golden hour Ladakh valley backdrop", "activities": ["Morning: Shanti Stupa sunrise panorama", "Hemis and Thiksey Monastery visit (40-45 km round trip)", "Evening: Leh Palace and Leh Bazaar stroll"]},
+      {"day": 3, "title": "West Leh Day Tour", "image": "Sangam Indus Zanskar River confluence Ladakh aerial turquoise green", "activities": ["Magnetic Hill and Gurudwara Pathar Sahib (30 km)", "Sangam point – Indus-Zanskar confluence (spectacular colour contrast)", "Afternoon: Hall of Fame (Indian Army museum); local craft shopping in Leh"]},
+      {"day": 4, "title": "Morning Leisure & Departure", "image": "Ladakh morning Stok Kangri peak sunrise clear sky farewell", "activities": ["Morning: Breakfast and last Leh Market visit", "Transfer to Leh Airport for onward flight", "End of Ladakh Long Weekend Escape"]}
+    ]
+  }
+]
