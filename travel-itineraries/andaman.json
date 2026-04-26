@@ -1,0 +1,557 @@
+[
+  {
+    "id": "andaman-budget-001",
+    "destinationId": "andaman",
+    "title": "Andaman Budget Beach Break",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹14,500",
+    "priceValue": 14500,
+    "image": "https://images.unsplash.com/photo-1559628233-100c798642d5?w=800",
+    "description": "Discover the stunning blue waters and powder-white beaches of the Andaman Islands without spending a fortune. This well-planned budget package covers Port Blair's historic sites, the pristine beaches of Havelock Island, and a visit to the emerald Neil Island. Budget guesthouses and local ferry services keep costs low while delivering an authentic island experience.",
+    "inclusions": [
+      "4 nights accommodation in budget guesthouses",
+      "Daily breakfast and dinner",
+      "Government ferry tickets (Port Blair–Havelock–Neil–Port Blair)",
+      "Cellular Jail sound and light show ticket",
+      "Snorkeling at Elephant Beach (basic equipment)"
+    ],
+    "exclusions": [
+      "Flight tickets to Port Blair",
+      "Lunch on all days",
+      "Scuba diving and advanced water sports",
+      "Personal expenses and tips"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival Port Blair – Cellular Jail",
+        "image": "Cellular Jail Port Blair historical monument Andaman",
+        "activities": [
+          "1:00 PM - Arrive at Veer Savarkar International Airport, transfer to Port Blair guesthouse",
+          "3:30 PM - Visit Cellular Jail National Memorial (open 9 AM–5 PM, ₹30 entry) – powerful colonial era prison",
+          "6:30 PM - Cellular Jail Sound and Light show (evening show at 7:15 PM, Hindi) – haunting historical narrative"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ross Island & Corbyn's Cove Beach",
+        "image": "Ross Island ruins overgrown British colonial Andaman Port Blair",
+        "activities": [
+          "8:30 AM - Take a boat to Ross Island (departs Phoenix Bay Jetty, 15 min) – explore British-era ruins overgrown with roots",
+          "11:00 AM - Boat to North Bay Island for optional glass-bottom boat ride (₹500, 30 min)",
+          "3:00 PM - Afternoon at Corbyn's Cove Beach (6 km from Port Blair), safe swimming, coconut water"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Havelock Island – Radhanagar Beach",
+        "image": "Radhanagar Beach Havelock Island turquoise sea Andaman",
+        "activities": [
+          "6:00 AM - Government ferry from Phoenix Bay to Havelock Island (2.5 hrs, advance booking required)",
+          "10:30 AM - Check in to guesthouse, rent bicycle (₹150/day) to ride to Radhanagar Beach (Beach 7)",
+          "4:00 PM - Sunset at Radhanagar Beach (Asia's best beach 2004 – Time magazine), peaceful evening walk"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Elephant Beach Snorkeling",
+        "image": "Elephant Beach coral reef snorkeling Havelock Andaman",
+        "activities": [
+          "8:00 AM - Morning boat to Elephant Beach (30 min each way) or trek through jungle (45 min)",
+          "9:00 AM - Snorkeling over vibrant coral reef at Elephant Beach (equipment included, shallow reef)",
+          "12:00 PM - Return to Havelock, check out, afternoon ferry to Neil Island (1 hr), explore Bharatpur Beach"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Neil Island & Return to Port Blair",
+        "image": "Neil Island Natural Bridge rock formation Andaman sunrise",
+        "activities": [
+          "7:00 AM - Early morning visit to Natural Bridge (Neil Island's rock arch, best at sunrise)",
+          "9:00 AM - Explore Laxmanpur Beach (sunsets) and Sitapur Beach (sunrises) on rented bicycle",
+          "1:00 PM - Ferry back to Port Blair (2 hrs), transfer to airport for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "andaman-family-001",
+    "destinationId": "andaman",
+    "title": "Andaman Islands Family Adventure",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹32,000",
+    "priceValue": 32000,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+    "description": "Create magical family memories on the pristine Andaman Islands with this all-inclusive family package. Children will be thrilled by glass-bottom boat rides, gentle snorkeling over coral gardens, and the historic Cellular Jail. Parents and teens can explore mangrove creeks, learn about marine life at the fisheries museum, and unwind on some of Asia's most beautiful beaches.",
+    "inclusions": [
+      "5 nights accommodation in family rooms (hotel + beach resort)",
+      "Daily breakfast and dinner",
+      "Private ferry and transport arrangements",
+      "Elephant Beach snorkeling (family, guided)",
+      "Glass-bottom boat ride and North Bay Island tour"
+    ],
+    "exclusions": [
+      "Flight tickets to Port Blair",
+      "Lunch on all days",
+      "Scuba diving (available at extra cost)",
+      "Personal expenses and additional activities"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival Port Blair – Island Welcome",
+        "image": "Port Blair harbour ferry terminal Andaman Islands family arrival",
+        "activities": [
+          "1:00 PM - Arrive at Port Blair, transfer to hotel, check in",
+          "3:30 PM - Samudrika Naval Marine Museum (fascinating sea life exhibits, family-friendly, ₹50 entry)",
+          "5:30 PM - Corbyn's Cove Beach – safe calm waters for kids, short camel ride on beach (optional)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Cellular Jail & Water Sports",
+        "image": "Cellular Jail museum exhibits freedom fighters Andaman Port Blair",
+        "activities": [
+          "9:00 AM - Cellular Jail guided tour – learn about India's freedom fighters and colonial brutality (2 hrs)",
+          "12:00 PM - Lunch break, drive to Marine Hill for panoramic view of Port Blair harbour",
+          "3:00 PM - North Bay Island (by boat, 20 min) – glass-bottom boat ride and coral viewing for the whole family"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Havelock – Beach Paradise",
+        "image": "Havelock Island beach family children playing Andaman turquoise",
+        "activities": [
+          "6:00 AM - Cruise ferry to Havelock Island (2–2.5 hrs), check in to beach resort",
+          "11:00 AM - Kalapathar Beach – pristine black-rock beach with crystal clear water, excellent for photos",
+          "4:00 PM - Radhanagar Beach – shallow safe swimming for kids, build sandcastles, evening bonfire (if arranged by resort)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Elephant Beach Family Snorkeling",
+        "image": "Elephant Beach snorkeling family coral reef Havelock Andaman",
+        "activities": [
+          "8:30 AM - Boat to Elephant Beach, guided family snorkeling with life jackets provided for children",
+          "11:30 AM - Visit jungle nature trail behind Elephant Beach (easy 30-min walk, spot monitor lizards)",
+          "3:00 PM - Return to resort, swimming pool afternoon, parents can book a couples massage at resort spa"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Neil Island Day Trip",
+        "image": "Neil Island Bharatpur Beach calm shallow water family Andaman",
+        "activities": [
+          "7:00 AM - Morning ferry to Neil Island (1 hr), rent cycles for the family",
+          "8:30 AM - Bharatpur Beach – excellent for swimming and safe snorkeling (corals 50 m from shore)",
+          "1:00 PM - Visit Natural Bridge rock arch, picnic lunch, ferry back to Havelock, overnight stay"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Return to Port Blair & Departure",
+        "image": "Port Blair Marina Park Aberdeen Bazar Andaman shopping",
+        "activities": [
+          "7:00 AM - Morning ferry back to Port Blair (2.5 hrs)",
+          "10:30 AM - Anthropological Museum (tribal history and culture of Andaman tribes)",
+          "1:00 PM - Aberdeen Bazar shopping for shells, pearls, and Andaman souvenirs, transfer to airport"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "andaman-honeymoon-001",
+    "destinationId": "andaman",
+    "title": "Andaman Romantic Island Escape",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹48,000",
+    "priceValue": 48000,
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800",
+    "description": "Lose yourselves in the untouched paradise of the Andaman Islands on this bespoke honeymoon package. Stay in romantic beach-facing cottages, snorkel hand-in-hand over fluorescent coral reefs, and share a sunrise at Radhanagar Beach, repeatedly voted Asia's best. With private sunset cruises, candlelit seafood dinners, and luxurious couple spa treatments, this is romance defined by the ocean.",
+    "inclusions": [
+      "5 nights in sea-facing premium rooms and beach cottage",
+      "Daily breakfast and special romantic dinners",
+      "Private speedboat transfers for Havelock trips",
+      "Couple snorkeling experience and sunset cruise",
+      "Welcome flower decoration and fruit basket on arrival"
+    ],
+    "exclusions": [
+      "Flight tickets to Port Blair",
+      "Lunch on all days",
+      "Scuba diving (available at extra cost)",
+      "Alcoholic beverages and personal expenses"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival – Romance by the Sea",
+        "image": "Port Blair beach hotel sea view romantic Andaman honeymoon sunset",
+        "activities": [
+          "1:00 PM - Arrive Port Blair, flower-decorated car transfers to sea-facing boutique hotel",
+          "4:00 PM - Sunset walk at Corbyn's Cove Beach, private seaside tea/coffee setup arranged by hotel",
+          "7:30 PM - Welcome candlelit dinner at beachside restaurant with grilled Andaman lobster and seafood"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ross Island Romance & Havelock Bound",
+        "image": "Ross Island ruins romantic couple walk Andaman jungle colonial",
+        "activities": [
+          "8:30 AM - Hand-in-hand exploration of Ross Island ruins (British colonial era, now home to spotted deer and peacocks)",
+          "11:00 AM - Private speedboat transfer to Havelock Island (45 min vs 2.5-hr ferry)",
+          "5:00 PM - Sunset stroll on Kalapathar Beach (secluded, dramatic black rocks, perfect for photos)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Radhanagar Beach – Asia's Best",
+        "image": "Radhanagar Beach Havelock Island sunrise couple Andaman romantic",
+        "activities": [
+          "6:00 AM - Sunrise at Radhanagar Beach (Beach No.7) – golden light on turquoise sea, practically deserted",
+          "10:00 AM - Swim in warm shallow waters, sunbathe on pristine white sand",
+          "6:00 PM - Sunset cruise from Havelock jetty on private boat (1.5 hrs), champagne and snacks on deck"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Coral Reef Snorkeling & Spa",
+        "image": "Havelock Elephant Beach coral reef couple snorkeling Andaman",
+        "activities": [
+          "8:30 AM - Private guided snorkeling at Elephant Beach – spot angel fish, sea turtles, parrot fish over coral gardens",
+          "12:30 PM - Light lunch back at resort, leisurely afternoon",
+          "3:00 PM - Couples' spa treatment at resort (60-min relaxation massage each), evening candlelit dinner on beach"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Neil Island – Serenity & Seclusion",
+        "image": "Neil Island secluded beach couple romantic sunset Andaman",
+        "activities": [
+          "8:00 AM - Ferry to Neil Island, rent scooter for two and explore the tiny island leisurely",
+          "10:00 AM - Laxmanpur Beach 2 – one of Andaman's most beautiful, almost untouched sunset beaches",
+          "5:00 PM - Natural Bridge at sunset, peaceful evening on the island, overnight stay in beach cottage"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Morning Swim & Departure",
+        "image": "Neil Island Sitapur Beach sunrise tranquil Andaman",
+        "activities": [
+          "6:00 AM - Sunrise at Sitapur Beach (Neil Island's dedicated sunrise point)",
+          "8:30 AM - Final breakfast, pack and board ferry to Port Blair (2 hrs)",
+          "12:30 PM - Transfer to Port Blair airport for departure, cherishing memories of paradise"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "andaman-adventure-001",
+    "destinationId": "andaman",
+    "title": "Andaman Deep-Sea Adventure",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹25,000",
+    "priceValue": 25000,
+    "image": "https://images.unsplash.com/photo-1504253163759-c23fccaebb55?w=800",
+    "description": "For those who seek adventure beneath and above the waves, the Andaman Islands offer a thrilling playground. This action-packed package covers scuba diving at some of India's best dive sites, sea kayaking through mangrove creeks, deep-sea fishing, and jungle trekking on Baratang Island to see mud volcanoes and limestone caves. Every day is an unforgettable adrenaline adventure.",
+    "inclusions": [
+      "5 nights accommodation in dive-friendly guesthouses and beach camps",
+      "Daily breakfast and dinner",
+      "PADI Open Water scuba diving course (2 dives included)",
+      "Sea kayaking in mangroves (half day)",
+      "Baratang Island trip including limestone caves and mud volcano"
+    ],
+    "exclusions": [
+      "Flights to Port Blair",
+      "Lunch on all days",
+      "Additional scuba dives beyond package (₹1500/dive)",
+      "Personal diving/snorkeling gear (rental available)"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Port Blair – Dive Briefing & Island Recon",
+        "image": "Port Blair scuba diving briefing dive school Andaman adventure",
+        "activities": [
+          "1:00 PM - Arrive Port Blair, transfer to dive-centric guesthouse at Corbyn's Cove area",
+          "3:00 PM - Visit dive center for briefing, medical form, equipment fitting for tomorrow's dive",
+          "5:30 PM - North Bay Island kayak (optional, sunset timing) or Corbyn's Cove evening swim"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Baratang Island – Limestone Caves & Mud Volcano",
+        "image": "Baratang Island limestone cave stalactite Andaman jungle creek",
+        "activities": [
+          "4:00 AM - Very early departure by bus convoy through Jarawa Tribal Reserve to Baratang Island (3 hrs, convoy compulsory)",
+          "8:00 AM - Mangrove creek boat ride to Limestone Caves (UNESCO value, stunning stalactites and stalagmites)",
+          "11:00 AM - Trek to Baratang Mud Volcano (active, rare geological wonder), return convoy to Port Blair by 6 PM"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Havelock – Open Water Scuba Diving",
+        "image": "Havelock Island scuba diving coral reef colorful fish Andaman",
+        "activities": [
+          "6:00 AM - Speedboat to Havelock (45 min), check in, head to dive center",
+          "9:00 AM - First scuba dive at Aquarium dive site (12 m, stunning coral garden with schools of fish)",
+          "2:00 PM - Second dive at Nemo Reef (Nemo's home in Andaman, clownfish, moray eels, 15 m depth)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Advanced Dive & Sea Kayaking",
+        "image": "Sea kayaking mangrove creek Havelock Andaman adventure morning",
+        "activities": [
+          "7:00 AM - Advanced scuba dive at Turtle Bay (spot hawksbill turtles, 20 m depth)",
+          "11:00 AM - Half-day sea kayaking through mangrove creeks south of Havelock – spot kingfishers, mudskippers",
+          "4:00 PM - Snorkeling session at Elephant Beach, evening at Radhanagar Beach for sunset"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Neil Island – Night Snorkeling & Sea Walk",
+        "image": "Neil Island night snorkeling bioluminescent plankton Andaman",
+        "activities": [
+          "8:00 AM - Morning ferry to Neil Island, set up at dive-friendly guesthouse",
+          "10:00 AM - Sea walk at Bharatpur Beach (walking on seabed with helmets, observe marine life up close)",
+          "8:00 PM - Night snorkeling in Bharatpur Bay (bioluminescent plankton light show if season permits)"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Deep-Sea Fishing & Departure",
+        "image": "Deep sea fishing Andaman Islands tuna barracuda sport fishing",
+        "activities": [
+          "5:30 AM - Pre-dawn deep-sea fishing charter from Neil Island jetty (catch: tuna, barracuda, giant trevally)",
+          "9:00 AM - Return with catch, have your fish cooked by local restaurant (fresh catch meal)",
+          "1:00 PM - Ferry to Port Blair, transfer to airport for onward journey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "andaman-luxury-001",
+    "destinationId": "andaman",
+    "title": "Andaman Ultra-Luxury Island Retreat",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹1,30,000",
+    "priceValue": 130000,
+    "image": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=800",
+    "description": "Experience the Andaman Islands at their most sublime with this ultra-luxury package. Stay in the finest overwater bungalows and premium beach villas, dive at exclusive sites with a private dive master, cruise to uninhabited islands on a private yacht, and indulge in a therapeutic spa journey inspired by ancient coastal healing traditions. This is island living at its most extraordinary.",
+    "inclusions": [
+      "6 nights in luxury beach resorts and premium sea-facing villas",
+      "All meals (breakfast, lunch and dinner) with premium fresh seafood",
+      "Private speedboat and yacht for all transfers and excursions",
+      "Private dive master for 4 guided dives including night dive",
+      "Daily spa treatment (90 min) and personalized wellness programme"
+    ],
+    "exclusions": [
+      "Business class flights to Port Blair",
+      "Premium wines and spirits",
+      "Tips and gratuities (recommended 10%)",
+      "Private helicopter transfers (available on request, extra cost)"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival – Luxury Island Welcome",
+        "image": "Port Blair luxury resort sea view premium arrival Andaman sunset",
+        "activities": [
+          "1:00 PM - VIP airport transfer in luxury vehicle, check in to Fortune Resort Bay Island or Sinclairs Bayview Port Blair",
+          "4:00 PM - Private sunset cruise around Port Blair harbour on chartered yacht (1.5 hrs, canapés served)",
+          "7:30 PM - Welcome dinner at award-winning Anju Coco Resto with panoramic bay view"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ross Island & Private Dive",
+        "image": "Ross Island ruins British era Andaman luxury yacht private",
+        "activities": [
+          "9:00 AM - Private boat to Ross Island (formerly British administrative capital) with personal historian guide",
+          "12:00 PM - Luxury picnic lunch arranged on secluded North Bay Island beach",
+          "3:00 PM - Private scuba dive at North Bay Island's stunning coral wall with personal dive master"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Havelock – Premium Beach Villa",
+        "image": "Havelock Island luxury beach villa sea view Andaman premium",
+        "activities": [
+          "8:00 AM - Private speedboat to Havelock Island (45 min), check in to Taj Coral Reef Resort or Barefoot at Havelock",
+          "12:00 PM - Private beach butler sets up sunbeds, welcome chilled drinks on Radhanagar Beach",
+          "7:00 PM - Gourmet private candlelit dinner on beach, personal chef preparing Andaman seafood platter"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Exclusive Dive Sites & Dolphin Cruise",
+        "image": "Havelock diving wreck dive luxury Andaman clear water deep",
+        "activities": [
+          "7:00 AM - Private dive at Aquarium and Mac Point (pristine sites with exclusive morning access)",
+          "11:00 AM - Dolphin-watching cruise around Havelock bay on private yacht (spot Irrawaddy dolphins)",
+          "3:00 PM - Overwater spa treatment (couples room available), afternoon Champagne on private beach deck"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Neil Island – Private Island Picnic",
+        "image": "Neil Island uninhabited beach private picnic Andaman pristine",
+        "activities": [
+          "8:00 AM - Private boat to Neil Island, exclusive guided tour of Bharatpur and Laxmanpur beaches",
+          "11:00 AM - Private gourmet picnic on secluded beach with chilled seafood, tropical fruits, and premium drinks",
+          "4:00 PM - Private fishing excursion: sport fishing for tuna and giant trevally with expert skipper"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Night Dive & Barren Island Volcano View",
+        "image": "Barren Island active volcano Andaman sea boat view rare",
+        "activities": [
+          "8:00 AM - Day cruise to Barren Island on chartered boat (India's only active volcano, 140 km from Port Blair, 5 hrs round trip)",
+          "3:00 PM - View lava flows and volcanic landscape from boat (landing not permitted)",
+          "8:00 PM - Night scuba dive in Andaman Sea (bioluminescence and nocturnal marine life) with private dive master"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Spa Morning & Grand Farewell",
+        "image": "Andaman luxury resort spa wellness morning sea view farewell",
+        "activities": [
+          "8:00 AM - Final morning spa session (full-body ocean mineral scrub and massage)",
+          "11:00 AM - Leisurely checkout, farewell brunch at beach restaurant",
+          "2:00 PM - Private transfer to Port Blair airport, depart with memories of island paradise"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "andaman-cultural-001",
+    "destinationId": "andaman",
+    "title": "Andaman History & Tribal Heritage Tour",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹16,500",
+    "priceValue": 16500,
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+    "description": "The Andaman Islands carry a profound and layered history, from ancient indigenous tribal cultures to dark colonial penal settlements. This cultural tour delves into the Cellular Jail's haunting past, the archaeological wonders of Ross Island, the anthropological insights at the Tribal Museum, and the unique ecosystem of Baratang. This is a journey through time in one of Asia's most historically complex destinations.",
+    "inclusions": [
+      "4 nights accommodation in heritage hotels/guesthouses in Port Blair",
+      "Daily breakfast and dinner",
+      "Private vehicle for all local sightseeing",
+      "Guided Cellular Jail tour and Sound & Light show",
+      "Baratang Limestone Caves trip and anthropological museum entry"
+    ],
+    "exclusions": [
+      "Flights to Port Blair",
+      "Lunch on all days",
+      "Personal expenses",
+      "Photography fees at restricted tribal zones"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival – Cellular Jail & Colonial Legacy",
+        "image": "Cellular Jail Port Blair solitary confinement dark history India",
+        "activities": [
+          "1:00 PM - Arrive Port Blair, check in to hotel near Aberdeen Bazar area",
+          "3:00 PM - Detailed guided tour of Cellular Jail (3 hrs) – explore the solitary cells of freedom fighters including Veer Savarkar",
+          "6:30 PM - Sound and Light show at Cellular Jail (bilingual: Hindi 7:15 PM, English 8:45 PM) – deeply moving experience"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ross Island – Lost Colonial Capital",
+        "image": "Ross Island British ruins church overgrown banyan Andaman history",
+        "activities": [
+          "8:30 AM - Ferry to Ross Island (15 min from Phoenix Bay Jetty) – former British administrative capital now in atmospheric ruins",
+          "10:30 AM - Guided walk through Ross Island ruins: Commissioner's Residence, Church, Ballroom, now home to deer and peacocks",
+          "2:00 PM - Anthropological Museum at Port Blair (ground floor: tribal artifacts, photographs of Jarawa, Onge, Sentinelese tribes)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Baratang – Tribal Reserve & Geological Wonders",
+        "image": "Baratang limestone cave mangrove boat ride tribal reserve Andaman",
+        "activities": [
+          "4:30 AM - Government convoy departs for Baratang through Jarawa Tribal Reserve (strict rules: no photography, no stopping)",
+          "8:30 AM - Mangrove creek boat ride to limestone caves (millions of years old, stunning formations)",
+          "11:00 AM - Visit Baratang Mud Volcano, return by convoy, reach Port Blair by evening"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "North Andaman – Saddle Peak & Diglipur",
+        "image": "Saddle Peak North Andaman highest point trek dense forest",
+        "activities": [
+          "8:00 AM - Drive to Diglipur (300 km north, if road trip), visit Saddle Peak National Park (highest point in Andaman)",
+          "11:00 AM - Ross and Smith Islands (twin islands connected by sandbar, accessible by boat from Diglipur)",
+          "5:00 PM - Return drive, stop at Rangat Bay for sunset views over mangrove forests and creeks"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Fisheries Museum & Departure",
+        "image": "Port Blair fisheries museum aquarium marine life exhibits Andaman",
+        "activities": [
+          "9:00 AM - Marine Park Aquarium and Fisheries Museum – 350 species of fish, coral exhibits, sea turtle conservation",
+          "11:00 AM - Aberdeen Bazar for shopping: Andaman pearls, black wood items, shell jewelry",
+          "1:00 PM - Transfer to Port Blair airport for onward journey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "andaman-weekend-001",
+    "destinationId": "andaman",
+    "title": "Andaman Quick Island Escape",
+    "duration": "3 Days / 2 Nights",
+    "price": "₹14,500",
+    "priceValue": 14500,
+    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800",
+    "description": "A perfectly curated weekend getaway for those with limited time but unlimited wanderlust. In just three days, you'll experience the dark colonial history of the Cellular Jail, the pristine turquoise waters of Havelock Island's Radhanagar Beach, and a memorable snorkeling session over coral reefs. It's a compact but deeply satisfying taste of Andaman paradise.",
+    "inclusions": [
+      "2 nights accommodation (1 night Port Blair, 1 night Havelock)",
+      "Daily breakfast and dinner",
+      "Fast ferry tickets to/from Havelock Island",
+      "Cellular Jail guided tour and Sound & Light show",
+      "Basic snorkeling at Elephant Beach"
+    ],
+    "exclusions": [
+      "Flights to Port Blair",
+      "Lunch on all days",
+      "Scuba diving",
+      "Personal expenses and additional activities"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Port Blair – Colonial History",
+        "image": "Cellular Jail Port Blair evening Sound Light Show Andaman",
+        "activities": [
+          "12:00 PM - Arrive Port Blair, quick check in, lunch on own at Aberdeen Bazar",
+          "2:30 PM - Cellular Jail guided tour (2.5 hrs) – the powerful story of Indian freedom fighters",
+          "7:15 PM - Sound and Light show at Cellular Jail, night stay in Port Blair"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Havelock – Beach Bliss",
+        "image": "Radhanagar Beach Havelock Island white sand turquoise water Andaman",
+        "activities": [
+          "6:00 AM - Makruzz/Nautika fast ferry to Havelock (1.5 hrs), check in",
+          "10:00 AM - Radhanagar Beach (Beach 7) – swim in crystal clear water, relax on Asia's best beach",
+          "3:00 PM - Elephant Beach snorkeling (by boat, 30 min, equipment included), return for beach sunset"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Morning Kalapathar & Return",
+        "image": "Kalapathar Beach Havelock Island black rocks morning light Andaman",
+        "activities": [
+          "6:30 AM - Sunrise at Kalapathar Beach (dramatic black boulders against crystal water, excellent photography)",
+          "8:30 AM - Breakfast, check out, visit Havelock market",
+          "11:00 AM - Ferry back to Port Blair (2.5 hrs), transfer to airport for departure"
+        ]
+      }
+    ]
+  }
+]
