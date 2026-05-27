@@ -1,0 +1,567 @@
+[
+  {
+    "id": "thailand-budget-001",
+    "destinationId": "thailand",
+    "title": "Thailand Budget Discovery",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹26,500",
+    "priceValue": 26500,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "Experience the magic of Thailand on a shoestring with this well-planned budget itinerary. From Bangkok's glittering temples and chaotic markets to the turquoise waters of Krabi's coastline, this trip packs in iconic sights at minimal cost. Ideal for solo travellers and gap-year adventurers who want to see Thailand authentically.",
+    "inclusions": [
+      "4 nights in budget guesthouses and hostels (twin/dorm sharing, clean and central)",
+      "Daily breakfast at the guesthouse",
+      "Bangkok city tuk-tuk tour covering major temples",
+      "Krabi 4 Islands shared snorkelling speedboat trip with lunch",
+      "All airport and inter-city transfers by shared minivan or public ferry"
+    ],
+    "exclusions": [
+      "International flights to/from Bangkok",
+      "Thai visa on arrival fee (approx. ₹2,500 for Indians)",
+      "Personal expenses, optional activities, and tips",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bangkok – Temple Trail",
+        "image": "Bangkok Wat Pho reclining Buddha gold temple tourists afternoon",
+        "activities": [
+          "Arrive at Suvarnabhumi Airport; shared transfer to guesthouse near Khao San Road",
+          "Afternoon: Visit Wat Pho (Reclining Buddha) and Wat Arun (Temple of Dawn) across the Chao Phraya River",
+          "Evening: Explore Khao San Road – street food, Chang beer, and lively traveller atmosphere"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bangkok – Grand Palace & Chatuchak Market",
+        "image": "Bangkok Grand Palace Emerald Buddha golden spires blue sky tourists",
+        "activities": [
+          "Morning: Visit the Grand Palace complex and Wat Phra Kaew (Temple of the Emerald Buddha) – arrive early to beat the heat",
+          "Afternoon: Explore Chatuchak Weekend Market (if Saturday/Sunday) or MBK shopping mall",
+          "Evening: Take the Chao Phraya Express Boat to the waterfront area; dinner at a riverside hawker stall"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Bangkok to Krabi – Beach Town Arrival",
+        "image": "Krabi Ao Nang Beach longtail boats karst cliffs turquoise water evening",
+        "activities": [
+          "Morning: Fly Bangkok to Krabi Airport (1.5 hours); shared minivan to Ao Nang Beach",
+          "Afternoon: Check in and relax on Ao Nang Beach; rent a kayak for an hour along the cliffs",
+          "Evening: Enjoy a cheap seafood BBQ dinner at the Ao Nang beachfront night market"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Krabi – 4 Islands Snorkelling Tour",
+        "image": "Krabi 4 Islands coral reef snorkelling crystal clear water longtail boat",
+        "activities": [
+          "8 AM: Join shared speedboat for the 4 Islands tour – visit Koh Mook, Koh Kradan, Koh Libong, and Tham Morakot (Emerald Cave)",
+          "Midday: Snorkelling at coral gardens; boxed lunch on the beach at Koh Kradan",
+          "Evening: Return to Ao Nang; walk to Nopparat Thara Beach for a free sunset; dinner at Tiger Beer Garden"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Railay Beach & Departure",
+        "image": "Krabi Railay Beach dramatic limestone cliffs white sand longtail arrival",
+        "activities": [
+          "Morning: Short longtail boat ride to Railay Beach (25 min); walk to Phra Nang Cave and its beach",
+          "Midday: Swim and relax at Railay West beach – arguably one of Thailand's most beautiful beaches",
+          "Afternoon: Return to Ao Nang; transfer to Krabi Airport for departure flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thailand-family-001",
+    "destinationId": "thailand",
+    "title": "Thailand Family Fun Holiday",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹78,000",
+    "priceValue": 78000,
+    "image": "https://images.unsplash.com/photo-1559827291-72ee739d0d9a?w=800",
+    "description": "Thailand is one of Southeast Asia's most family-friendly destinations, and this itinerary brings the best of it together. Kids will love the ethical elephant sanctuary in Chiang Mai, the water parks and beaches of Phuket, and cooking classes that turn them into little Thai chefs. Safe, comfortable, and endlessly fun for the whole family.",
+    "inclusions": [
+      "5 nights in 3-4 star family rooms (2 adults + 2 children, connecting rooms where needed)",
+      "Daily breakfast and 2 family dinners",
+      "Chiang Mai ethical elephant sanctuary half-day visit with mud bath and feeding",
+      "Phuket island tour by speedboat (Phi Phi Islands) with life jackets for children",
+      "Private air-conditioned vehicle and family guide throughout"
+    ],
+    "exclusions": [
+      "International flights to/from Thailand",
+      "Thai visa on arrival fees for the family",
+      "Lunches except on island tours; personal spending money",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bangkok – Family Orientation",
+        "image": "Bangkok Asiatique riverside night market family fun Ferris wheel river",
+        "activities": [
+          "Arrive at Suvarnabhumi Airport; private transfer to family hotel in the Sukhumvit area",
+          "Afternoon: Visit the SEA LIFE Bangkok Ocean World at Siam Paragon – kids' favourite with shark tunnels and penguin shows",
+          "Evening: Family dinner cruise on the Chao Phraya River with live cultural performance"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bangkok – Temples & Safari World",
+        "image": "Bangkok Safari World kids feeding giraffes open zoo Thailand",
+        "activities": [
+          "Morning: Visit Grand Palace and Wat Pho with a family guide who makes history interesting for kids",
+          "Afternoon: Safari World Bangkok – open zoo and marine park with dolphin and sea lion shows",
+          "Evening: Family dinner at a Thai restaurant on Silom Road with a traditional Muay Thai show"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Fly to Chiang Mai – Elephant Sanctuary",
+        "image": "Chiang Mai ethical elephant sanctuary family bathing mud river jungle",
+        "activities": [
+          "Morning flight Bangkok to Chiang Mai (1 hour); check in to family resort",
+          "Afternoon: Half-day visit to an ethical elephant sanctuary – feed, bathe, and walk with rescued elephants; mud bath fun",
+          "Evening: Chiang Mai Night Bazaar for handicraft shopping and street food tasting with children"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Chiang Mai – Doi Inthanon & Cultural Crafts",
+        "image": "Doi Inthanon National Park twin royal pagodas mist family Thailand",
+        "activities": [
+          "Morning: Drive to Doi Inthanon National Park – visit the stunning twin royal chedis and a hilltribe village",
+          "Midday: Picnic lunch at the park; nature walk to Wachirathan Waterfall (kids love the spray)",
+          "Afternoon: Return to Chiang Mai; kids' Thai cooking class at a cooking school (make Pad Thai and mango sticky rice)"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Fly to Phuket – Beach Day",
+        "image": "Phuket Patong Beach family umbrella chairs blue sky calm sea",
+        "activities": [
+          "Morning flight Chiang Mai to Phuket; check in to beachfront family resort at Karon Beach",
+          "Afternoon: Relax on Karon Beach – swimming, sandcastles, and banana boat rides for the kids",
+          "Evening: Phuket FantaSea cultural theme park – spectacular carnival and a Thai buffet dinner with elephant show"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Phi Phi Island Speedboat Tour & Departure",
+        "image": "Phi Phi Island Maya Bay turquoise lagoon speedboat family snorkelling",
+        "activities": [
+          "8 AM: Family speedboat tour to Phi Phi Islands – snorkel at Loh Samah Bay, visit Maya Bay, and Viking Cave",
+          "Midday: Beach barbecue lunch on Phi Phi Don Island",
+          "Afternoon: Return to Phuket; transfer to Phuket International Airport for departure flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thailand-honeymoon-001",
+    "destinationId": "thailand",
+    "title": "Thailand Romantic Paradise",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹1,08,000",
+    "priceValue": 108000,
+    "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+    "description": "Thailand has long been Asia's honeymoon capital, and this romantic getaway proves why. Begin with candlelit dinners in Bangkok's rooftop bars, drift to the paradise island of Koh Samui for overwater villa luxury, and end at Krabi's dramatic Railay Beach for sunsets that belong in a film. Every moment is designed for just the two of you.",
+    "inclusions": [
+      "5 nights in romantic boutique hotels and beachfront resorts (couple rooms with décor on arrival)",
+      "Daily breakfast in bed (at resort properties) and 3 romantic dinners",
+      "Koh Samui private longtail boat sunset cruise with champagne for couples",
+      "Couples' Thai traditional massage (2 hours) at a luxury spa",
+      "All private air-conditioned transfers and domestic flights"
+    ],
+    "exclusions": [
+      "International flights to/from Thailand",
+      "Thai visa on arrival fees",
+      "Personal spa add-ons beyond what's included; personal shopping",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bangkok – Rooftop Romance",
+        "image": "Bangkok Lebua Sky Bar rooftop couple skyline champagne sunset golden",
+        "activities": [
+          "Arrive at Suvarnabhumi Airport; private transfer to a 5-star hotel in the Silom/Riverside area",
+          "Afternoon: Cruise the Chao Phraya River on a rice barge – visit Wat Arun and the old French Embassy quarter",
+          "Evening: Champagne cocktails at Lebua Sky Bar (the Hangover Bar); romantic dinner at Sirocco restaurant with city views"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bangkok – Culture & Canal Charm",
+        "image": "Bangkok canal klong boat orchid market floating market couple morning",
+        "activities": [
+          "Morning: Private long-tail boat through Bangkok's klongs (canals) – visit Wat Arun and Taling Chan Floating Market",
+          "Afternoon: Explore the Grand Palace and Wat Pho; couples' foot massage in the Old Town",
+          "Evening: Romantic dinner at a riverside terrace restaurant; take a metered tuk-tuk back to the hotel"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Fly to Koh Samui – Island Arrival",
+        "image": "Koh Samui Chaweng Beach turquoise water white sand palm trees couple",
+        "activities": [
+          "Morning flight Bangkok to Koh Samui; check in to a beachfront pool villa resort at Chaweng Noi",
+          "Afternoon: Lounge on the private beach; couples' snorkelling at Coral Cove Beach",
+          "Sunset: Private longtail sunset cruise around Koh Samui's coastline with champagne and canapés"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Koh Samui – Ang Thong Marine Park & Spa",
+        "image": "Ang Thong Marine Park emerald lake viewpoint couple Thailand island paradise",
+        "activities": [
+          "Morning: Speedboat to Ang Thong Marine National Park – kayak through the famous Emerald Lake and snorkel in gin-clear water",
+          "Afternoon: Return to Koh Samui; 2-hour couples' traditional Thai oil massage at a luxury hilltop spa",
+          "Evening: Private beach dinner set-up with candles, flowers, and a Thai set menu under the stars"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Fly to Krabi – Railay Beach Bliss",
+        "image": "Krabi Railay Beach dramatic limestone cliffs sunset couple silhouette",
+        "activities": [
+          "Morning flight Koh Samui to Krabi; longtail boat to Railay Beach (car-free, accessible only by sea)",
+          "Afternoon: Check in to a cliff-top resort; explore Phra Nang Cave Beach – one of Thailand's most beautiful",
+          "Evening: Sundowner cocktails overlooking the bay; seafood dinner on the beach"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Railay – Rock Climbing & Departure",
+        "image": "Krabi Railay West Beach morning calm water limestone cliffs reflection couple",
+        "activities": [
+          "Morning: Optional couples' beginner rock climbing on Railay's famous limestone walls with a guide",
+          "Late morning: Last swim at Railay East beach; longtail back to Ao Nang",
+          "Afternoon: Transfer to Krabi Airport for departure flight; treasure the last views of the Andaman coast"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thailand-adventure-001",
+    "destinationId": "thailand",
+    "title": "Thailand Thrill Seeker Circuit",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹62,000",
+    "priceValue": 62000,
+    "image": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=800",
+    "description": "Thailand is a playground for adventure lovers. This action-packed itinerary takes you jungle trekking to waterfalls in Kanchanaburi, white-water rafting and rock climbing in Chiang Mai, diving with whale sharks in Koh Tao, and cliff-jumping off Krabi's limestone towers. No two days are the same on this adrenaline-fuelled circuit.",
+    "inclusions": [
+      "5 nights accommodation in adventure hostels and eco-lodges",
+      "Daily breakfast and packed lunches on trekking/diving days",
+      "Kanchanaburi bamboo rafting and jungle trek with guide",
+      "Koh Tao Open Water PADI discover scuba diving (1 day intro dive)",
+      "Chiang Mai white-water rafting on the Mae Taeng River (grade 3-4 rapids)"
+    ],
+    "exclusions": [
+      "International flights to/from Thailand",
+      "Thai visa on arrival fees",
+      "Personal diving/adventure equipment beyond what's provided",
+      "Travel insurance (mandatory for adventure activities – strongly recommended)"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bangkok – Muay Thai Clinic",
+        "image": "Bangkok Muay Thai training gym fighter shadow boxing ring evening",
+        "activities": [
+          "Arrive at Bangkok; private transfer to hostel in the Banglamphu area",
+          "Afternoon: 2-hour introductory Muay Thai boxing class at a Bangkok training camp",
+          "Evening: Explore Khao San Road and Rambuttri Village; watch a live Muay Thai match at Lumpinee Stadium (check schedule)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Kanchanaburi – River Kwai & Jungle Trekking",
+        "image": "Kanchanaburi River Kwai bamboo raft jungle green reflection Thailand",
+        "activities": [
+          "7 AM: Minivan to Kanchanaburi (2.5 hours); visit the infamous Death Railway Bridge over River Kwai",
+          "Midday: Bamboo rafting down the Kwai Noi River; jungle trek to Erawan Waterfall (7 tiers of turquoise pools)",
+          "Evening: Return to Bangkok; recovery dinner and stretch at the hostel"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Fly to Chiang Mai – White-Water Rafting",
+        "image": "Chiang Mai Mae Taeng River white water rafting rapid jungle adventure",
+        "activities": [
+          "Morning flight to Chiang Mai; check in to trekking hostel",
+          "Afternoon: White-water rafting on Mae Taeng River (grade 3-4 rapids, about 2 hours); followed by a zip-line canopy tour in the jungle",
+          "Evening: Night Bazaar dinner and gear prep for trekking the following day"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Chiang Mai – Doi Inthanon Trek & Rock Climbing",
+        "image": "Chiang Mai Doi Inthanon summit trekker forest mist Thailand mountain",
+        "activities": [
+          "7 AM: Summit hike of Doi Inthanon (Thailand's highest peak at 2,565m); misty forest trail with birdwatching",
+          "Midday: Packed lunch at the summit near the royal twin pagodas",
+          "Afternoon: Introductory rock climbing session at the Crazy Horse Buttress limestone crags near the city"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Fly to Koh Tao – Scuba Diving",
+        "image": "Koh Tao coral reef scuba diver tropical fish clear water Thailand",
+        "activities": [
+          "Morning: Fly Bangkok to Koh Samui; ferry to Koh Tao (2 hours); check in to dive hostel",
+          "Afternoon: Discover Scuba Diving introduction session in the bay – snorkel warm-up then dive to 6m",
+          "Evening: Beach bonfire at Sairee Beach; meet fellow divers and plan next day's dive"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Koh Tao – Snorkel & Departure",
+        "image": "Koh Tao Shark Bay snorkelling blacktip reef sharks shallow water clear",
+        "activities": [
+          "Morning: Snorkelling at Shark Bay (spot blacktip reef sharks in shallow water) and Hin Wong Pinnacle",
+          "Midday: Final beach time at Sairee Beach; freshly caught grilled fish lunch at a beachside shack",
+          "Afternoon: Ferry to Koh Samui Airport; departure flight to Bangkok and onward connection"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thailand-luxury-001",
+    "destinationId": "thailand",
+    "title": "Thailand Luxury Grand Tour",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹2,40,000",
+    "priceValue": 240000,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+    "description": "Thailand's luxury scene is world-class, from Bangkok's iconic Mandarin Oriental to private pool villas in Phuket. This grand tour covers the glittering capital, the gilded temples of Chiang Mai, and the turquoise waters of the Andaman Sea – all experienced with private guides, premium accommodation, and flawless service. The best of Thailand, elevated.",
+    "inclusions": [
+      "6 nights in 5-star hotels and private pool villa resorts",
+      "All breakfasts, 3 gourmet lunches, and 5 fine dining dinners with wine pairing",
+      "Private air-conditioned car and expert guide throughout all city tours",
+      "James Bond Island and Phang Nga Bay private longtail charter (full day)",
+      "Domestic flights Bangkok–Chiang Mai–Phuket in business class"
+    ],
+    "exclusions": [
+      "International flights to/from Thailand",
+      "Thai visa on arrival fees",
+      "Personal spa treatments beyond what's included; premium alcohol beyond wine pairing",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bangkok – Oriental Grandeur",
+        "image": "Bangkok Mandarin Oriental Hotel riverside elegance sunset terrace",
+        "activities": [
+          "VIP arrival and private transfer to Mandarin Oriental Bangkok (or equivalent iconic luxury property)",
+          "Afternoon: Private boat tour along the Chao Phraya – visit Wat Arun and old Thonburi canal community",
+          "Evening: Welcome dinner at the hotel's Authors' Lounge followed by sunset cocktails on the riverside terrace"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bangkok – Grand Palace & Fine Dining",
+        "image": "Bangkok Grand Palace detail golden mosaic spires Emerald Buddha evening",
+        "activities": [
+          "Morning: Private skip-the-queue tour of the Grand Palace and Wat Phra Kaew with a royal historian",
+          "Midday: Gourmet Thai lunch at Nahm restaurant (award-winning Thai cuisine)",
+          "Afternoon: Explore Jim Thompson House and the silk district; evening Chao Phraya dinner cruise on a converted rice barge"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Business Class to Chiang Mai – Lanna Kingdom",
+        "image": "Chiang Mai Doi Suthep temple golden chedi valley view evening mist",
+        "activities": [
+          "Business class flight Bangkok to Chiang Mai; private transfer to a luxury boutique resort",
+          "Afternoon: Private guided tour of Doi Suthep Pagoda – golden chedi with panoramic valley views; visit Wat Chedi Luang in the Old City",
+          "Evening: Dinner at a Lanna-style restaurant with live traditional music and Thai classical dance"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Chiang Mai – Elephant Sanctuary VIP & Cooking Masterclass",
+        "image": "Chiang Mai elephant sanctuary private forest bathing muddy happy elephant",
+        "activities": [
+          "Morning: Private VIP visit to an ethical elephant sanctuary – personal interaction with a small group of rescued elephants",
+          "Midday: Farm-to-table gourmet lunch at a Chiang Mai organic restaurant",
+          "Afternoon: Thai culinary masterclass with a renowned Chiang Mai chef; prepare and dine on a 5-dish menu"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Business Class to Phuket – Private Pool Villa",
+        "image": "Phuket private pool villa infinity pool Andaman Sea sunset luxury",
+        "activities": [
+          "Morning: Leisurely breakfast; business class flight Chiang Mai to Phuket",
+          "Afternoon: Private transfer to an oceanfront pool villa resort at Kata Noi or Surin Beach",
+          "Evening: Sunset cocktails at a clifftop bar; dinner at a beachfront restaurant with fresh Andaman catch"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Phang Nga Bay – James Bond Island Private Charter",
+        "image": "Phang Nga Bay James Bond Island Ko Tapu limestone needle sea kayak morning",
+        "activities": [
+          "8 AM: Board a private longtail or speedboat charter to Phang Nga Bay National Park",
+          "Full day: Visit Ko Tapu (James Bond Island), kayak through sea caves and mangroves; private lunch on a secluded beach",
+          "Evening: Sunset drinks at the villa pool; farewell fine dining dinner with a private chef"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Phuket – Big Buddha & Departure",
+        "image": "Phuket Big Buddha white marble hilltop ocean panorama morning clear sky",
+        "activities": [
+          "Morning: Visit the Phuket Big Buddha – 45-metre white marble statue with 360° ocean views",
+          "Midday: Last swim at Kata Beach or spa morning at the resort",
+          "Afternoon: Private transfer to Phuket International Airport for departure flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thailand-cultural-001",
+    "destinationId": "thailand",
+    "title": "Thailand Cultural Heritage Journey",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹55,000",
+    "priceValue": 55000,
+    "image": "https://images.unsplash.com/photo-1533900876217-df0d0b27f7b7?w=800",
+    "description": "Look beyond Thailand's beaches and discover its extraordinary cultural heritage. This itinerary explores the ruined kingdom of Ayutthaya, Bangkok's most sacred temples, and the ancient Lanna culture of Chiang Mai. With local guides bringing centuries of history to life, this is Thailand for curious minds and heritage lovers.",
+    "inclusions": [
+      "4 nights in culturally situated heritage hotels (Old City area in Chiang Mai; near temples in Bangkok)",
+      "Daily breakfast and 2 traditional cultural lunches (Ayutthaya and Chiang Mai)",
+      "Ayutthaya full-day UNESCO heritage site tour by bicycle with guide",
+      "Bangkok Wat Pho traditional Thai massage (90-minute school session)",
+      "Private air-conditioned transfers; Chiang Mai–Bangkok domestic flight"
+    ],
+    "exclusions": [
+      "International flights to/from Thailand",
+      "Thai visa on arrival fees",
+      "Personal expenses, tips for guides, and dinners not specified",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bangkok – Sacred Temples",
+        "image": "Bangkok Wat Pho complex Buddha statues monks orange robes courtyard",
+        "activities": [
+          "Arrive at Suvarnabhumi Airport; private transfer to a hotel near the Grand Palace",
+          "Afternoon: Visit Wat Pho (Reclining Buddha complex and traditional massage school); walk to Wat Mahathat",
+          "Evening: Join a guided almsgiving experience in the old town; dinner at a traditional Thai restaurant near the river"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ayutthaya – Ancient Capital Day Tour",
+        "image": "Ayutthaya Wat Mahathat Buddha head in tree roots ancient stone ruins",
+        "activities": [
+          "7 AM: Bus to Ayutthaya (1.5 hours); rent bicycles to explore the UNESCO World Heritage ruins",
+          "Full day: Visit Wat Mahathat (famous Buddha head in tree roots), Wat Ratchaburana, Wat Chaiwatthanaram along the river",
+          "Evening: Return to Bangkok; visit Bangkok's famous Chinatown (Yaowarat Road) for street food"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Bangkok – Spiritual Bangkok & Markets",
+        "image": "Bangkok Grand Palace Emerald Buddha interior gold mosaic mural sacred",
+        "activities": [
+          "Morning: Grand Palace and Wat Phra Kaew (Temple of the Emerald Buddha) with a cultural guide",
+          "Afternoon: Visit Wat Saket (Golden Mount) and Wat Ratchanatdaram (Loha Prasat); walk through Pak Khlong Talat flower market",
+          "Evening: Dinner cruise on the Chao Phraya River; optional visit to the National Museum of Thailand"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Fly to Chiang Mai – Lanna Culture",
+        "image": "Chiang Mai Wat Chedi Luang ancient ruined chedi old city moat evening",
+        "activities": [
+          "Morning flight to Chiang Mai; private transfer to an Old City heritage hotel within the moat",
+          "Afternoon: Walking tour of the Old City – Wat Chedi Luang, Wat Phra Singh, and Wat Chiang Man (oldest temple in Chiang Mai)",
+          "Evening: Yi Peng paper lantern experience (if in season) or the Saturday Walking Street night market"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Chiang Mai – Hill Tribes & Departure",
+        "image": "Chiang Mai hill tribe village Akha woman traditional costume colourful",
+        "activities": [
+          "Morning: Visit Doi Suthep Temple; tour the Chiang Mai City Arts and Cultural Centre inside the old governor's residence",
+          "Midday: Excursion to a hill tribe village near Mae Rim to learn about Akha and Karen communities",
+          "Afternoon: Browse Warorot Market for silk and local products; transfer to Chiang Mai Airport for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thailand-weekend-001",
+    "destinationId": "thailand",
+    "title": "Bangkok & Phuket Weekend Sprint",
+    "duration": "4 Days / 3 Nights",
+    "price": "₹42,000",
+    "priceValue": 42000,
+    "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=800",
+    "description": "The ultimate long-weekend trip to Thailand combining Bangkok's world-class street food scene and iconic temples with the white sand beaches and turquoise waters of Phuket. Fly in Friday, be on a beach by Saturday, and return Sunday night feeling completely recharged. A compact but deeply satisfying Thai escape.",
+    "inclusions": [
+      "3 nights accommodation (1 night Bangkok boutique hotel + 2 nights Phuket beachfront resort)",
+      "Daily breakfast and welcome Thai dinner in Bangkok",
+      "Bangkok Grand Palace and Wat Pho guided half-day tour",
+      "Phuket Phi Phi Island shared speedboat day trip with snorkelling",
+      "Private airport and hotel transfers throughout"
+    ],
+    "exclusions": [
+      "International flights to/from Bangkok",
+      "Thai visa on arrival fees",
+      "Personal expenses, tips, and optional excursions",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bangkok – Street Food & Temples",
+        "image": "Bangkok Wat Arun temple riverside golden hour twilight reflection",
+        "activities": [
+          "Arrive at Bangkok; transfer to hotel in the Old Town area near the temples",
+          "Afternoon: Guided half-day tour of Wat Pho and Wat Arun; cross the Chao Phraya by river ferry",
+          "Evening: Street food walking tour in Chinatown – dumplings, grilled oysters, mango sticky rice, and fresh fruit juices"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bangkok to Phuket – Beach Time",
+        "image": "Phuket Kata Beach calm blue water boats white sand afternoon sun",
+        "activities": [
+          "Morning: Quick visit to the Grand Palace (early start to beat crowds); transfer to Suvarnabhumi Airport",
+          "Midday flight Bangkok to Phuket; check in to a beachfront hotel at Kata or Karon Beach",
+          "Afternoon: Beach time, cocktails, and a Thai massage on the beach; evening at Bangla Road night market"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Phi Phi Islands Day Trip",
+        "image": "Phi Phi Island Maya Bay clear green water limestone cliffs speedboat group",
+        "activities": [
+          "8 AM: Shared speedboat to Phi Phi Islands – visit Maya Bay, snorkel at Shark Point, and explore Phi Phi Don village",
+          "Midday: Beachside Thai lunch on Phi Phi Don Island",
+          "Afternoon: Return to Phuket; sunset at Promthep Cape (southernmost point of Phuket); farewell seafood dinner at the beach"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Phuket – Big Buddha & Departure",
+        "image": "Phuket Big Buddha hilltop white marble statue sunrise golden morning",
+        "activities": [
+          "Morning: Visit Phuket Big Buddha and Wat Chalong – Phuket's most important Buddhist temple",
+          "Late morning: Final swim at Surin Beach or Kamala Beach",
+          "Afternoon: Transfer to Phuket International Airport for departure flight back home"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "id": "kerala-budget-001",
+    "destinationId": "kerala",
+    "title": "Kerala Budget Explorer",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹12,500",
+    "priceValue": 12500,
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800",
+    "description": "Experience the best of God's Own Country without breaking the bank. This carefully curated budget package covers the iconic backwaters of Alleppey and the scenic hill station of Munnar with comfortable yet affordable accommodation. Perfect for solo travelers and budget-conscious explorers wanting an authentic Kerala experience.",
+    "inclusions": [
+      "4 nights accommodation in budget guesthouses/homestays",
+      "Daily breakfast and dinner (MAP plan)",
+      "Alleppey houseboat day cruise (shared)",
+      "Air-conditioned vehicle transfers between destinations",
+      "Munnar tea garden guided tour"
+    ],
+    "exclusions": [
+      "Flights or train tickets to/from Cochin",
+      "Lunch on all days",
+      "Personal expenses, tips and gratuities",
+      "Entry fees to monuments and national parks"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Cochin – Fort Kochi Heritage Walk",
+        "image": "Fort Kochi Chinese fishing nets at sunset Kerala",
+        "activities": [
+          "2:00 PM - Arrive at Cochin airport/station, transfer to Fort Kochi guesthouse (45 min)",
+          "4:30 PM - Walk to Chinese Fishing Nets at Fort Kochi waterfront, watch evening fishing demonstration",
+          "6:30 PM - Stroll through Fort Kochi bazaar streets, visit St. Francis Church (oldest European church in India)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mattancherry & Journey to Alleppey",
+        "image": "Mattancherry Palace murals and Jew Town spice market Cochin",
+        "activities": [
+          "9:00 AM - Visit Mattancherry Palace (Dutch Palace) with stunning Kerala murals, ₹5 entry",
+          "11:00 AM - Explore Jew Town antique shops and Paradesi Synagogue area",
+          "2:00 PM - Drive to Alleppey (1.5 hrs), check in to guesthouse, evening walk to Alleppey Beach"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Alleppey Backwaters Day Cruise",
+        "image": "Alleppey backwaters houseboat morning view Kerala",
+        "activities": [
+          "8:00 AM - Board shared houseboat for full-day backwater cruise on Vembanad Lake",
+          "12:00 PM - Lunch served on the boat while floating through village canals",
+          "4:00 PM - Disembark and visit Alleppey Lighthouse (open 3–5 PM, ₹20 entry)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Munnar – Tea Gardens & Hills",
+        "image": "Munnar tea gardens misty hills green slopes Kerala",
+        "activities": [
+          "7:00 AM - Drive from Alleppey to Munnar (4 hrs) through scenic Western Ghats",
+          "12:30 PM - Lunch stop at Adimali, continue to Munnar, check in to hotel",
+          "3:30 PM - Visit KDHP Tea Museum and tea factory tour, evening stroll at Munnar town market"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Munnar Sightseeing & Departure",
+        "image": "Eravikulam National Park Nilgiri tahr grasslands Munnar",
+        "activities": [
+          "7:30 AM - Early morning visit to Eravikulam National Park (Rajamalai) to spot Nilgiri tahr (entry ₹125)",
+          "10:00 AM - Drive to Mattupetty Dam and Echo Point, enjoy the scenic reservoir views",
+          "1:00 PM - Check out, drive back to Cochin (4 hrs) for onward journey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kerala-family-001",
+    "destinationId": "kerala",
+    "title": "Kerala Family Fun Package",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹27,500",
+    "priceValue": 27500,
+    "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=800",
+    "description": "A perfectly designed family holiday that introduces children and adults alike to Kerala's diverse landscapes and experiences. From the exciting wildlife encounters at Periyar to the magical houseboat float through backwaters and the refreshing coolness of Munnar's tea gardens, every day promises new discoveries. The package includes family-friendly accommodation with extra beds and child-friendly meal options.",
+    "inclusions": [
+      "5 nights accommodation in family rooms (hotel/resort)",
+      "Daily breakfast and dinner",
+      "Private AC vehicle for all transfers",
+      "Alleppey private houseboat (overnight stay)",
+      "Periyar Lake boat safari and guided nature walk"
+    ],
+    "exclusions": [
+      "Flights/train to Cochin",
+      "Lunch on all days",
+      "Personal expenses and shopping",
+      "Entry fees to Eravikulam NP and other monuments"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Cochin – Fort Kochi Discovery",
+        "image": "Fort Kochi waterfront family walk Kerala heritage",
+        "activities": [
+          "1:00 PM - Arrive Cochin, transfer to Fort Kochi hotel (45 min)",
+          "4:00 PM - Family heritage walk: Chinese Fishing Nets, Santa Cruz Basilica, Fort Kochi beach",
+          "6:30 PM - Kerala Kathakali dance performance at Kerala Kathakali Centre (booking required, 7 PM show)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Cochin to Thekkady – Wildlife Country",
+        "image": "Periyar Lake boat safari wild elephants Western Ghats",
+        "activities": [
+          "8:00 AM - Drive from Cochin to Thekkady/Periyar (4.5 hrs) with scenic mountain roads",
+          "1:30 PM - Arrive Thekkady, check in to resort, freshen up",
+          "3:30 PM - Periyar Lake boat safari (1.5 hrs) – spot elephants, bison, deer from the boat"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Periyar Wildlife & Munnar Bound",
+        "image": "Periyar Nature Walk spice plantation Thekkady Kerala",
+        "activities": [
+          "7:00 AM - Early morning guided nature walk in Periyar Tiger Reserve buffer zone (2 hrs)",
+          "10:00 AM - Visit a spice plantation near Kumily – smell and learn about cardamom, pepper, vanilla",
+          "12:30 PM - Drive to Munnar (2.5 hrs), check in to hill resort, evening at leisure"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Munnar – Tea, Dams & Hills",
+        "image": "Munnar Mattupetty Dam reservoir green hills family",
+        "activities": [
+          "9:00 AM - Visit KDHP Tea Museum followed by a working tea factory tour (kids love the machinery)",
+          "11:30 AM - Drive to Mattupetty Dam for speed boating and serene reservoir views (boating ₹100/person)",
+          "3:00 PM - Stop at Echo Point and Kundala Lake, return to Munnar for evening market walk"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Alleppey – Overnight Houseboat",
+        "image": "Alleppey houseboat overnight backwaters Kerala family",
+        "activities": [
+          "8:00 AM - Drive from Munnar to Alleppey (4 hrs)",
+          "12:30 PM - Check in to private houseboat, cast off into Vembanad Lake backwaters",
+          "7:00 PM - Freshly cooked Kerala dinner on houseboat, overnight stay on the waters"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Backwater Morning & Cochin Departure",
+        "image": "Kerala backwaters morning mist sunrise houseboat",
+        "activities": [
+          "7:00 AM - Sunrise on the backwaters, morning tea/coffee on the deck",
+          "9:30 AM - Disembark at Alleppey, drive to Cochin airport/station (1.5 hrs)",
+          "11:30 AM - Drop at Cochin airport/station for onward journey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kerala-honeymoon-001",
+    "destinationId": "kerala",
+    "title": "Kerala Romantic Escape",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹52,000",
+    "priceValue": 52000,
+    "image": "https://images.unsplash.com/photo-1570789210967-2cac24afeb00?w=800",
+    "description": "Crafted for couples seeking an intimate and enchanting escape, this honeymoon package weaves together Kerala's most romantic landscapes. Drift through shimmering backwaters on a private luxury houseboat, unwind at Varkala's dramatic clifftop beaches, and immerse in candlelit Ayurvedic spa sessions. Every moment is designed to celebrate love amidst God's Own Country.",
+    "inclusions": [
+      "5 nights accommodation in romantic resorts and luxury houseboat",
+      "Daily breakfast and dinner with candlelit dinner on houseboat night",
+      "Private AC vehicle with decorated car on arrival",
+      "Couple Ayurvedic massage session (60 min each)",
+      "Private overnight houseboat on Vembanad Lake"
+    ],
+    "exclusions": [
+      "Flights/train tickets to Cochin",
+      "Lunch on all days",
+      "Personal expenses, shopping, tips",
+      "Optional activities not mentioned in itinerary"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Cochin – Romance Begins",
+        "image": "Fort Kochi waterfront sunset couple romantic Kerala",
+        "activities": [
+          "2:00 PM - Welcome with flower-decorated car at Cochin airport, transfer to Fort Kochi boutique heritage hotel",
+          "5:00 PM - Romantic evening walk along Fort Kochi waterfront, Chinese Fishing Nets at sunset",
+          "7:30 PM - Candlelit dinner at a Fort Kochi rooftop restaurant with Kerala coastal cuisine"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Fort Kochi to Alleppey – Houseboat Heaven",
+        "image": "Luxury houseboat private deck Alleppey backwaters Kerala honeymoon",
+        "activities": [
+          "9:30 AM - Leisurely morning in Fort Kochi, quick visit to Mattancherry Synagogue and spice market",
+          "12:00 PM - Drive to Alleppey (1.5 hrs), board private luxury houseboat",
+          "7:00 PM - Sunset cruise on Vembanad Lake, private dinner with Kerala seafood spread on the deck"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Backwaters & Journey to Varkala",
+        "image": "Kerala backwaters morning mist houseboat couple sunrise",
+        "activities": [
+          "7:00 AM - Wake up to misty backwater sunrise, morning tea on the private deck",
+          "10:00 AM - Disembark, drive to Varkala cliff beach resort (2.5 hrs)",
+          "4:00 PM - Couples' Ayurvedic massage at resort spa, evening stroll on Varkala North Cliff"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Varkala Cliff Beach & Leisure",
+        "image": "Varkala cliff beach sunset Kerala Arabian Sea romantic",
+        "activities": [
+          "8:00 AM - Breakfast with Arabian Sea cliff view, leisurely morning at beach",
+          "11:00 AM - Explore Varkala cliff's boutique shops and cafes, visit Janardhanaswamy Temple",
+          "6:00 PM - Sunset yoga session on the cliff (optional), romantic dinner at cliffside restaurant"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Kovalam Beach & Spa Day",
+        "image": "Kovalam lighthouse beach sunset Kerala couple",
+        "activities": [
+          "10:00 AM - Drive to Kovalam (45 min), check in to beachside resort",
+          "12:00 PM - Relaxing beach time at crescent-shaped Lighthouse Beach, swimming and sunbathing",
+          "5:30 PM - Visit Kovalam Lighthouse for panoramic views, couples' Ayurvedic treatment at resort"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Trivandrum & Departure",
+        "image": "Trivandrum Padmanabhaswamy Temple Kerala cultural morning",
+        "activities": [
+          "8:00 AM - Drive to Trivandrum (40 min), visit Padmanabhaswamy Temple complex (outer view)",
+          "10:00 AM - Napier Museum and Natural History Museum, Trivandrum Zoo (optional)",
+          "1:00 PM - Transfer to Trivandrum airport for onward journey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kerala-adventure-001",
+    "destinationId": "kerala",
+    "title": "Kerala Wilderness Adventure",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹22,000",
+    "priceValue": 22000,
+    "image": "https://images.unsplash.com/photo-1541417904950-b855846fe074?w=800",
+    "description": "Designed for thrill-seekers and nature lovers, this adventure package takes you through Kerala's wild heart. Trek through cloud-kissed peaks in Wayanad, raft on wild rivers, go on nocturnal wildlife safaris in Periyar, and explore prehistoric cave art at Edakkal. Each day brings a new adrenaline-fueled encounter with Kerala's extraordinary biodiversity.",
+    "inclusions": [
+      "5 nights accommodation in eco-lodges and forest camps",
+      "Daily breakfast and dinner",
+      "Chembra Peak trek with certified guide",
+      "Periyar bamboo rafting and border hiking",
+      "Private 4WD vehicle for all transfers"
+    ],
+    "exclusions": [
+      "Flights/train to Calicut or Cochin",
+      "Lunch on all days",
+      "Personal trekking gear and equipment",
+      "Permit fees for restricted zones"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive Calicut – Drive to Wayanad",
+        "image": "Wayanad green forests western ghats misty mountains Kerala",
+        "activities": [
+          "1:00 PM - Arrive Calicut, drive to Wayanad via scenic Thamarassery Churam ghat road (2.5 hrs)",
+          "4:00 PM - Check in to eco-lodge near Kalpetta, brief orientation with trek guide",
+          "6:00 PM - Evening nature walk around the lodge, spot endemic birds and butterflies in surrounding forest"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Chembra Peak Trek – 2,100m Summit",
+        "image": "Chembra Peak trek heart shaped lake Wayanad Kerala summit",
+        "activities": [
+          "5:30 AM - Early start with packed breakfast, drive to Meppadi (30 min) for Chembra Peak trek permit",
+          "6:30 AM - Begin 8 km trek to Chembra Peak (2,100 m) via heart-shaped Hridayathadakam lake (4–5 hrs ascent)",
+          "3:00 PM - Descend, reach base by 6 PM, hot dinner at eco-lodge, campfire sharing trek stories"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Edakkal Caves & Wayanad Wildlife",
+        "image": "Edakkal Caves prehistoric rock carvings Wayanad Kerala",
+        "activities": [
+          "8:00 AM - Drive to Edakkal Caves (1 hr), climb 1 km rocky trail to see 6,000-year-old rock engravings",
+          "11:00 AM - Visit Wayanad Wildlife Sanctuary at Muthanga (jeep safari, ₹500, 2 hrs, spot bison and elephants)",
+          "4:00 PM - Drive to Thekkady/Periyar (3.5 hrs), check in to forest lodge"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Periyar – Bamboo Rafting & Border Trek",
+        "image": "Periyar bamboo rafting river Western Ghats adventure Kerala",
+        "activities": [
+          "6:00 AM - Periyar Tiger Reserve bamboo rafting on Periyar River (5 km, 3 hrs, advance booking essential)",
+          "11:00 AM - Periyar border hiking trail with forest guide (4 hrs, spot wild boar, langur, Malabar hornbill)",
+          "6:00 PM - Village walk around Kumily market, sample local spices and buy cardamom"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Athirappilly Waterfalls & River Rafting",
+        "image": "Athirappilly waterfalls Chalakudy river Kerala adventure",
+        "activities": [
+          "7:00 AM - Drive from Thekkady to Athirappilly (3.5 hrs) via Chalakudy",
+          "11:30 AM - Visit Athirappilly Falls (Kerala's Niagara, 80-ft cascade) and nearby Vazhachal Falls",
+          "2:30 PM - White-water rafting on Chalakudy River (Grade II–III, 2 hrs), drive to Cochin (1.5 hrs)"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Cochin Mangrove Kayak & Departure",
+        "image": "Cochin backwater mangrove kayaking morning Kerala",
+        "activities": [
+          "7:00 AM - Sunrise mangrove kayaking tour in Cochin backwaters (2 hrs, guide included)",
+          "10:00 AM - Quick breakfast, freshen up, optional visit to Marine Drive promenade",
+          "1:00 PM - Transfer to Cochin airport/station for onward journey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kerala-luxury-001",
+    "destinationId": "kerala",
+    "title": "Kerala Royal Luxury Journey",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹1,25,000",
+    "priceValue": 125000,
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800",
+    "description": "Immerse yourself in the very finest Kerala has to offer through this ultra-premium luxury journey. Stay at award-winning heritage hotels and five-star resorts, float through the backwaters on a exclusive premium houseboat with a private chef, and indulge in personalised Ayurvedic treatments at world-class wellness spas. Every detail from arrival to departure is handled by a dedicated private concierge.",
+    "inclusions": [
+      "6 nights in 5-star/luxury heritage properties with premium rooms",
+      "All meals (breakfast, lunch, dinner) with premium Kerala cuisine",
+      "Private chauffeur-driven luxury vehicle throughout",
+      "Exclusive private houseboat (2 nights) with personal chef and butler",
+      "Daily Ayurvedic spa treatments (90 min per day) and wellness consultation"
+    ],
+    "exclusions": [
+      "Business class flights to/from Cochin",
+      "Premium alcoholic beverages",
+      "Tips and gratuities (recommended)",
+      "Personal shopping and additional spa treatments beyond included ones"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Cochin – Heritage Grandeur",
+        "image": "Fort Kochi heritage hotel colonial architecture luxury Kerala",
+        "activities": [
+          "2:00 PM - Private transfer from Cochin airport in luxury sedan to award-winning CGH Earth Brunton Boatyard or similar",
+          "5:00 PM - Exclusive guided heritage walk of Fort Kochi with a historian, access private art galleries",
+          "7:30 PM - Welcome dinner at rooftop restaurant with panoramic harbour views and live classical music"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Cochin to Kumarakom – Backwater Luxury",
+        "image": "Kumarakom Lake Resort infinity pool Vembanad Lake Kerala luxury",
+        "activities": [
+          "9:00 AM - Morning visit to Mattancherry Palace with private art historian, Paradesi Synagogue",
+          "12:30 PM - Drive to Kumarakom (2 hrs) to luxury lake resort (Kumarakom Lake Resort or CGH Earth)",
+          "4:00 PM - Check in to premium lake-facing villa, sunset cruise on Vembanad Lake in private boat"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Exclusive Backwaters & Ayurveda",
+        "image": "Kumarakom luxury houseboat Ayurvedic spa wellness Kerala",
+        "activities": [
+          "8:00 AM - Bird watching in Kumarakom Bird Sanctuary (resident and migratory birds) with expert naturalist",
+          "11:00 AM - 90-min Ayurvedic Shirodhara and Abhyanga treatment at resort spa",
+          "3:00 PM - Board premium private houseboat, cruise through narrow village canals of Kuttanad"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Private Houseboat to Alleppey",
+        "image": "Premium houseboat luxury dining Kerala backwaters sunset",
+        "activities": [
+          "7:00 AM - Wake up on the waters, private butler serves breakfast on deck",
+          "10:00 AM - Cruise through rice paddy lined canals, stop at a traditional fisherman's village for guided walk",
+          "7:00 PM - Gourmet dinner prepared by onboard chef using fresh local ingredients and spices"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Munnar – Tea Country Elegance",
+        "image": "Munnar luxury tea estate bungalow hills Kerala misty",
+        "activities": [
+          "9:00 AM - Disembark at Alleppey, drive to Munnar luxury tea estate bungalow (4 hrs)",
+          "2:00 PM - Private tour of KDHP tea estate with master blender, participate in tea tasting session",
+          "5:00 PM - Guided walk through rose garden and tea hills at sunset, private dinner in the estate bungalow"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Thekkady & Kerala Spice Country",
+        "image": "Thekkady spice plantation luxury resort Periyar Western Ghats",
+        "activities": [
+          "7:00 AM - Private Periyar Tiger Reserve jeep safari (3 hrs, exclusive vehicle with naturalist guide)",
+          "11:00 AM - Luxury spice plantation bungalow lunch with organic farm-to-table meal",
+          "4:00 PM - Exclusive Kathakali and Kalaripayattu private performance arranged at resort"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Kovalam Beach & Grand Departure",
+        "image": "Kovalam luxury beach resort infinity pool Arabian Sea Kerala",
+        "activities": [
+          "8:00 AM - Drive to Kovalam luxury beach resort (5 hrs), check in to sea-facing premium villa",
+          "12:00 PM - Private beach butler service, water sports or leisure swim in Arabian Sea",
+          "7:00 PM - Grand farewell dinner at beachside restaurant, transfer to Trivandrum airport"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kerala-cultural-001",
+    "destinationId": "kerala",
+    "title": "Kerala Cultural Heritage Tour",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹18,000",
+    "priceValue": 18000,
+    "image": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=800",
+    "description": "Dive deep into the rich cultural tapestry of Kerala with this thoughtfully curated heritage tour. Explore ancient temples, witness classical art forms like Kathakali and Kalaripayattu, marvel at Portuguese and Dutch colonial architecture in Fort Kochi, and experience the living traditions of temple towns like Thrissur and Guruvayur. This journey reveals the soul of Kerala through its art, architecture, and spirituality.",
+    "inclusions": [
+      "4 nights accommodation in heritage hotels",
+      "Daily breakfast and dinner",
+      "Private vehicle for all transfers",
+      "Kathakali performance ticket and make-up watching session",
+      "Guided tour of Mattancherry Palace and Jewish Synagogue"
+    ],
+    "exclusions": [
+      "Flights/train to Cochin",
+      "Lunch on all days",
+      "Personal expenses and donations at temples",
+      "Photography fees inside monuments"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival – Fort Kochi Colonial Heritage",
+        "image": "Fort Kochi colonial architecture St Francis Church Kerala heritage",
+        "activities": [
+          "1:00 PM - Arrive Cochin, transfer to Fort Kochi heritage hotel",
+          "3:30 PM - Guided walk: St. Francis Church (1503, oldest European church in India), Santa Cruz Basilica",
+          "7:00 PM - Kathakali performance at Kerala Kathakali Centre – watch artists apply traditional makeup from 6 PM"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mattancherry & Thrissur Temple Town",
+        "image": "Mattancherry Palace Dutch Palace murals Kerala cultural",
+        "activities": [
+          "8:30 AM - Mattancherry Palace (Dutch Palace) – stunning murals depicting Ramayana and Mahabharata",
+          "10:30 AM - Paradesi Synagogue (Jew Town) and antique spice market exploration",
+          "2:00 PM - Drive to Thrissur (2.5 hrs), visit Vadakkunnathan Temple (ancient Shiva temple, no camera inside)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Guruvayur – Krishna Temple & Elephant Sanctuary",
+        "image": "Guruvayur Krishna Temple procession elephants Kerala",
+        "activities": [
+          "7:00 AM - Early morning drive to Guruvayur (1 hr) for 8 AM darshan at Guruvayurappan Temple",
+          "10:00 AM - Visit Punnathur Kotta Elephant Sanctuary (50+ temple elephants, photo allowed)",
+          "3:00 PM - Return to Thrissur, attend Sangeetha Nataka Akademi performance (if scheduled) or visit Kerala Lalithakala Akademi gallery"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Palakkad – Tippu's Fort & Nenmara Vallanghy",
+        "image": "Palakkad Fort Tippu Sultan architecture Kerala cultural",
+        "activities": [
+          "8:00 AM - Drive to Palakkad (1.5 hrs), visit Palakkad Fort (Tippu Sultan's 18th century fort)",
+          "11:00 AM - Explore Kalpathy village (UNESCO-listed brahmin agraharams, ancient layout preserved)",
+          "3:00 PM - Visit Dhoni Waterfalls and Malampuzha Dam with garden, return to Cochin (2.5 hrs)"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Kochi Museum & Departure",
+        "image": "Kochi Kerala Museum cultural art exhibits heritage",
+        "activities": [
+          "9:00 AM - Visit Kerala Museum in Cochin (traditional architecture, art, historical artifacts)",
+          "11:00 AM - Marine Drive walk, visit Kerala Piravi Memorial and Crafts Village",
+          "1:00 PM - Transfer to Cochin airport for onward journey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kerala-weekend-001",
+    "destinationId": "kerala",
+    "title": "Munnar Weekend Retreat",
+    "duration": "3 Days / 2 Nights",
+    "price": "₹11,000",
+    "priceValue": 11000,
+    "image": "https://images.unsplash.com/photo-1581888227599-779811939961?w=800",
+    "description": "Escape the city heat for a refreshing weekend in Munnar, Kerala's most beloved hill station. Breathe in the cool mountain air, wander through endless emerald tea gardens, spot the rare Nilgiri tahr at Eravikulam National Park, and watch morning mist roll over the Western Ghats. This short and sweet getaway is perfect for a quick recharge.",
+    "inclusions": [
+      "2 nights accommodation at a hill resort in Munnar",
+      "Daily breakfast and dinner",
+      "Shared vehicle transfers from/to Cochin",
+      "Tea factory and estate guided tour",
+      "Echo Point and Mattupetty Dam visit"
+    ],
+    "exclusions": [
+      "Train/bus tickets to Cochin",
+      "Lunch on all days",
+      "Entry fee to Eravikulam NP (₹125 per person)",
+      "Personal expenses"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival – Into the Tea Hills",
+        "image": "Munnar tea estate arrival hill resort Kerala weekend",
+        "activities": [
+          "7:00 AM - Depart Cochin by shared vehicle (4 hrs via scenic NH66 and Adimali route)",
+          "11:30 AM - Arrive Munnar, check in to hill resort, freshen up with mountain view lunch",
+          "3:00 PM - Visit KDHP Tea Museum and working tea factory (learn how Munnar tea is processed), evening town walk"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Eravikulam & Scenic Peaks",
+        "image": "Eravikulam National Park Nilgiri tahr misty mountains Munnar",
+        "activities": [
+          "7:00 AM - Drive to Eravikulam National Park for early morning Nilgiri tahr spotting (8 AM opening)",
+          "10:00 AM - Mattupetty Dam – speed boating (₹100 pp) and views of the sprawling reservoir",
+          "1:00 PM - Drive to Echo Point (12 km from Munnar) and Kundala Lake, evening at leisure in Munnar bazaar"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Tata Tea Gardens & Departure",
+        "image": "Munnar top station viewpoint dawn tea gardens Kerala",
+        "activities": [
+          "6:30 AM - Sunrise drive to Top Station (32 km, 1,700 m) for panoramic views of Tamil Nadu plains",
+          "9:30 AM - Leisurely breakfast at resort, visit Rose Garden and Chinnakanal Waterfalls",
+          "12:00 PM - Check out, drive back to Cochin (4 hrs) for onward journey"
+        ]
+      }
+    ]
+  }
+]

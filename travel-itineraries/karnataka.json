@@ -1,0 +1,557 @@
+[
+  {
+    "id": "karnataka-budget-001",
+    "destinationId": "karnataka",
+    "title": "Karnataka Budget Explorer",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹14,999",
+    "priceValue": 14999,
+    "image": "https://images.unsplash.com/photo-1600689015692-a8a5be3e01d2?w=800",
+    "description": "Explore the best of Karnataka on a budget covering Bangalore and Mysore. Visit iconic landmarks, lush gardens, and the majestic Mysore Palace without breaking the bank. Perfect for solo travelers and backpackers seeking authentic Karnataka experiences.",
+    "inclusions": [
+      "4 nights accommodation in budget hotels/guesthouses",
+      "Daily breakfast",
+      "All intercity transfers by AC sleeper bus",
+      "Sightseeing by shared auto/local transport",
+      "Entry fees to monuments"
+    ],
+    "exclusions": [
+      "Flights/trains to and from Bangalore",
+      "Lunch and dinner",
+      "Personal expenses and shopping",
+      "Tips and gratuities"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bangalore – Garden City Highlights",
+        "image": "Lalbagh Botanical Garden Bangalore morning",
+        "activities": [
+          "9:00 AM - Explore Lalbagh Botanical Garden and its glass house",
+          "12:00 PM - Visit Vidhana Soudha and Cubbon Park",
+          "4:00 PM - Evening stroll at ISKCON Temple, Rajajinagar"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bangalore Local Sightseeing",
+        "image": "Bangalore city market Tipu Sultan summer palace",
+        "activities": [
+          "9:00 AM - Visit Tipu Sultan's Summer Palace and Bangalore Fort",
+          "12:00 PM - Explore busy Commercial Street for local shopping",
+          "4:00 PM - Drive to Mysore by AC bus (depart evening)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Mysore – The Royal City",
+        "image": "Mysore Palace illuminated Karnataka",
+        "activities": [
+          "9:00 AM - Visit the magnificent Mysore Palace and its grand interiors",
+          "12:00 PM - Climb Chamundi Hills and see the giant Nandi bull",
+          "4:00 PM - Stroll through Devaraja Market for local spices and flowers"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Mysore – Gardens and Silk",
+        "image": "Brindavan Gardens Mysore musical fountain",
+        "activities": [
+          "9:00 AM - Visit Mysore Zoo, one of India's oldest zoos",
+          "12:00 PM - Tour a government silk weaving unit and witness silk saree making",
+          "4:00 PM - Evening visit to Brindavan Gardens for the musical fountain show"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Return to Bangalore – Departure",
+        "image": "Bangalore modern cityscape UB City",
+        "activities": [
+          "9:00 AM - Drive back to Bangalore (3 hours)",
+          "12:00 PM - Visit UB City mall area for last-minute shopping",
+          "4:00 PM - Transfer to airport/railway station for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "karnataka-family-001",
+    "destinationId": "karnataka",
+    "title": "Karnataka Family Fun & Discovery",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹28,999",
+    "priceValue": 28999,
+    "image": "https://images.unsplash.com/photo-1600689015692-a8a5be3e01d2?w=800",
+    "description": "A wholesome family journey spanning Bangalore, Mysore, and Coorg designed for all age groups. Enjoy elephant interactions at Dubare, the wonder of Mysore Palace, and scenic coffee estates in Coorg. This itinerary balances adventure, culture, and leisure for a memorable family vacation.",
+    "inclusions": [
+      "5 nights accommodation in family rooms at 3-star hotels",
+      "Daily breakfast and dinner",
+      "All intercity transfers by private AC vehicle",
+      "Elephant interaction at Dubare Elephant Camp",
+      "Entry fees and guided tours"
+    ],
+    "exclusions": [
+      "Flights/trains to and from Bangalore",
+      "Lunch",
+      "Personal expenses and shopping",
+      "Camera fees at monuments"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bangalore – City Discovery",
+        "image": "Cubbon Park Bangalore family outing",
+        "activities": [
+          "9:00 AM - Morning walk in Cubbon Park and visit Bangalore Aquarium",
+          "12:00 PM - Explore ISKCON Temple and its heritage museum",
+          "4:00 PM - Evening fun at Lalbagh Botanical Garden with kids"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bangalore to Mysore – Royal Splendor",
+        "image": "Mysore Palace Karnataka royal architecture",
+        "activities": [
+          "9:00 AM - Drive to Mysore (3 hours) via Srirangapatna",
+          "12:00 PM - Explore the grand Mysore Palace and its royal collection",
+          "4:00 PM - Visit Mysore Zoo with family and kids"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Mysore – Hills, Gardens and Markets",
+        "image": "Chamundi Hills temple view Mysore Karnataka",
+        "activities": [
+          "9:00 AM - Drive up Chamundi Hills, visit Sri Chamundeshwari Temple",
+          "12:00 PM - Shopping at Devaraja Market – spices, silk and sandalwood",
+          "4:00 PM - Evening visit to Brindavan Gardens and musical fountain show"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Mysore to Coorg – Coffee Country",
+        "image": "Coorg coffee estate misty hills Karnataka",
+        "activities": [
+          "9:00 AM - Drive from Mysore to Coorg (Madikeri) – 3 hours",
+          "12:00 PM - Check in and guided walk through a coffee estate",
+          "4:00 PM - Visit Raja's Seat garden for sunset views over Coorg valleys"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Coorg – Elephants, Waterfalls and Monastery",
+        "image": "Dubare Elephant Camp Coorg Karnataka river",
+        "activities": [
+          "9:00 AM - Dubare Elephant Camp – feed, bathe and interact with elephants",
+          "12:00 PM - Visit Abbey Falls surrounded by coffee plantations",
+          "4:00 PM - Explore Namdroling Monastery (Golden Temple) at Bylakuppe"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Coorg to Bangalore – Departure",
+        "image": "Coorg misty morning drive Karnataka",
+        "activities": [
+          "9:00 AM - Morning coffee estate walk and breakfast",
+          "12:00 PM - Drive back to Bangalore (4.5 hours)",
+          "4:00 PM - Transfer to airport/railway station for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "karnataka-honeymoon-001",
+    "destinationId": "karnataka",
+    "title": "Karnataka Romantic Escape – Coorg & Mysore",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹54,999",
+    "priceValue": 54999,
+    "image": "https://images.unsplash.com/photo-1600689015692-a8a5be3e01d2?w=800",
+    "description": "A dreamy honeymoon journey through the mist-covered hills of Coorg and the royal grandeur of Mysore. Stay in boutique plantation resorts, share candlelit dinners amidst coffee estates, and witness the illuminated Mysore Palace together. This romantic getaway is curated for newlyweds seeking intimacy and beauty.",
+    "inclusions": [
+      "5 nights accommodation in boutique/heritage hotels with couple rooms",
+      "Daily breakfast and romantic candlelit dinner",
+      "All transfers by private AC vehicle",
+      "Couples spa session at Coorg resort",
+      "Flower decoration and welcome amenities on arrival"
+    ],
+    "exclusions": [
+      "Flights/trains to and from destination",
+      "Lunch",
+      "Personal expenses and shopping",
+      "Tips and gratuities"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Coorg – Misty Plantation Welcome",
+        "image": "Coorg coffee plantation misty romantic Karnataka",
+        "activities": [
+          "9:00 AM - Arrive in Coorg, check in to boutique plantation resort",
+          "12:00 PM - Leisurely walk through coffee and spice estates hand in hand",
+          "4:00 PM - Sunset at Raja's Seat with panoramic valley views"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Coorg – Waterfalls and Golden Temple",
+        "image": "Abbey Falls Coorg lush green Karnataka",
+        "activities": [
+          "9:00 AM - Visit Abbey Falls – romantic stroll through plantation trails",
+          "12:00 PM - Explore Namdroling Monastery (Golden Temple) at Bylakuppe",
+          "4:00 PM - Couples spa and wellness session at the resort"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Coorg – Elephants and Scenic Drives",
+        "image": "Dubare Elephant Camp riverside Coorg Karnataka",
+        "activities": [
+          "9:00 AM - Dubare Elephant Camp – morning elephant interaction on Cauvery riverbank",
+          "12:00 PM - Scenic drive to Talacauvery, source of river Cauvery",
+          "4:00 PM - Private candlelit dinner at resort amidst coffee estate"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Coorg to Mysore – Royal Heritage",
+        "image": "Mysore Palace illuminated evening Karnataka romantic",
+        "activities": [
+          "9:00 AM - Drive from Coorg to Mysore (3 hours)",
+          "12:00 PM - Check in to heritage hotel, visit Mysore Palace",
+          "4:00 PM - Evening at Brindavan Gardens – illuminated fountain show"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Mysore – Romance in Royal City",
+        "image": "Chamundi Hills Mysore temple Karnataka sunrise",
+        "activities": [
+          "9:00 AM - Sunrise visit to Chamundi Hills temple",
+          "12:00 PM - Silk saree shopping at government silk emporium for spouse",
+          "4:00 PM - Horse-drawn carriage ride around Mysore Palace with dinner"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Mysore to Bangalore – Farewell",
+        "image": "Bangalore city sunset romantic rooftop Karnataka",
+        "activities": [
+          "9:00 AM - Morning leisure at hotel, late checkout",
+          "12:00 PM - Drive to Bangalore (3 hours)",
+          "4:00 PM - Romantic rooftop dinner at UB City before departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "karnataka-adventure-001",
+    "destinationId": "karnataka",
+    "title": "Karnataka Adrenaline Rush – Dandeli, Coorg & Chikmagalur",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹27,999",
+    "priceValue": 27999,
+    "image": "https://images.unsplash.com/photo-1600689015692-a8a5be3e01d2?w=800",
+    "description": "Dive into the wild heart of Karnataka across Dandeli's Kali River rapids, Coorg's lush jungle trails, and Chikmagalur's misty peaks. White water raft, trek to the highest point in Karnataka, and do wildlife safaris through dense forests. An unmissable adventure for thrill-seekers.",
+    "inclusions": [
+      "5 nights accommodation in jungle camps and adventure resorts",
+      "Daily breakfast and dinner",
+      "All intercity transfers by private AC vehicle",
+      "White water rafting session on Kali River Dandeli",
+      "Wildlife safari in Dandeli Wildlife Sanctuary"
+    ],
+    "exclusions": [
+      "Flights/trains to and from destination",
+      "Lunch",
+      "Personal accident insurance",
+      "Tips and any additional adventure activities"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Dandeli – Into the Wild",
+        "image": "Dandeli jungle camp Kali River Karnataka",
+        "activities": [
+          "9:00 AM - Arrive in Dandeli, check in to riverside jungle camp",
+          "12:00 PM - Kayaking on the calm stretches of Kali River",
+          "4:00 PM - Evening nature walk and bird watching in Dandeli Wildlife Sanctuary"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Dandeli – White Water Rafting and Safari",
+        "image": "White water rafting Kali River Dandeli Karnataka adventure",
+        "activities": [
+          "9:00 AM - Thrilling white water rafting on Class III-IV rapids of Kali River",
+          "12:00 PM - Jeep safari through Dandeli Wildlife Sanctuary spotting gaur, leopard",
+          "4:00 PM - Bonfire and overnight jungle camp experience"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Dandeli to Coorg – Jungle Trails",
+        "image": "Coorg trekking trail forest Karnataka adventure",
+        "activities": [
+          "9:00 AM - Drive from Dandeli to Coorg (approx 4 hours)",
+          "12:00 PM - Check in and trek to Brahmagiri Wildlife Sanctuary viewpoint",
+          "4:00 PM - Rappelling and zip-lining at adventure park near Madikeri"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Coorg – Waterfalls Trek and Elephant Camp",
+        "image": "Coorg Abbey Falls trekking adventure Karnataka",
+        "activities": [
+          "9:00 AM - Trekking trail through coffee plantations to Abbey Falls",
+          "12:00 PM - Dubare Elephant Camp – elephant bathing and mahout experience",
+          "4:00 PM - Cycling through Coorg countryside villages"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Chikmagalur – Peak Conquest",
+        "image": "Mullayanagiri peak trek Chikmagalur Karnataka sunrise",
+        "activities": [
+          "9:00 AM - Drive to Chikmagalur and trek Mullayanagiri (1930m, highest peak in Karnataka)",
+          "12:00 PM - Visit Baba Budangiri sacred hills and explore coffee estates",
+          "4:00 PM - Sunset trek at Hebbe Falls trail through shola forests"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Chikmagalur to Bangalore – Departure",
+        "image": "Chikmagalur coffee estate morning Karnataka",
+        "activities": [
+          "9:00 AM - Morning mountain biking on Chikmagalur trails",
+          "12:00 PM - Drive to Bangalore (5 hours)",
+          "4:00 PM - Transfer to airport/railway station for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "karnataka-luxury-001",
+    "destinationId": "karnataka",
+    "title": "Royal Karnataka – A Luxury Odyssey",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹1,24,999",
+    "priceValue": 124999,
+    "image": "https://images.unsplash.com/photo-1600689015692-a8a5be3e01d2?w=800",
+    "description": "Indulge in the finest of Karnataka across a curated 7-day luxury tour spanning Bangalore, Mysore, Coorg, and Hampi. Stay in heritage palaces, dine on gourmet cuisine, and experience Karnataka's culture with private guides and exclusive access. A premium journey for discerning travelers seeking opulence and authenticity.",
+    "inclusions": [
+      "6 nights accommodation in 5-star heritage hotels and luxury resorts",
+      "Daily breakfast and dinner at fine dining restaurants",
+      "All transfers by private luxury AC vehicle with chauffeur",
+      "Private guided tours at all monuments",
+      "Couples spa, elephant experience, and hot stone massage included"
+    ],
+    "exclusions": [
+      "Business/first class flights to Bangalore",
+      "Lunch",
+      "Personal expenses, luxury shopping",
+      "Tips and gratuities"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bangalore – Luxury City Experience",
+        "image": "Bangalore luxury hotel rooftop city view Karnataka",
+        "activities": [
+          "9:00 AM - Check in to 5-star luxury hotel in central Bangalore",
+          "12:00 PM - Private guided tour of Lalbagh Botanical Garden and Vidhana Soudha",
+          "4:00 PM - Exclusive evening dining at rooftop restaurant, UB City"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bangalore to Mysore – Heritage in Grandeur",
+        "image": "Mysore Palace luxury Karnataka royal heritage",
+        "activities": [
+          "9:00 AM - Private chauffeur transfer to Mysore (3 hours)",
+          "12:00 PM - Exclusive Mysore Palace private after-hours tour with royal curator",
+          "4:00 PM - Chamundi Hills sunset visit and dinner at heritage palace hotel"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Mysore – Silk, Gardens and Royal Leisure",
+        "image": "Brindavan Gardens illuminated Mysore luxury Karnataka",
+        "activities": [
+          "9:00 AM - Private silk saree selection experience at government silk factory",
+          "12:00 PM - Gourmet South Indian lunch at heritage restaurant",
+          "4:00 PM - Private boat ride at Brindavan Gardens with illuminated fountain show"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Mysore to Coorg – Plantation Luxury",
+        "image": "Coorg luxury resort coffee estate Karnataka misty",
+        "activities": [
+          "9:00 AM - Scenic drive to Coorg through the Ghats (3 hours)",
+          "12:00 PM - Check in to award-winning luxury plantation resort",
+          "4:00 PM - Private coffee estate tour with planter, followed by spa treatment"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Coorg – Nature and Wellness",
+        "image": "Dubare Elephant Camp luxury experience Coorg Karnataka",
+        "activities": [
+          "9:00 AM - Exclusive Dubare Elephant Camp private elephant bathing experience",
+          "12:00 PM - Abbey Falls private guided nature walk and picnic lunch",
+          "4:00 PM - Luxury Ayurvedic hot stone massage at resort spa"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Hampi – Ancient Ruins in Splendor",
+        "image": "Hampi Virupaksha Temple sunset Karnataka UNESCO",
+        "activities": [
+          "9:00 AM - Fly/drive to Hampi, check in to riverside luxury tented resort",
+          "12:00 PM - Private guided tour of Virupaksha Temple and Vittala Temple with Stone Chariot",
+          "4:00 PM - Sunset coracle ride on Tungabhadra River with private guide"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Hampi Exploration and Departure",
+        "image": "Hampi boulder landscape Achyutaraya Temple Karnataka",
+        "activities": [
+          "9:00 AM - Morning visit to Achyutaraya Temple and Hampi Bazaar ruins",
+          "12:00 PM - Gourmet farewell lunch at resort",
+          "4:00 PM - Transfer to Hubli or Bellary airport for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "karnataka-cultural-001",
+    "destinationId": "karnataka",
+    "title": "Karnataka Cultural Heritage Trail – Hampi, Badami & Mysore",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹21,999",
+    "priceValue": 21999,
+    "image": "https://images.unsplash.com/photo-1600689015692-a8a5be3e01d2?w=800",
+    "description": "Journey through the extraordinary cultural landscape of Karnataka from the Vijayanagara empire ruins at Hampi to the early Chalukya cave temples of Badami, Aihole, and Pattadakal. Conclude with the royal city of Mysore and its UNESCO-listed palace. A must for history lovers and architecture enthusiasts.",
+    "inclusions": [
+      "4 nights accommodation in heritage and comfortable hotels",
+      "Daily breakfast",
+      "All intercity transfers by private AC vehicle",
+      "Certified archaeology guide at Hampi and Badami",
+      "Entry fees to all monuments"
+    ],
+    "exclusions": [
+      "Flights/trains to and from destination",
+      "Lunch and dinner",
+      "Personal expenses and shopping",
+      "Camera fees at protected monuments"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Hampi – Vijayanagara Grandeur",
+        "image": "Virupaksha Temple Hampi Karnataka UNESCO heritage",
+        "activities": [
+          "9:00 AM - Arrive in Hampi, check in and visit Virupaksha Temple complex",
+          "12:00 PM - Guided walk through the ancient Hampi Bazaar and Hemakuta Hill temples",
+          "4:00 PM - Sunset at Vittala Temple with iconic Stone Chariot and musical pillars"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Hampi – Royal Enclosure and River Crossing",
+        "image": "Tungabhadra River coracle ride Hampi Karnataka",
+        "activities": [
+          "9:00 AM - Visit Zenana Enclosure, Lotus Mahal and Elephant Stables",
+          "12:00 PM - Explore Achyutaraya Temple and the queen's bath",
+          "4:00 PM - Traditional coracle ride on Tungabhadra River to Hippie Island"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Hampi to Badami – Chalukya Cave Temples",
+        "image": "Badami cave temples Chalukya Karnataka red sandstone",
+        "activities": [
+          "9:00 AM - Drive from Hampi to Badami (2.5 hours)",
+          "12:00 PM - Guided tour of Badami cave temples – 6th century rock-cut Chalukya architecture",
+          "4:00 PM - Visit Aihole (cradle of Indian architecture) and Pattadakal UNESCO World Heritage temples"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Badami to Mysore – Royal City",
+        "image": "Mysore Palace illuminated Karnataka royal night",
+        "activities": [
+          "9:00 AM - Drive to Mysore via Hubli (6 hours with stops)",
+          "12:00 PM - Arrive Mysore, freshen up and visit Mysore Palace",
+          "4:00 PM - Sunday/holiday special: Mysore Palace full illumination evening (if applicable)"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Mysore – Temples and Departure",
+        "image": "Chamundi Hills Mysore Karnataka morning temple",
+        "activities": [
+          "9:00 AM - Visit Sri Chamundeshwari Temple on Chamundi Hills",
+          "12:00 PM - Tour government silk weaving unit and Jaganmohan Palace art gallery",
+          "4:00 PM - Transfer to Mysore railway station or Bangalore for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "karnataka-weekend-001",
+    "destinationId": "karnataka",
+    "title": "Mysore & Coorg Weekend Escape",
+    "duration": "3 Days / 2 Nights",
+    "price": "₹12,999",
+    "priceValue": 12999,
+    "image": "https://images.unsplash.com/photo-1600689015692-a8a5be3e01d2?w=800",
+    "description": "A perfectly packed weekend getaway from Bangalore covering the royal city of Mysore and the misty hills of Coorg. Visit the iconic Mysore Palace, drive up Chamundi Hills, and breathe in the fresh air of Coorg's coffee estates. Ideal for a quick rejuvenating break from city life.",
+    "inclusions": [
+      "2 nights accommodation (1 night Mysore, 1 night Coorg)",
+      "Daily breakfast",
+      "All transfers by private AC vehicle",
+      "Mysore Palace entry and Coorg coffee estate guided walk",
+      "All applicable taxes"
+    ],
+    "exclusions": [
+      "Train/flight from and to Bangalore",
+      "Lunch and dinner",
+      "Personal expenses and shopping",
+      "Tips and gratuities"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Bangalore to Mysore – Royal Welcome",
+        "image": "Mysore Palace Karnataka royal weekend getaway",
+        "activities": [
+          "9:00 AM - Early morning drive from Bangalore to Mysore (3 hours)",
+          "12:00 PM - Visit Mysore Palace and Devaraja Market for sandalwood and silk",
+          "4:00 PM - Drive up Chamundi Hills for sunset views and temple visit"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mysore to Coorg – Coffee Hills",
+        "image": "Coorg coffee estate mist Karnataka weekend",
+        "activities": [
+          "9:00 AM - Drive from Mysore to Coorg/Madikeri (3 hours)",
+          "12:00 PM - Check in to coffee estate resort and guided plantation walk",
+          "4:00 PM - Visit Raja's Seat garden for panoramic sunset over Coorg valleys"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Coorg – Abbey Falls and Return",
+        "image": "Abbey Falls Coorg Karnataka morning waterfall",
+        "activities": [
+          "9:00 AM - Morning visit to Abbey Falls through coffee estate trails",
+          "12:00 PM - Quick stop at Namdroling Monastery (Golden Temple) Bylakuppe",
+          "4:00 PM - Drive back to Bangalore (4.5 hours) for departure"
+        ]
+      }
+    ]
+  }
+]

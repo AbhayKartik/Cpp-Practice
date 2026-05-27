@@ -1,0 +1,557 @@
+[
+  {
+    "id": "meghalaya-budget-001",
+    "destinationId": "meghalaya",
+    "title": "Meghalaya Budget Explorer",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹12,500",
+    "priceValue": 12500,
+    "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800",
+    "description": "Explore the breathtaking landscapes of Meghalaya on a budget-friendly itinerary. Visit the iconic Living Root Bridge, crystal-clear Dawki River, and the cleanest village in Asia. Perfect for solo travelers and backpackers seeking raw natural beauty.",
+    "inclusions": [
+      "4 nights accommodation in budget guesthouses/homestays",
+      "Breakfast and dinner daily",
+      "Shared cab transfers between major destinations",
+      "Local guide for Living Root Bridge trek",
+      "Boat ride at Dawki River"
+    ],
+    "exclusions": [
+      "Flights or trains to Shillong",
+      "Personal expenses and shopping",
+      "Lunch meals",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Shillong – City Exploration",
+        "image": "Shillong Ward Lake morning reflection Meghalaya",
+        "activities": [
+          "Arrive at Shillong, check-in to guesthouse by noon",
+          "Visit Ward Lake and stroll Police Bazar (2:00 PM – 4:00 PM)",
+          "Explore Elephant Falls at dusk (5:00 PM – 6:30 PM)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Shillong Peak & Don Bosco Museum",
+        "image": "Shillong Peak panoramic view cloud city Meghalaya",
+        "activities": [
+          "Morning visit to Shillong Peak for sunrise views (6:00 AM – 8:00 AM)",
+          "Don Bosco Museum of Indigenous Cultures (10:00 AM – 1:00 PM)",
+          "Afternoon rest and evening local market walk at Police Bazar"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Cherrapunji – Waterfalls & Caves",
+        "image": "Nohkalikai Falls Cherrapunji highest plunge waterfall India",
+        "activities": [
+          "Drive to Cherrapunji (2.5 hrs), visit Nohkalikai Falls viewpoint (10:00 AM)",
+          "Mawsmai Cave exploration (12:30 PM – 1:30 PM)",
+          "Seven Sisters Falls and Eco Park sunset view (3:30 PM – 5:30 PM)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Double Decker Living Root Bridge Trek",
+        "image": "Double Decker Living Root Bridge Nongriat Cherrapunji trek",
+        "activities": [
+          "Early start: trek down to Nongriat village for Double Decker Root Bridge (7:00 AM – 11:00 AM)",
+          "Swimming in natural pool near the bridge (11:00 AM – 12:30 PM)",
+          "Trek back up to Tyrna village (1:00 PM – 4:00 PM)"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Dawki & Mawlynnong – Departure",
+        "image": "Dawki Umngot River crystal clear boat ride Bangladesh border",
+        "activities": [
+          "Morning drive to Dawki, boat ride on crystal-clear Umngot River (8:00 AM – 11:00 AM)",
+          "Visit Mawlynnong – Asia's Cleanest Village (12:30 PM – 2:30 PM)",
+          "Drive back to Shillong for departure (4:00 PM onwards)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meghalaya-family-001",
+    "destinationId": "meghalaya",
+    "title": "Meghalaya Family Adventure",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹28,000",
+    "priceValue": 28000,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "A thoughtfully crafted family itinerary blending natural wonders with cultural experiences in Meghalaya. Enjoy easy nature walks, fascinating caves, river boating, and the legendary living root bridges with your family. Comfortable stays and family-friendly pacing throughout.",
+    "inclusions": [
+      "5 nights accommodation in family rooms at comfortable hotels",
+      "Breakfast and dinner daily",
+      "Private cab transfers for the entire trip",
+      "Entry fees to Mawsmai Cave, Eco Park, and Elephant Falls",
+      "Boat ride at Dawki River for the family"
+    ],
+    "exclusions": [
+      "Flights or trains to Shillong",
+      "Lunch meals",
+      "Personal expenses and souvenirs",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Shillong – Family Check-in",
+        "image": "Shillong city view clouds green hills Meghalaya",
+        "activities": [
+          "Arrive Shillong, transfer to hotel, freshen up",
+          "Evening visit to Ward Lake – paddle boating for kids (4:00 PM – 6:00 PM)",
+          "Dinner at a local Meghalayan restaurant (7:30 PM)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Shillong Sightseeing – Waterfalls & Museum",
+        "image": "Elephant Falls three-tier waterfall Shillong Meghalaya",
+        "activities": [
+          "Elephant Falls – three-tiered waterfall walk (9:00 AM – 10:30 AM)",
+          "Don Bosco Museum – interactive cultural exhibits for children (11:00 AM – 1:30 PM)",
+          "Shillong Peak viewpoint for panoramic family photos (3:30 PM – 5:00 PM)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Cherrapunji – Caves and Waterfalls",
+        "image": "Mawsmai Cave limestone Cherrapunji Meghalaya",
+        "activities": [
+          "Drive to Cherrapunji, visit Nohkalikai Falls – India's highest plunge waterfall (10:00 AM)",
+          "Mawsmai Cave – short family-friendly cave walk (12:00 PM – 1:00 PM)",
+          "Seven Sisters Falls viewpoint and Eco Park (3:00 PM – 5:00 PM)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Single Decker Root Bridge & Natural Pool",
+        "image": "Living Root Bridge Nongriat natural pool Meghalaya",
+        "activities": [
+          "Easy trek to Single Decker Root Bridge at Mynteng (family-friendly, 1 hr each way)",
+          "Picnic lunch near the bridge with packed meals",
+          "Dainthlen Falls visit on return (3:30 PM – 5:00 PM)"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Mawlynnong & Dawki River",
+        "image": "Mawlynnong Asia cleanest village bamboo walkway Meghalaya",
+        "activities": [
+          "Drive to Mawlynnong village – sky walk and village tour (9:00 AM – 11:30 AM)",
+          "Dawki Umngot River boat ride – transparent water experience (1:00 PM – 3:00 PM)",
+          "Return to Shillong via scenic highway (4:30 PM – 7:00 PM)"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Laitlum Canyons & Departure",
+        "image": "Laitlum Canyons vast gorge Shillong Meghalaya",
+        "activities": [
+          "Morning visit to Laitlum Canyons – stunning canyon views (7:30 AM – 10:00 AM)",
+          "Shopping at Police Bazar for Meghalayan handicrafts (11:00 AM – 12:30 PM)",
+          "Transfer for departure (2:00 PM onwards)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meghalaya-honeymoon-001",
+    "destinationId": "meghalaya",
+    "title": "Meghalaya Romantic Escape",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹48,000",
+    "priceValue": 48000,
+    "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800",
+    "description": "Discover Meghalaya's misty hills, secret waterfalls, and ancient root bridges with your partner on this dreamy honeymoon itinerary. Stay in boutique properties with valley views, enjoy candlelit dinners, and create unforgettable memories in the abode of clouds.",
+    "inclusions": [
+      "5 nights in boutique/heritage properties with couple room upgrades",
+      "Breakfast and candlelit dinners daily",
+      "Private cab transfers throughout",
+      "Couples' sunset boat ride at Dawki",
+      "Flower welcome amenities and honeymoon cake"
+    ],
+    "exclusions": [
+      "Flights or trains to Shillong",
+      "Spa and personal treatments",
+      "Lunch meals",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival – Romantic Welcome in Shillong",
+        "image": "Shillong misty valley sunset boutique hotel Meghalaya",
+        "activities": [
+          "Arrive Shillong, honeymoon welcome at boutique hotel with flower decor",
+          "Sunset stroll at Ward Lake – paddle boat ride (4:30 PM – 6:00 PM)",
+          "Candlelit dinner at a rooftop restaurant overlooking the valley (8:00 PM)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Misty Mornings – Shillong Peak & Falls",
+        "image": "Elephant Falls misty romantic morning Shillong",
+        "activities": [
+          "Sunrise at Shillong Peak with coffee (6:00 AM – 8:00 AM)",
+          "Romantic walk at Elephant Falls (10:00 AM – 11:30 AM)",
+          "Explore Police Bazar for local jewellery and evening leisure (4:00 PM – 6:00 PM)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Cherrapunji – Cloud Kingdom",
+        "image": "Nohkalikai Falls misty romantic viewpoint Cherrapunji",
+        "activities": [
+          "Drive to Cherrapunji through cloud-wrapped roads (8:30 AM)",
+          "Nohkalikai Falls viewpoint – dramatic 340m plunge (10:30 AM – 12:00 PM)",
+          "Seven Sisters Falls at golden hour (4:00 PM – 5:30 PM)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Living Root Bridge Trek – Nature & Love",
+        "image": "Double Decker Living Root Bridge Nongriat green canopy Meghalaya",
+        "activities": [
+          "Trek to Double Decker Living Root Bridge – 3.5 km trek through jungle (7:00 AM – 11:00 AM)",
+          "Private picnic lunch amid the forest",
+          "Return trek and relaxing evening at resort (3:00 PM onwards)"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Dawki & Mawlynnong – Crystal Waters",
+        "image": "Dawki river crystal clear boat sunset romantic Meghalaya",
+        "activities": [
+          "Couples' boat ride on Umngot River at Dawki (9:00 AM – 11:00 AM)",
+          "Mawlynnong village walk – bamboo sky walk (12:30 PM – 2:30 PM)",
+          "Romantic dinner under the stars at Cherrapunji resort (8:00 PM)"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Mawphlang & Farewell",
+        "image": "Mawphlang Sacred Forest ancient stones Meghalaya",
+        "activities": [
+          "Morning guided walk through Mawphlang Sacred Forest (8:00 AM – 10:00 AM)",
+          "Souvenir shopping – local honey and bamboo crafts (11:00 AM – 12:30 PM)",
+          "Transfer for departure (2:00 PM onwards)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meghalaya-adventure-001",
+    "destinationId": "meghalaya",
+    "title": "Meghalaya Wild Trails Adventure",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹24,000",
+    "priceValue": 24000,
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800",
+    "description": "Push your limits in the wilderness of Meghalaya with challenging root bridge treks, caving expeditions, and river kayaking. This adventure package takes you deep into the rainforest trails and canyon edges that most tourists never experience.",
+    "inclusions": [
+      "5 nights accommodation in trekker lodges and eco-camps",
+      "All meals (breakfast, lunch, dinner) on trek days",
+      "Expert adventure guide for all activities",
+      "Trekking and caving equipment rental",
+      "Kayaking session at Dawki River"
+    ],
+    "exclusions": [
+      "Flights or trains to Shillong",
+      "Personal trekking gear and shoes",
+      "Travel and adventure insurance (mandatory)",
+      "Tips to guides and porters"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival & Shillong Orientation",
+        "image": "Shillong adventure gear preparation hills Meghalaya",
+        "activities": [
+          "Arrive Shillong, gear briefing and route planning with guide",
+          "Evening conditioning walk at Laitlum Canyons rim (4:00 PM – 6:00 PM)",
+          "Briefing on safety protocols and next day trek plan"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Laitlum Canyons Full Trek",
+        "image": "Laitlum Canyons deep gorge trekking trail Meghalaya",
+        "activities": [
+          "Full day Laitlum Canyon descent and base exploration (7:00 AM – 12:00 PM)",
+          "Packed lunch at the canyon base",
+          "Ascent back and evening at leisure (2:00 PM – 5:00 PM)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Double Decker Root Bridge & Caves",
+        "image": "Double Decker Living Root Bridge Nongriat jungle trekking",
+        "activities": [
+          "Intense trek to Double Decker Root Bridge via Tyrna (7:00 AM – 11:30 AM)",
+          "Swim in rainbow falls natural pool",
+          "Return trek with optional longer route via village trail (1:00 PM – 5:00 PM)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Mawsmai Cave Deep Exploration",
+        "image": "Mawsmai Cave limestone spelunking Cherrapunji adventure",
+        "activities": [
+          "Drive to Cherrapunji, full caving session in Mawsmai and Krem Phyllut cave (9:00 AM – 1:00 PM)",
+          "Nohkalikai Falls rim walk (2:30 PM – 4:00 PM)",
+          "Night camp at Cherrapunji eco-lodge"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Dawki River Kayaking & Snorkeling",
+        "image": "Dawki Umngot River kayaking clear water adventure",
+        "activities": [
+          "Drive to Dawki, 3-hour kayaking session on Umngot River (9:00 AM – 12:00 PM)",
+          "River snorkeling in the transparent waters (1:00 PM – 2:30 PM)",
+          "Mawlynnong village bike tour (4:00 PM – 6:00 PM)"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Mawphlang Forest & Departure",
+        "image": "Mawphlang Sacred Forest trail dense canopy Meghalaya",
+        "activities": [
+          "Guided eco-trek through Mawphlang Sacred Forest (7:00 AM – 9:30 AM)",
+          "Return to Shillong, hot meal and debrief (11:00 AM – 1:00 PM)",
+          "Transfer for departure (2:30 PM onwards)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meghalaya-luxury-001",
+    "destinationId": "meghalaya",
+    "title": "Meghalaya Luxury Cloud Retreat",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹1,10,000",
+    "priceValue": 110000,
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
+    "description": "Indulge in the finest Meghalaya has to offer with premium valley-view resorts, private guided tours, and curated culinary experiences. From luxury tented camps near root bridges to helicopter views over Cherrapunji, this package redefines travel in the Northeast.",
+    "inclusions": [
+      "6 nights in luxury resorts and boutique properties with valley views",
+      "All meals including premium dinners with local cuisine",
+      "Private luxury cab with dedicated chauffeur",
+      "Private guides for all sightseeing and treks",
+      "Helicopter joyride over Cherrapunji waterfalls"
+    ],
+    "exclusions": [
+      "Flights to Shillong or Guwahati",
+      "Spa treatments and personal expenses",
+      "Tips and gratuities",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival – Luxury Welcome in Shillong",
+        "image": "Shillong luxury resort valley view sunset Meghalaya",
+        "activities": [
+          "VIP arrival, transfer in luxury vehicle to premium resort",
+          "Welcome with traditional Khasi hospitality – rice beer and red tea",
+          "Private sunset viewing at Shillong Peak (5:30 PM – 7:00 PM)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Shillong Heritage & Culture",
+        "image": "Don Bosco Museum Shillong Northeast heritage cultural",
+        "activities": [
+          "Private Don Bosco Museum tour with expert curator (10:00 AM – 12:30 PM)",
+          "Lunch at Shillong's finest restaurant – Chef's tasting menu",
+          "Private Elephant Falls photography session at golden hour (4:30 PM – 6:00 PM)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Cherrapunji Helicopter & Waterfalls",
+        "image": "Cherrapunji helicopter aerial view waterfalls clouds",
+        "activities": [
+          "Helicopter joyride over Nohkalikai Falls and Seven Sisters (8:00 AM – 9:30 AM)",
+          "Private guided tour of Mawsmai Caves with expert geologist (11:00 AM – 12:30 PM)",
+          "Luxury dinner at clifftop resort with waterfall backdrop (7:30 PM)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Private Root Bridge Experience",
+        "image": "Living Root Bridge private guided morning trek Meghalaya",
+        "activities": [
+          "Private early morning trek to Double Decker Root Bridge with botanist guide (6:30 AM – 11:00 AM)",
+          "Gourmet packed picnic lunch by the root bridge",
+          "Relaxing evening at luxury eco-resort with spa session (4:00 PM – 6:30 PM)"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Dawki Private Boat & Mawlynnong",
+        "image": "Dawki Umngot River private boat luxury experience Meghalaya",
+        "activities": [
+          "Private exclusive boat charter on Umngot River at dawn (7:00 AM – 9:30 AM)",
+          "Private village tour of Mawlynnong with local elder storytelling (11:00 AM – 1:30 PM)",
+          "Sunset cocktails at hilltop villa overlooking Bangladesh plains (5:30 PM)"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Mawphlang Sacred Forest Ceremony",
+        "image": "Mawphlang Sacred Forest stones ancient ceremony Meghalaya",
+        "activities": [
+          "Private guided ritual walk through Mawphlang Sacred Forest with Khasi elder (8:00 AM – 11:00 AM)",
+          "Laitlum Canyon sunrise photography with professional photographer (5:30 AM)",
+          "Farewell gala dinner at luxury resort with Nongkrem dance performance (8:00 PM)"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Leisurely Departure",
+        "image": "Meghalaya misty morning departure hills clouds",
+        "activities": [
+          "Leisurely breakfast with valley views",
+          "Last minute shopping for organic local honey, bamboo crafts at Ward Lake market",
+          "Private airport/station transfer (as per schedule)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meghalaya-cultural-001",
+    "destinationId": "meghalaya",
+    "title": "Meghalaya Cultural Odyssey",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹18,000",
+    "priceValue": 18000,
+    "image": "https://images.unsplash.com/photo-1604537466608-109fa2f16c3b?w=800",
+    "description": "Immerse yourself in the rich Khasi and Jaintia heritage of Meghalaya. Visit sacred forests, ancient monoliths, traditional markets, and attend the vibrant Wangala harvest festival celebrations. This cultural deep-dive offers an authentic Northeast India experience.",
+    "inclusions": [
+      "4 nights in heritage homestays with host families",
+      "All meals featuring traditional Meghalayan cuisine",
+      "Cultural guide for all heritage site visits",
+      "Don Bosco Museum and Sacred Forest entry fees",
+      "Khasi cooking class with local family"
+    ],
+    "exclusions": [
+      "Flights or trains to Shillong",
+      "Personal expenses and shopping",
+      "Camera fees at restricted heritage sites",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Shillong – Gateway to Khasi Culture",
+        "image": "Shillong traditional Khasi architecture streets heritage",
+        "activities": [
+          "Arrive and check-in with Khasi host family for authentic homestay experience",
+          "Don Bosco Centre for Indigenous Cultures – 7-floor museum covering all Northeast tribes (2:00 PM – 5:00 PM)",
+          "Evening walk through Police Bazar – local crafts and bamboo market (6:00 PM – 7:30 PM)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Sacred Forests & Monoliths",
+        "image": "Mawphlang Sacred Forest monoliths ancient Khasi Meghalaya",
+        "activities": [
+          "Guided trek in Mawphlang Sacred Forest with Khasi elder explaining taboos and traditions (9:00 AM – 12:00 PM)",
+          "Visit ancient Khasi megalithic monuments and stone memorials near Mawphlang (1:30 PM – 3:30 PM)",
+          "Traditional Khasi cooking class – jadoh rice and doh-khlieh salad (5:00 PM – 7:00 PM)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Cherrapunji – Khasi Heartland",
+        "image": "Cherrapunji Sohra traditional village Khasi culture",
+        "activities": [
+          "Drive to Sohra (Cherrapunji), visit local Khasi market with guide (9:30 AM – 11:00 AM)",
+          "Mawsmai village walk – interaction with root bridge maintaining families (12:00 PM – 2:00 PM)",
+          "Nohkalikai Falls viewpoint and Dainthlen Falls legend storytelling (3:30 PM – 5:30 PM)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Mawlynnong – Cleanest Village Experience",
+        "image": "Mawlynnong cleanest village bamboo sky walk community",
+        "activities": [
+          "Drive to Mawlynnong – meet village committee and learn about community sanitation practices (9:00 AM – 12:00 PM)",
+          "Dawki border area – Khasi-Bangladeshi cultural exchange zone visit (1:30 PM – 3:00 PM)",
+          "Traditional Khasi music and dance evening at Shillong cultural centre (7:00 PM)"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Laitlum & Departure",
+        "image": "Laitlum Canyons Meghalaya traditional Khasi village",
+        "activities": [
+          "Morning walk to Laitlum village with traditional Khasi farmer interaction (7:00 AM – 9:30 AM)",
+          "Shopping for local weavings, cane products, and organic spices",
+          "Transfer for departure with cultural farewell by host family"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meghalaya-weekend-001",
+    "destinationId": "meghalaya",
+    "title": "Meghalaya Quick Escape",
+    "duration": "3 Days / 2 Nights",
+    "price": "₹9,500",
+    "priceValue": 9500,
+    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
+    "description": "A perfect weekend escape to the Scotland of the East. Pack in Shillong's best waterfalls, the iconic Living Root Bridge, and the crystal-clear Dawki River in just three action-filled days.",
+    "inclusions": [
+      "2 nights accommodation in a mid-range hotel in Shillong",
+      "Breakfast both mornings",
+      "Shared cab transfers to Cherrapunji and Dawki",
+      "Root bridge trek local guide fees",
+      "Boat ride at Dawki"
+    ],
+    "exclusions": [
+      "Flights or trains to Shillong",
+      "Lunch and dinner meals",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Shillong Highlights",
+        "image": "Shillong Ward Lake Elephant Falls quick tour Meghalaya",
+        "activities": [
+          "Arrive Shillong, check-in and freshen up (by noon)",
+          "Elephant Falls and Ward Lake (2:00 PM – 5:00 PM)",
+          "Evening at Police Bazar – street food and local shopping (6:00 PM – 8:30 PM)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Cherrapunji & Root Bridge",
+        "image": "Living Root Bridge Nongriat Cherrapunji day trek Meghalaya",
+        "activities": [
+          "Early morning drive to Cherrapunji – Nohkalikai Falls and Mawsmai Cave (8:00 AM – 11:30 AM)",
+          "Living Root Bridge trek at Nongriat (12:30 PM – 4:00 PM)",
+          "Overnight at Cherrapunji eco-lodge or return to Shillong"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Dawki & Departure",
+        "image": "Dawki Umngot River crystal clear morning boat ride",
+        "activities": [
+          "Drive to Dawki – early morning boat ride on Umngot River (8:00 AM – 10:30 AM)",
+          "Quick visit to Mawlynnong village (11:30 AM – 1:00 PM)",
+          "Drive back to Shillong for departure (2:30 PM – 5:00 PM)"
+        ]
+      }
+    ]
+  }
+]
