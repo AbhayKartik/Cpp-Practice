@@ -1,0 +1,567 @@
+[
+  {
+    "id": "bali-budget-001",
+    "destinationId": "bali",
+    "title": "Bali Budget Backpacker",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹27,000",
+    "priceValue": 27000,
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800",
+    "description": "Discover Bali's iconic temples, emerald rice terraces, and spiritual soul without spending a fortune. Stay in stylish budget guesthouses in Ubud and Seminyak, explore the island on a scooter, and feast on delicious warung (local eatery) meals. Bali on a budget still means an extraordinary experience.",
+    "inclusions": [
+      "4 nights in clean, well-rated budget guesthouses with breakfast included",
+      "Daily breakfast at guesthouse",
+      "Ubud highlights day tour (Tegalalang Rice Terraces, Tirta Empul, Monkey Forest) by local driver",
+      "Sunset at Tanah Lot and Uluwatu Kecak dance shared tour",
+      "Airport transfers by shared shuttle"
+    ],
+    "exclusions": [
+      "International flights to/from Bali (Ngurah Rai Airport)",
+      "Indonesia visa-on-arrival fee (approx. ₹2,200)",
+      "Personal expenses, tips, and scooter hire",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bali – Seminyak Beach Evening",
+        "image": "Seminyak Beach Bali sunset orange sky surfers silhouette calm evening",
+        "activities": [
+          "Arrive at Ngurah Rai International Airport; shared shuttle to Seminyak guesthouse",
+          "Afternoon: Walk along Seminyak Beach; browse Seminyak's trendy boutique shops on Jalan Laksmana",
+          "Evening: Sunset at Seminyak Beach from one of the free beachfront spots; cheap dinner at a Warung Babi Guling (roast pig stall)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Uluwatu – Clifftop Temple & Kecak Dance",
+        "image": "Uluwatu Pura Luhur temple cliff edge sunset ocean Bali dramatic",
+        "activities": [
+          "Morning: Visit Pura Luhur Uluwatu perched on a 70m cliff above the Indian Ocean; watch for cheeky monkeys",
+          "Afternoon: Relax at Padang Padang Beach or Bingin Beach (both near Uluwatu); warung seafood lunch",
+          "Sunset: Kecak Fire Dance performance at the Uluwatu Temple amphitheatre – a mesmerising ancient ritual"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Ubud – Rice Terraces & Sacred Springs",
+        "image": "Ubud Tegalalang Rice Terraces green stepped terraces palm trees morning",
+        "activities": [
+          "8 AM: Hire a local driver for the day (budget-friendly); visit Tegalalang Rice Terraces for sunrise photos",
+          "Midday: Explore Tirta Empul Holy Water Temple – watch Balinese purification rituals; lunch at a warung in Ubud",
+          "Afternoon: Visit Ubud Monkey Forest Sanctuary; browse Ubud Art Market for handmade Balinese crafts"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Tanah Lot & Canggu Beach Day",
+        "image": "Tanah Lot temple ocean rock island sunset Bali golden hour",
+        "activities": [
+          "Morning: Canggu area – Echo Beach for surfing (lessons available cheaply); breakfast at a Canggu café",
+          "Midday: Visit Pura Tanah Lot at low tide – the iconic ocean temple on a rocky islet",
+          "Evening: Return to Seminyak; final dinner at a beachside warung with grilled fish and cold Bintang beer"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Kuta & Departure",
+        "image": "Kuta Beach Bali surf waves morning sunrise golden light",
+        "activities": [
+          "Morning: Early surf lesson at Kuta Beach (very cheap, 1 hour with board and instructor)",
+          "Late morning: Browse Kuta's Beachwalk Mall for last-minute gifts and souvenirs",
+          "Afternoon: Shuttle transfer to Ngurah Rai International Airport for departure flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bali-family-001",
+    "destinationId": "bali",
+    "title": "Bali Family Paradise",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹82,000",
+    "priceValue": 82000,
+    "image": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=800",
+    "description": "Bali is a dream destination for families thanks to its gentle Hindu culture, warm people, and endless activities for all ages. Kids will love the Sacred Monkey Forest, water parks, rice terrace swings, and village craft workshops. Comfortable family resorts in Nusa Dua and Ubud ensure relaxation for parents too. A holiday everyone will remember.",
+    "inclusions": [
+      "5 nights in family-friendly 3-4 star resorts with pools (2 adults + 2 children)",
+      "Daily breakfast and 2 family dinners at resort restaurants",
+      "Bali Zoo entry with breakfast among orangutans package",
+      "Waterbom Bali water park entry for the whole family",
+      "Private air-conditioned car with family guide for all tours"
+    ],
+    "exclusions": [
+      "International flights to/from Bali",
+      "Indonesia visa-on-arrival fees for all family members",
+      "Lunches (except on island tours) and personal expenses",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bali – Nusa Dua Resort",
+        "image": "Nusa Dua Bali family resort beach calm water palm trees blue sky",
+        "activities": [
+          "Arrive at Ngurah Rai Airport; private transfer to family resort in Nusa Dua",
+          "Afternoon: Settle in and enjoy the resort pool; children play on the safe, calm Nusa Dua beach",
+          "Evening: Welcome family dinner at the resort restaurant; watch a traditional Barong dance performance"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Waterbom Bali – Water Park Fun",
+        "image": "Waterbom Bali water slides family splash tropical garden fun",
+        "activities": [
+          "Full day at Waterbom Bali in Kuta – Asia's top-rated water park with 20+ slides including family-friendly lazy river",
+          "Midday: Lunch at the park's restaurant (included in park entry)",
+          "Evening: Back to resort; early dinner and rest for the children"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Ubud – Monkey Forest & Cooking Class",
+        "image": "Ubud Sacred Monkey Forest family children feeding long-tailed macaque",
+        "activities": [
+          "Morning: Drive to Ubud; visit the Sacred Monkey Forest Sanctuary – kids adore the playful long-tailed macaques",
+          "Midday: Family Balinese cooking class at a Ubud school (learn to make Nasi Goreng and Satay)",
+          "Afternoon: Visit Tegalalang Rice Terraces and try the famous rice terrace swing; browse the Ubud Art Market"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Bali Zoo & Tirta Empul Temple",
+        "image": "Bali Zoo orangutan breakfast family wildlife close up jungle",
+        "activities": [
+          "Morning: Bali Zoo's 'Breakfast with Orangutans' experience – eat alongside rescued orangutans",
+          "Midday: Visit Tirta Empul Holy Spring Temple; watch the purification ceremony from the viewing area",
+          "Afternoon: Drive through the scenic Kintamani volcano area; see Mount Batur from the rim viewpoint"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Tanah Lot & Seminyak Beach",
+        "image": "Tanah Lot Bali family watching temple sunset ocean dramatic sky",
+        "activities": [
+          "Morning: Explore Tanah Lot Temple complex with the family; browse the extensive souvenir market",
+          "Afternoon: Seminyak Beach – safe swimming areas, sandcastle building, and beachside lunch",
+          "Evening: Farewell family dinner at a beachfront restaurant with fire dancing entertainment"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Sanur Beach & Departure",
+        "image": "Sanur Beach Bali calm shallow water morning gentle waves kids paddling",
+        "activities": [
+          "Morning: Calm and family-friendly Sanur Beach – ideal for young children as waves are gentle inside the reef",
+          "Late morning: Visit the Bali Museum in Denpasar to understand Balinese history and art",
+          "Afternoon: Transfer to Ngurah Rai Airport for departure flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bali-honeymoon-001",
+    "destinationId": "bali",
+    "title": "Bali Romantic Bliss",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹1,25,000",
+    "priceValue": 125000,
+    "image": "https://images.unsplash.com/photo-1604999565976-8913ad2ddb7c?w=800",
+    "description": "Bali is the world's most romantic island, and this honeymoon package captures its essence perfectly. Wake up in a cliff-edge villa overlooking the Indian Ocean, watch sunrise from a rice terrace, bathe in holy springs, and dine under a canopy of stars. From Ubud's spiritual serenity to Seminyak's glamorous sunsets, love is in every moment.",
+    "inclusions": [
+      "5 nights in boutique romantic villas and cliff resorts (private pool villa with honeymoon décor)",
+      "Daily champagne breakfast in villa and 3 romantic candlelit dinners",
+      "Couples' Bali traditional spa massage (2 hours) with flower bath ritual",
+      "Private sunrise tour to Mount Batur and Tirta Empul for purification",
+      "All private air-conditioned transfers and a private driver for the duration"
+    ],
+    "exclusions": [
+      "International flights to/from Bali",
+      "Indonesia visa-on-arrival fees",
+      "Spa upgrades and personal expenses beyond inclusions",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bali – Seminyak Villa Luxury",
+        "image": "Seminyak Bali private pool villa couple evening lights frangipani flowers",
+        "activities": [
+          "Arrive at Ngurah Rai Airport; private transfer to a boutique pool villa in Seminyak",
+          "Afternoon: Private villa welcome with flower petals, champagne, and fruit platter; rest and freshen up",
+          "Evening: Sunset cocktails at Ku De Ta or Potato Head Beach Club; romantic dinner at Sarong restaurant Seminyak"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Uluwatu Cliffs & Kecak Dance Romance",
+        "image": "Uluwatu cliff Bali couple sunset ocean breeze temple fire dance orange sky",
+        "activities": [
+          "Morning: Coastal drive to Uluwatu; walk along the clifftop path to Pura Luhur Uluwatu temple",
+          "Afternoon: Private surfing lesson at Padang Padang beach; post-surf fresh coconut and seafood lunch at Ulu Cliffhouse",
+          "Sunset: Front-row couple seats at the Uluwatu Kecak Fire Dance; dinner at a clifftop seafood grill with ocean views"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Ubud – Spiritual Heart of Bali",
+        "image": "Ubud rice fields couple walking path sunrise morning golden light",
+        "activities": [
+          "Morning: Private driver to Ubud; sunrise walk through Campuhan Ridge with valley views",
+          "Midday: Spa ritual at COMO Shambhala Estate – couples' Balinese massage with herbal compress and flower bath",
+          "Afternoon: Visit Tirta Empul for a couple's purification ritual; explore the Ubud Royal Palace at dusk"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Mount Batur Sunrise Trek",
+        "image": "Mount Batur volcano Bali sunrise trekkers summit crater lake couple morning",
+        "activities": [
+          "2 AM: Depart for Mount Batur; guided trek in darkness with torches (2 hours to the summit)",
+          "5:30 AM: Watch the sunrise over the crater lake and Mount Agung from the caldera rim – a spiritual and breathtaking moment",
+          "Return to Ubud villa for a late breakfast; afternoon free for rest, shopping, or optional cooking class"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Nusa Penida – Island Paradise",
+        "image": "Nusa Penida Kelingking Beach dinosaur cliff T-Rex head turquoise water couple",
+        "activities": [
+          "7 AM: Fast boat from Sanur to Nusa Penida (30 min); jeep tour to Kelingking Beach viewpoint (iconic T-Rex cliff)",
+          "Midday: Visit Angel Billabong and Broken Beach – natural infinity pool carved by the sea; packed lunch on the rocks",
+          "Afternoon: Snorkelling with manta rays at Manta Point; return fast boat to Bali; romantic farewell dinner at the villa"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Tanah Lot & Departure",
+        "image": "Tanah Lot Bali ocean temple sunrise soft light couple walk",
+        "activities": [
+          "Morning: Visit Tanah Lot at sunrise before the crowds; walk the coastal path hand in hand",
+          "Late morning: Leisurely breakfast at a cliffside café overlooking the ocean",
+          "Afternoon: Final villa time and check-out; private transfer to Ngurah Rai Airport for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bali-adventure-001",
+    "destinationId": "bali",
+    "title": "Bali Active Adventure",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹55,000",
+    "priceValue": 55000,
+    "image": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=800",
+    "description": "Bali isn't just temples and sunsets – it's one of Southeast Asia's premier adventure destinations. Trek to the summit of an active volcano before dawn, white-water raft the roaring Ayung River, surf world-class breaks in Uluwatu, dive vibrant coral gardens off Nusa Penida, and mountain bike through jungle villages. An adrenaline rush in paradise.",
+    "inclusions": [
+      "5 nights in adventure guesthouses and eco-lodges near activity centres",
+      "Daily breakfast and packed lunches on trekking and rafting days",
+      "Mount Batur pre-dawn summit trek with certified guide",
+      "Ayung River white-water rafting (Grade 2-3, 2 hours) with gear provided",
+      "Nusa Penida snorkelling with manta rays by fast boat"
+    ],
+    "exclusions": [
+      "International flights to/from Bali",
+      "Indonesia visa-on-arrival fees",
+      "Personal adventure gear beyond provisions; travel insurance (mandatory – strongly recommended)",
+      "Tips for guides and drivers"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival & Surfing at Kuta",
+        "image": "Kuta Beach Bali surfer riding wave sunset beginner lesson fun",
+        "activities": [
+          "Arrive at Ngurah Rai Airport; transfer to a surf hostel in Kuta or Seminyak",
+          "Afternoon: 2-hour beginner surf lesson at Kuta Beach with a local surf instructor",
+          "Evening: Gear up with your guide for the coming week's adventures; dinner at a Warung on Legian Street"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mount Batur – Volcano Summit Trek",
+        "image": "Mount Batur summit dawn active volcano crater lake Bali trekkers",
+        "activities": [
+          "1:30 AM: Transfer to Toya Bungkah village; begin 2-hour guided night trek to Mount Batur summit (1,717m)",
+          "5:30 AM: Watch a spectacular sunrise over the volcanic crater and Lake Batur; cook eggs in volcanic steam vents",
+          "Midday: Descend and soak in Toya Bungkah natural hot springs; return to base for a late lunch and rest"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Ayung River White-Water Rafting",
+        "image": "Ayung River Bali rafting green jungle gorge rapids white water group",
+        "activities": [
+          "Morning: Drive to Ubud area; briefing and gear up for Ayung River rafting (25 rapids over 9 km through lush gorge)",
+          "Midday: Post-raft lunch at a riverside jungle restaurant",
+          "Afternoon: Mountain biking through Ubud's rice fields and traditional villages; visit an organic coffee and spice plantation"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Nusa Penida – Snorkelling & Cliffs",
+        "image": "Nusa Penida manta ray snorkelling underwater blue water clear Bali",
+        "activities": [
+          "6:30 AM: Fast boat from Sanur to Nusa Penida; jeep to Kelingking Beach for the iconic cliff viewpoint",
+          "Midday: Snorkelling at Crystal Bay and Manta Point – spot manta rays, turtles, and colourful reef fish",
+          "Afternoon: Visit Angel Billabong natural pool; return to Bali by fast boat; evening at Canggu"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Uluwatu – Surfing & Cliff Jumping",
+        "image": "Uluwatu surf break reef wave barrel ride sunset Bali surfer",
+        "activities": [
+          "Morning: Surfing session at Uluwatu's famous reef break (intermediate level recommended)",
+          "Midday: Cliff jumping at a hidden cove near Nyang Nyang Beach with a guide",
+          "Afternoon: Canyoning through the Green Canyon at Kemenuh waterfall near Gianyar; sunset from the clifftop"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Canggu Beach Day & Departure",
+        "image": "Canggu Echo Beach Bali surf watch morning breakfast café cool",
+        "activities": [
+          "Morning: Yoga class on the beach at Canggu (popular with the adventure crowd); final surf at Echo Beach",
+          "Late morning: Brunch at a Canggu hipster café; last-minute shopping at the Canggu market",
+          "Afternoon: Transfer to Ngurah Rai Airport for departure flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bali-luxury-001",
+    "destinationId": "bali",
+    "title": "Bali Luxury Sanctuary",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹2,60,000",
+    "priceValue": 260000,
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
+    "description": "Experience Bali at the absolute pinnacle of luxury. Stay in a private cliff-edge villa in Uluwatu, a jungle retreat in Ubud, and a beachfront ocean villa in Seminyak – all with private plunge pools and dedicated butlers. Enjoy exclusive temple tours, private cooking classes with master chefs, and world-class wellness rituals. This is Bali reimagined.",
+    "inclusions": [
+      "6 nights in 5-star private pool villas (butler service, daily room décor, minibar included)",
+      "All breakfasts, 3 gourmet lunches, and 5 fine dining dinners (including one private beach dinner)",
+      "Private car and dedicated English-speaking guide for the entire trip",
+      "Nusa Penida private speedboat charter with butler-prepared picnic lunch",
+      "Daily 90-minute couples spa treatment at top Bali spas (Four Seasons, COMO, or Aman standard)"
+    ],
+    "exclusions": [
+      "International flights to/from Bali",
+      "Indonesia visa-on-arrival fees",
+      "Additional spa and wellness treatments beyond the daily inclusion",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival – Uluwatu Clifftop Villa",
+        "image": "Uluwatu Bali luxury cliff villa private pool infinity ocean Indian Ocean sunset",
+        "activities": [
+          "Private airport transfer to a clifftop luxury villa in Uluwatu with panoramic Indian Ocean views",
+          "Afternoon: Villa welcome – floral bath, welcome cocktail, and butler orientation; rest in the private infinity pool",
+          "Evening: Exclusive private Kecak Fire Dance viewing with front-row reserved seats; dinner at a fine clifftop restaurant"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Uluwatu – Beaches & Yoga Ritual",
+        "image": "Uluwatu Bali private beach yoga session sunrise cliff morning peaceful",
+        "activities": [
+          "Dawn: Private sunrise yoga session on the villa cliff deck with an Ubud-trained instructor",
+          "Morning: Snorkelling at the pristine Blue Point Beach (Suluban); fresh seafood brunch at Ulu Cliffhouse",
+          "Afternoon: 90-minute Balinese boreh herbal scrub and massage at the villa spa; sunset cocktails on the terrace"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Drive to Ubud – Jungle Retreat",
+        "image": "Ubud jungle villa Bali river gorge private plunge pool lush tropical morning",
+        "activities": [
+          "Morning: Scenic drive to Ubud through volcanic highland roads and rice fields; check in to a river gorge jungle villa",
+          "Afternoon: Private guided tour of Pura Gunung Kawi – ancient 11th-century royal tombs carved into rock faces",
+          "Evening: Exclusive Royal Ubud dinner experience with authentic Bebek Betutu (slow-roasted duck) and gamelan music"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Ubud – Ceremony, Cooking & Sacred Water",
+        "image": "Tirta Empul Holy Spring Ubud Bali purification ritual sacred pool morning flowers",
+        "activities": [
+          "Morning: Private guided Hindu purification ritual at Tirta Empul Holy Spring with a Balinese priest blessing",
+          "Midday: Private culinary masterclass with a celebrated Ubud chef in a Balinese pavilion kitchen",
+          "Afternoon: 90-minute four-hand Balinese massage at COMO Shambhala; evening at leisure in Ubud town"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Nusa Penida – Private Island Escape",
+        "image": "Nusa Penida private beach picnic white sand blue water secluded Bali",
+        "activities": [
+          "7 AM: Private speedboat from Sanur to Nusa Penida; exclusive jeep tour of the island",
+          "Midday: Butler-served private picnic lunch on a secluded beach near Atuh Beach",
+          "Afternoon: Snorkelling with manta rays at Manta Bay; sunset cruise back to Bali by private boat"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Seminyak – Luxury Beach Villa & Fine Dining",
+        "image": "Seminyak Bali beachfront villa pool sunset golden hour cocktails elegant",
+        "activities": [
+          "Morning: Private transfer to an oceanfront pool villa in Seminyak; complimentary room upgrade and amenities",
+          "Afternoon: Personal shopping with a private stylist along Jalan Petitenget's luxury boutiques",
+          "Evening: Private beach dinner set-up with candlelight, floral décor, and a personalised menu prepared by the villa chef"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Tanah Lot Sunrise & Departure",
+        "image": "Tanah Lot Bali sunrise golden mist temple rock island dawn peaceful",
+        "activities": [
+          "Dawn: Private sunrise visit to Tanah Lot before it opens to the public – a magical and serene experience",
+          "Morning: Last villa breakfast; 90-minute farewell spa ritual (traditional Lulur body treatment)",
+          "Afternoon: Private transfer to Ngurah Rai Airport for departure flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bali-cultural-001",
+    "destinationId": "bali",
+    "title": "Bali Spiritual & Cultural Discovery",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹48,000",
+    "priceValue": 48000,
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+    "description": "Bali's Hindu culture is one of the world's most vibrant and visually spectacular. This itinerary immerses you in daily ceremonies at ancient temples, the mesmerising Kecak Fire Dance, sacred purification rituals at holy springs, and traditional Balinese crafts passed down through generations. Return home with a deeper understanding of the Island of the Gods.",
+    "inclusions": [
+      "4 nights in culturally positioned guesthouses and heritage homestays",
+      "Daily breakfast and 2 traditional Balinese meals (ceremony-style)",
+      "Full-day guided temple circuit (Besakih, Kintamani, Tirta Empul) with historian",
+      "Balinese offerings-making and Legong dance class with local artists",
+      "Private driver and cultural expert guide for all tours"
+    ],
+    "exclusions": [
+      "International flights to/from Bali",
+      "Indonesia visa-on-arrival fees",
+      "Personal expenses, tips, and optional temple donations",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival – Ubud, the Cultural Capital",
+        "image": "Ubud Bali Royal Palace stone carvings demon gate evening gamelan",
+        "activities": [
+          "Arrive at Ngurah Rai Airport; private transfer to a heritage homestay in Ubud",
+          "Afternoon: Visit the Ubud Royal Palace and the Museum Puri Lukisan – Bali's first fine arts museum",
+          "Evening: Watch a Legong or Barong dance performance at the Ubud Palace open-air stage"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Full-Day Temple Circuit – Besakih & Kintamani",
+        "image": "Besakih Mother Temple Bali misty volcano Agung grand staircase worshippers",
+        "activities": [
+          "7 AM: Early departure to Pura Besakih – Bali's Mother Temple on the slopes of Mount Agung; observe morning prayers",
+          "Midday: Drive to Kintamani plateau; lunch overlooking Mount Batur volcano and caldera lake",
+          "Afternoon: Visit Tirta Empul holy springs for a guided cultural explanation of the Hindu purification rites"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Ubud – Crafts, Offerings & Sacred Monkey Forest",
+        "image": "Ubud Bali woodcarving workshop artisan traditional Balinese craft village",
+        "activities": [
+          "Morning: Workshop in traditional Balinese offering-making (Canang Sari) with a local ibu (woman elder)",
+          "Midday: Cycle through Mas village – Bali's woodcarving centre; visit a silversmith in Celuk village",
+          "Afternoon: Walk the Sacred Monkey Forest; visit Pura Dalem Agung temple within the forest"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Uluwatu – Ancient Sea Temple & Dance",
+        "image": "Uluwatu Bali Kecak fire dance sunset priests amphitheatre ocean backdrop",
+        "activities": [
+          "Morning: Drive to Pura Goa Lawah (Bat Cave Temple) near Kusamba; observe devotees and hundreds of bats",
+          "Midday: Visit Pura Ulun Danu Bratan – the beautiful lake temple at Bedugul surrounded by water and mist",
+          "Sunset: Attend the Kecak Fire Dance at Uluwatu – 150 performers chanting and re-enacting the Ramayana epic"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Tanah Lot & Departure",
+        "image": "Tanah Lot Bali sea temple worshippers ceremony morning tide dramatic",
+        "activities": [
+          "Morning: Visit Pura Tanah Lot at low tide – walk across the tidal flat to see the snake guardian shrine",
+          "Late morning: Watch morning prayers and offerings at the temple; visit the adjacent Pura Batu Bolong",
+          "Afternoon: Transfer to Ngurah Rai Airport for departure; carry home a handmade Balinese carving as a memento"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bali-weekend-001",
+    "destinationId": "bali",
+    "title": "Bali Weekend Escape",
+    "duration": "4 Days / 3 Nights",
+    "price": "₹36,000",
+    "priceValue": 36000,
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800",
+    "description": "Short on time but craving Bali? This perfectly crafted 4-day getaway squeezes in the absolute best of the island – lush rice terraces, cliffside temples, a volcano sunrise, and a relaxing beach evening. Fly in Thursday night and be back Monday morning feeling completely renewed. Bali's magic works even on a long weekend.",
+    "inclusions": [
+      "3 nights in comfortable 3-star hotels (Ubud and Seminyak)",
+      "Daily breakfast",
+      "Mount Batur sunrise trek with certified guide and breakfast at the summit",
+      "Ubud highlights guided tour (Tegalalang, Tirta Empul, Monkey Forest)",
+      "Airport transfers and inter-city private transfers"
+    ],
+    "exclusions": [
+      "International flights to/from Bali",
+      "Indonesia visa-on-arrival fees",
+      "Personal expenses, tips, and optional spa",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Ubud – Monkey Forest & Rice Terraces",
+        "image": "Ubud Tegalalang Rice Terraces green Bali landscape morning coconut trees",
+        "activities": [
+          "Arrive at Ngurah Rai Airport (afternoon/evening); private transfer to Ubud hotel (1.5 hours)",
+          "Early evening: Walk through the Ubud Monkey Forest at golden hour; explore the small lanes of Ubud centre",
+          "Dinner: Rooftop warung in Ubud with valley view and local Balinese dishes"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mount Batur Volcano Sunrise Trek",
+        "image": "Mount Batur Bali sunrise summit volcano crater couple trekkers dawn",
+        "activities": [
+          "1:30 AM: Hotel pick-up; drive to trekking base at Toya Bungkah; begin 2-hour guided summit trek",
+          "5:30 AM: Sunrise from the rim of Mount Batur – watch the sky turn gold over Mount Agung and the lake",
+          "Morning: Return to Ubud; visit Tirta Empul Temple and Tegalalang Rice Terraces before a late lunch"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Uluwatu & Seminyak Beach",
+        "image": "Uluwatu cliff temple sunset Bali monkey ocean dramatic rocks evening",
+        "activities": [
+          "Morning: Drive to Uluwatu; visit Pura Luhur Uluwatu clifftop temple and walk the scenic coastal path",
+          "Midday: Lunch at a cliffside warung with ocean views; afternoon at Seminyak Beach",
+          "Sunset: Sunset drinks at Ku De Ta or Potato Head Beach Club; transfer to Seminyak hotel"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Tanah Lot & Departure",
+        "image": "Tanah Lot Bali ocean temple morning peaceful water reflection sky",
+        "activities": [
+          "Morning: Sunrise at Tanah Lot temple before the crowds arrive; coastal walk along the clifftop path",
+          "Late morning: Browse Seminyak's local market for last-minute Bali gifts and sarongs",
+          "Afternoon: Transfer to Ngurah Rai Airport for departure flight"
+        ]
+      }
+    ]
+  }
+]

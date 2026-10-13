@@ -1,0 +1,567 @@
+[
+  {
+    "id": "vietnam-budget-001",
+    "destinationId": "vietnam",
+    "title": "Vietnam Budget Explorer",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹28,500",
+    "priceValue": 28500,
+    "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=800",
+    "description": "Experience the best of northern Vietnam without breaking the bank. This budget-friendly itinerary covers Hanoi's iconic Old Quarter, a day cruise on the mystical Halong Bay, and the serene landscapes of Ninh Binh. Perfect for solo travellers and backpackers seeking authentic Vietnamese culture at an affordable price.",
+    "inclusions": [
+      "4 nights accommodation in budget guesthouses/hostels (twin sharing)",
+      "Daily breakfast at hotel",
+      "Halong Bay shared day cruise with lunch included",
+      "All airport and inter-city transfers by shared coach",
+      "Hanoi Old Quarter walking tour with local guide"
+    ],
+    "exclusions": [
+      "International flights to/from Hanoi",
+      "Vietnam e-visa fees (approx. ₹2,000)",
+      "Personal expenses, shopping, and tips",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Hanoi – Old Quarter Discovery",
+        "image": "Hanoi Old Quarter narrow streets lanterns evening glow",
+        "activities": [
+          "Arrive at Noi Bai International Airport; shared transfer to Old Quarter hotel (check-in by 2 PM)",
+          "Afternoon stroll around Hoan Kiem Lake and visit Ngoc Son Temple on the iconic red Huc Bridge",
+          "Evening street food walk in the Old Quarter – try Bun Cha, Banh Mi, and Bia Hoi corner"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Halong Bay Day Cruise",
+        "image": "Halong Bay limestone karsts emerald water morning mist",
+        "activities": [
+          "7:30 AM: Depart by shared bus to Halong Bay pier (3.5-hour drive); board shared day cruise by 12 PM",
+          "Afternoon: Explore Sung Sot (Surprise) Cave, optional kayaking through limestone arches (extra charge)",
+          "5 PM: Return to Hanoi; light dinner at a local Old Quarter restaurant"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Hanoi City Highlights",
+        "image": "Ho Chi Minh Mausoleum grand colonial facade morning ceremony",
+        "activities": [
+          "Morning: Visit Ho Chi Minh Mausoleum complex and the One Pillar Pagoda (open 7 AM–11 AM)",
+          "Midday: Explore the Temple of Literature – Vietnam's first university built in 1070; lunch at a local pho shop",
+          "Afternoon: Browse the Vietnamese Women's Museum and relax at Truc Bach Lake before a leisurely evening"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Ninh Binh – The Inland Halong Bay",
+        "image": "Ninh Binh Trang An river boats karst mountains lush green",
+        "activities": [
+          "8 AM: Shared bus to Ninh Binh (2 hours); arrive and check in to guesthouse",
+          "Morning: Boat trip through Trang An Geopark – row through cave tunnels and rice paddies (UNESCO site)",
+          "Afternoon: Cycle to Bich Dong Pagoda and climb to Mua Cave peak for panoramic valley views; dinner of local goat meat (de nuong) in Ninh Binh town"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Ninh Binh to Hanoi – Departure",
+        "image": "Bai Dinh Pagoda golden Buddha statues corridor sunrise",
+        "activities": [
+          "Morning: Visit Bai Dinh Pagoda – Vietnam's largest Buddhist complex with over 500 Arhat statues",
+          "11 AM: Transfer back to Hanoi by shared coach",
+          "Afternoon: Last-minute souvenir shopping at Dong Xuan Market; transfer to airport for departure flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vietnam-family-001",
+    "destinationId": "vietnam",
+    "title": "Vietnam Family Adventure",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹74,000",
+    "priceValue": 74000,
+    "image": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=800",
+    "description": "A perfectly paced family holiday blending Vietnam's top highlights with kid-friendly activities. From Hanoi's cultural landmarks to a family overnight cruise on Halong Bay and the charming lantern-lit streets of Hoi An, every day is designed to delight both children and adults. Comfortable hotel stays and private transfers ensure a stress-free experience.",
+    "inclusions": [
+      "5 nights accommodation in 3-star family rooms (2 adults + 2 children)",
+      "Daily breakfast and 3 dinners at recommended family restaurants",
+      "Private airport and inter-city transfers by air-conditioned vehicle",
+      "Halong Bay overnight cruise (standard cabin, all meals included)",
+      "Hoi An lantern-making workshop and bicycle rental for family"
+    ],
+    "exclusions": [
+      "International flights to/from Vietnam",
+      "Vietnam e-visa fees for all family members",
+      "Lunches on days not specified and personal expenses",
+      "Travel insurance and tips for guides/drivers"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Hanoi – Family Check-In",
+        "image": "Hanoi Hoan Kiem Lake red bridge Ngoc Son Temple family afternoon",
+        "activities": [
+          "Arrive at Noi Bai Airport; private transfer to family hotel in the Old Quarter",
+          "Late afternoon: Walk around Hoan Kiem Lake – kids can feed turtles and enjoy lakeside ice cream",
+          "Evening: Enjoy a Vietnamese water puppet show at Thang Long Theatre (perfect for all ages)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Hanoi to Halong Bay – Overnight Cruise",
+        "image": "Halong Bay overnight cruise junk boat golden sunset family deck",
+        "activities": [
+          "8 AM: Private transfer to Halong Bay pier; board family-friendly junk boat by noon with welcome lunch",
+          "Afternoon: Explore Thien Cung Cave (Heavenly Palace Cave) by guided walk; squid fishing off the boat deck at dusk",
+          "Evening: Seafood dinner on deck under the stars; overnight in standard cruise cabin"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Halong Bay – Kayaking & Return to Hanoi",
+        "image": "Halong Bay kayaking limestone caves clear water family paddling",
+        "activities": [
+          "Early morning: Tai Chi session on the boat deck at sunrise over the karsts",
+          "Morning: Family kayaking through hidden lagoons and mangrove caves; visit a floating fishing village",
+          "Afternoon: Return to Hanoi by private bus; evening free for shopping at Dong Xuan Market"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Fly to Hoi An – Ancient Town Exploration",
+        "image": "Hoi An Ancient Town yellow buildings lanterns river reflection evening",
+        "activities": [
+          "Morning: Domestic flight Hanoi to Da Nang; private transfer to Hoi An hotel (30 minutes)",
+          "Afternoon: Explore Hoi An Ancient Town – visit the iconic Japanese Covered Bridge and colourful merchant houses",
+          "Evening: Families release colourful lanterns on the Thu Bon River; dinner at a riverside restaurant"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Hoi An – Cooking Class & Lantern Workshop",
+        "image": "Hoi An morning market fresh herbs cooking class family fun",
+        "activities": [
+          "Morning: Join a family Vietnamese cooking class – visit the local market and cook Cao Lau and White Rose dumplings",
+          "Afternoon: Participate in a lantern-making workshop; cycle around the rice fields on the outskirts of Hoi An",
+          "Evening: Leisure time to browse tailor shops and enjoy a farewell dinner in the Ancient Town"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Da Nang – Departure",
+        "image": "Da Nang Dragon Bridge sunrise coastal cityscape family",
+        "activities": [
+          "Morning: Visit the Golden Bridge (Ba Na Hills cable car access) – the famous bridge held by giant stone hands",
+          "Midday: Transfer to Da Nang International Airport for departure flight",
+          "Optional: Stop at My Khe Beach for a final dip before the airport transfer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vietnam-honeymoon-001",
+    "destinationId": "vietnam",
+    "title": "Vietnam Romantic Escape",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹1,12,000",
+    "priceValue": 112000,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "Fall in love with Vietnam on this curated honeymoon journey designed for couples. Begin with romantic evenings in Hanoi's Old Quarter, move to a premium Halong Bay overnight cruise with private balcony cabins, and finish with candlelit dinners by the Thu Bon River in enchanting Hoi An. Every detail is crafted for intimacy and discovery.",
+    "inclusions": [
+      "5 nights accommodation in boutique hotels and romantic resorts (couple rooms with décor)",
+      "Daily breakfast in bed and 2 candlelit dinners at top-rated restaurants",
+      "Premium Halong Bay 2-night cruise with private balcony cabin",
+      "Private air-conditioned transfers throughout the trip",
+      "Romantic sunset boat ride on Thu Bon River with flower arrangement"
+    ],
+    "exclusions": [
+      "International flights to/from Vietnam",
+      "Vietnam e-visa fees",
+      "Spa treatments and optional excursions beyond the itinerary",
+      "Travel insurance and gratuities"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Hanoi – Old Quarter Romance",
+        "image": "Hanoi Old Quarter rooftop cafe couple evening city lights",
+        "activities": [
+          "Arrive at Noi Bai Airport; private transfer to boutique hotel in Hanoi's French Quarter",
+          "Afternoon: Leisurely walk around Hoan Kiem Lake; visit Ngoc Son Temple and photograph the iconic red bridge at golden hour",
+          "Evening: Romantic dinner at a rooftop restaurant overlooking the Old Quarter with live traditional music"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Hanoi to Halong Bay – Premium Cruise Begins",
+        "image": "Halong Bay luxury junk boat couple private balcony limestone karsts",
+        "activities": [
+          "9 AM: Private transfer to Halong Bay; board premium junk boat with welcome champagne and floral cabin décor",
+          "Afternoon: Couples kayaking through pristine Hidden Lagoon and explore a bat cave by torchlight",
+          "Sunset: Private sundeck cocktails with panoramic karst views; romantic seafood dinner on board"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Halong Bay – Sunrise & Sailing",
+        "image": "Halong Bay sunrise golden mist limestone islands couple on deck",
+        "activities": [
+          "6 AM: Watch sunrise together from the private cabin balcony over the misty karsts",
+          "Morning: Visit Vung Vieng Floating Village; optional cooking class on board with the chef",
+          "Afternoon: Return cruise to the pier; private transfer to Hanoi for overnight flight or continue journey"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Fly to Hoi An – Ancient Town Magic",
+        "image": "Hoi An Ancient Town lanterns silk dresses couple walking cobblestone",
+        "activities": [
+          "Morning flight from Hanoi to Da Nang; private transfer to a riverside boutique hotel in Hoi An",
+          "Afternoon: Explore Hoi An Ancient Town hand-in-hand – visit the Japanese Bridge and art galleries on Nguyen Thai Hoc Street",
+          "Evening: Release floating lanterns on the Thu Bon River at dusk; candlelit riverside dinner"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Hoi An – Spa Day & Sunset Beach",
+        "image": "Hoi An An Bang Beach couple sunset waves golden sand",
+        "activities": [
+          "Morning: Indulge in a couples' traditional Vietnamese herbal spa massage at a boutique spa",
+          "Afternoon: Private driver to An Bang Beach – relax on pristine sands with a book and chilled coconut water",
+          "Evening: Farewell dinner at the Deck restaurant with views over the rice paddies; optional cycle through villages"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Da Nang – Departure",
+        "image": "Da Nang My Khe Beach sunrise couple walking shoreline",
+        "activities": [
+          "Morning: Stroll along My Khe Beach at sunrise – one of the most beautiful beaches in Asia",
+          "Late morning: Visit the Marble Mountains – a cluster of five marble and limestone hills with Buddhist caves",
+          "Afternoon: Transfer to Da Nang Airport for departure flight home"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vietnam-adventure-001",
+    "destinationId": "vietnam",
+    "title": "Vietnam Adventure Trail",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹58,000",
+    "priceValue": 58000,
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800",
+    "description": "Push your limits on this action-packed Vietnam adventure combining Sapa's misty mountain treks, Halong Bay kayaking, and the legendary Cu Chi Tunnels. Trek through terraced rice fields to remote hill tribe villages, paddle through limestone sea caves, and crawl through wartime underground networks. Vietnam's wild side awaits the bold traveller.",
+    "inclusions": [
+      "5 nights accommodation in trekking lodges and mid-range hotels",
+      "Daily breakfast and packed lunch on trekking days",
+      "Sapa 2-day/1-night village trek with certified local guide",
+      "Halong Bay adventure kayaking day trip with gear provided",
+      "Cu Chi Tunnels guided tour including tunnel crawl experience"
+    ],
+    "exclusions": [
+      "International flights to/from Vietnam",
+      "Vietnam e-visa fees",
+      "Personal trekking gear beyond basic provisions",
+      "Travel insurance (strongly recommended) and tips"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Hanoi – Adventure Briefing",
+        "image": "Hanoi night street food stalls backpacker area buzzing energy",
+        "activities": [
+          "Arrive at Noi Bai Airport; transfer to Hanoi guesthouse near the Old Quarter",
+          "Evening: Gear check and adventure briefing with tour guide at the hostel",
+          "Night: Explore Bia Hoi Junction – grab a street beer and meet fellow travellers"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Overnight Train to Sapa – Mountain Trekking Begins",
+        "image": "Sapa rice terraces fog morning hill tribe village Muong Hoa Valley",
+        "activities": [
+          "8 AM: Hanoi city half-day tour (Temple of Literature, Hoan Kiem Lake); afternoon free for preparation",
+          "9 PM: Board overnight train from Hanoi to Lao Cai (Sapa gateway) – hard sleeper berth",
+          "Arrive Lao Cai at 6 AM next morning for transfer to Sapa town"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Sapa – Village Trek & Home Stay",
+        "image": "Sapa Muong Hoa Valley terraced rice paddies green golden season trekker path",
+        "activities": [
+          "8 AM: Trek from Sapa town through Muong Hoa Valley – visit Cat Cat and Y Linh Ho Hmong villages (12 km route)",
+          "Midday: Packed lunch in a rice field with views of Fansipan peak on clear days",
+          "Evening: Overnight homestay in a Black Hmong family house; traditional dinner and cultural exchange"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Sapa to Hanoi – Halong Bay Prep",
+        "image": "Sapa Ta Van village bamboo bridge river lush valley morning",
+        "activities": [
+          "Morning: Trek to Ta Van Giay village; visit local market and observe traditional weaving techniques",
+          "Afternoon: Transfer back to Lao Cai; return train or bus to Hanoi",
+          "Evening: Rest in Hanoi; gear prep for the next day's Halong Bay kayaking adventure"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Halong Bay – Sea Kayaking & Cave Exploration",
+        "image": "Halong Bay sea kayak paddling through dark cave arch turquoise water",
+        "activities": [
+          "6 AM: Early bus from Hanoi to Halong Bay pier; join adventure kayaking group",
+          "Full day: Kayak through Dark Cave (Hang Toi), Hidden Lagoon, and around the floating Cua Van fishing village",
+          "Late afternoon: Return to Hanoi; debrief dinner at a local restaurant with fellow adventurers"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Ho Chi Minh City – Cu Chi Tunnels & Departure",
+        "image": "Cu Chi Tunnels wartime underground network jungle entrance Vietnam",
+        "activities": [
+          "Morning flight Hanoi to Ho Chi Minh City; transfer to Cu Chi Tunnels (70 km northwest)",
+          "Afternoon: Guided Cu Chi Tunnels tour – crawl through 100m of wartime tunnels, see booby traps and wartime exhibits",
+          "Evening: Explore Ben Thanh Market; transfer to Tan Son Nhat Airport for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vietnam-luxury-001",
+    "destinationId": "vietnam",
+    "title": "Vietnam Luxury Odyssey",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹2,25,000",
+    "priceValue": 225000,
+    "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=800",
+    "description": "Indulge in Vietnam's finest experiences across five iconic destinations. Stay at 5-star resorts and boutique hotels, cruise Halong Bay on a luxury superjacht with gourmet meals, dine at award-winning restaurants in Hoi An, and explore imperial Hue with a private historian. This is Vietnam at its most opulent and immersive.",
+    "inclusions": [
+      "6 nights in 5-star hotels and luxury boutique properties (suite or superior rooms)",
+      "All breakfasts, 3 fine-dining lunches, and 4 gourmet dinners included",
+      "Halong Bay 2-night luxury cruise (en-suite cabin with private balcony, butler service)",
+      "Private air-conditioned car and guide throughout; domestic flights included",
+      "Exclusive imperial Hue tour with private historian and royal court lunch"
+    ],
+    "exclusions": [
+      "International flights to/from Vietnam",
+      "Vietnam e-visa fees",
+      "Spa treatments, personal expenses, and premium alcohol",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Hanoi – French Quarter Elegance",
+        "image": "Hanoi Sofitel Metropole Hotel elegant French colonial lobby evening",
+        "activities": [
+          "VIP arrival transfer to a 5-star French Quarter hotel (e.g., Sofitel Metropole Hanoi)",
+          "Afternoon: Private guided tour of Hoan Kiem Lake, Ngoc Son Temple, and colonial architecture with a heritage expert",
+          "Evening: Welcome dinner at a top-rated Vietnamese fine dining restaurant with paired wine menu"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Hanoi Culture – Ho Chi Minh & Temple of Literature",
+        "image": "Temple of Literature Hanoi scholar courtyard ancient architecture serene",
+        "activities": [
+          "Morning: Private guided tour of Ho Chi Minh Mausoleum, Presidential Palace, and the One Pillar Pagoda",
+          "Midday: Lunch at Press Club Hanoi – a landmark fine dining institution",
+          "Afternoon: Tour the Temple of Literature and Vietnam Museum of Ethnology; evening cocktails at a rooftop bar"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Halong Bay – Luxury Cruise Embarkation",
+        "image": "Halong Bay luxury superjacht private deck couple champagne karst panorama",
+        "activities": [
+          "Morning: Private car to Tuan Chau Marina; board premium luxury cruise with welcome champagne reception",
+          "Afternoon: Private chartered kayaking and snorkelling; visit a secluded deserted beach exclusive to cruise guests",
+          "Evening: 5-course gourmet dinner with fresh seafood; stargazing from the sun deck"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Halong Bay to Hue – Imperial City",
+        "image": "Hue Imperial Citadel moat walls golden gate ancient Vietnam dynasty",
+        "activities": [
+          "Morning: Sunrise yoga on the cruise deck; breakfast before disembarkation",
+          "Afternoon flight from Hanoi to Hue; private transfer to a colonial boutique hotel on the Perfume River",
+          "Evening: Sunset boat cruise on the Perfume River to Thien Mu Pagoda; dinner featuring Hue royal cuisine"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Hue – Imperial Citadel & Royal Tombs",
+        "image": "Hue Minh Mang Royal Tomb stone elephants lotus pond misty morning",
+        "activities": [
+          "Morning: Exclusive private tour of Hue Imperial Citadel with a royal court historian; visit the Forbidden Purple City",
+          "Midday: Royal Hue lunch experience served in traditional style with 8 dishes",
+          "Afternoon: Visit the magnificent tombs of Emperor Minh Mang and Tu Duc; evening free in Hue town"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Hoi An – Artisan Town & Culinary Delights",
+        "image": "Hoi An Ancient Town silk lanterns night market reflections Thu Bon river",
+        "activities": [
+          "Morning: Private transfer to Hoi An (3 hours via Hai Van Pass coastal route with photo stops)",
+          "Afternoon: Exclusive tailoring consultation on Tran Phu Street; tour silk and lacquerware workshops with a local artisan",
+          "Evening: Private cooking class with a Michelin-recommended chef; dinner at The Deck restaurant by the river"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Ho Chi Minh City – Farewell in Style",
+        "image": "Ho Chi Minh City Reunification Palace grand courtyard city skyline dusk",
+        "activities": [
+          "Morning flight from Da Nang to Ho Chi Minh City; check in to 5-star hotel in District 1",
+          "Afternoon: Private city tour – Reunification Palace, Notre Dame Cathedral, Central Post Office, and Ben Thanh Market",
+          "Evening: Farewell dinner at Chill Skybar or Noir restaurant; departure transfer to Tan Son Nhat Airport"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vietnam-cultural-001",
+    "destinationId": "vietnam",
+    "title": "Vietnam Cultural Immersion",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹52,000",
+    "priceValue": 52000,
+    "image": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=800",
+    "description": "Journey through three millennia of Vietnamese civilisation on this culturally rich itinerary. Trace imperial history in Hue's walled citadel, uncover UNESCO-listed Hoi An's merchant heritage, and absorb the soul of the nation at Hanoi's temples and museums. Guided by local historians, every monument comes alive with stories of dynasty, war, and resilience.",
+    "inclusions": [
+      "4 nights in cultural heritage hotels (centrally located, 3-4 star)",
+      "Daily breakfast and 2 traditional Vietnamese cultural lunches",
+      "Expert English-speaking cultural historian guide for all tours",
+      "All entrance fees to monuments, citadels, museums, and pagodas",
+      "Private air-conditioned transfers between cities and airports"
+    ],
+    "exclusions": [
+      "International flights to/from Vietnam",
+      "Vietnam e-visa fees",
+      "Personal expenses, dinners (except specified), and tips",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Hanoi – Cradle of Vietnamese Civilisation",
+        "image": "Hanoi Temple of Literature scholars courtyard ancient stone stelae",
+        "activities": [
+          "Arrive at Noi Bai Airport; private transfer to Old Quarter heritage hotel",
+          "Afternoon: Guided tour of Temple of Literature (Van Mieu) – Vietnam's first imperial academy dating to 1070",
+          "Evening: Visit Hoa Lo Prison Museum (the 'Hanoi Hilton'); night walk through the Old Quarter's 36 guild streets"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Hanoi – Pagodas, Mausoleum & Ethnic Museum",
+        "image": "Hanoi Ho Chi Minh Mausoleum solemn morning guard ceremony Ba Dinh Square",
+        "activities": [
+          "7 AM: Visit Ho Chi Minh Mausoleum (open mornings only) and One Pillar Pagoda",
+          "Midday: Vietnam Museum of Ethnology – exhibits on 54 ethnic minority groups; traditional cultural lunch",
+          "Afternoon: Visit the Fine Arts Museum; evening water puppet performance at Thang Long Theatre"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Fly to Hue – Imperial Capital Exploration",
+        "image": "Hue Imperial Citadel Ngo Mon Gate royal red walls moat reflection",
+        "activities": [
+          "Morning flight Hanoi to Hue; private transfer to hotel near the Perfume River",
+          "Afternoon: Comprehensive tour of Hue Imperial Citadel – Thai Hoa Palace, Mieu Temple, and the Nine Dynastic Urns",
+          "Evening: Attend a traditional Nha Nhac royal court music performance (UNESCO Intangible Heritage)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Hue Tombs & Drive to Hoi An",
+        "image": "Hue Khai Dinh Tomb mosaic facade stone dragons grand mountain setting",
+        "activities": [
+          "Morning: Visit the elaborately decorated Khai Dinh Tomb and the serene Tu Duc Tomb set among pine forests",
+          "Midday: Drive to Hoi An via the scenic Hai Van Pass coastal road (2.5 hours) with photo stops",
+          "Afternoon: Arrive Hoi An; guided walk through the Ancient Town – Japanese Bridge, Phuc Kien Assembly Hall, and silk shops"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Hoi An – Craftsmanship & Departure",
+        "image": "Hoi An Tan Ky ancient merchant house interior carved wood lanterns daylight",
+        "activities": [
+          "Morning: Visit Tan Ky Ancient House and the Hoi An Museum of History and Culture",
+          "Late morning: Attend a lantern-making or silk-weaving craft workshop with a local artisan family",
+          "Afternoon: Transfer to Da Nang International Airport for departure flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vietnam-weekend-001",
+    "destinationId": "vietnam",
+    "title": "Vietnam Weekend Escape – Hanoi & Halong",
+    "duration": "4 Days / 3 Nights",
+    "price": "₹38,000",
+    "priceValue": 38000,
+    "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=800",
+    "description": "Short on time but big on experience – this compact itinerary hits Vietnam's most iconic highlights in just four days. Explore Hanoi's charming Old Quarter and temples before setting sail on the magical waters of Halong Bay. Ideal for long-weekend travellers who want maximum impact with minimal days off work.",
+    "inclusions": [
+      "3 nights accommodation (2 in Hanoi Old Quarter hotel, 1 overnight on Halong cruise)",
+      "Daily breakfast and all meals during the Halong cruise",
+      "Halong Bay overnight cruise with cabin, all meals, kayaking, and cave tour",
+      "All transfers by private car (airport–hotel–pier–airport)",
+      "Hanoi highlights half-day guided city tour"
+    ],
+    "exclusions": [
+      "International flights to/from Hanoi",
+      "Vietnam e-visa fees",
+      "Personal expenses, optional activities, and tips",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Hanoi – First Impressions",
+        "image": "Hanoi Hoan Kiem Lake early morning tai chi locals peaceful",
+        "activities": [
+          "Arrive at Noi Bai Airport; private transfer to Old Quarter hotel (check-in from 2 PM)",
+          "Afternoon: Walk Hoan Kiem Lake; explore Ngoc Son Temple and the vibrant 36-street Old Quarter neighbourhood",
+          "Evening: Street food tour – Bun Bo Nam Bo, Banh Cuon, and the famous Egg Coffee at Cafe Giang"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Hanoi City Tour & Halong Bay Embarkation",
+        "image": "Halong Bay junk boat sailing limestone karsts blue sky afternoon",
+        "activities": [
+          "Morning: City tour – Ho Chi Minh Mausoleum, One Pillar Pagoda, Temple of Literature, and the Hoa Lo Prison",
+          "12 PM: Private transfer to Halong Bay pier (3.5 hours); board overnight cruise with welcome lunch",
+          "Afternoon: Explore Dau Go Cave; sunset cocktails on deck; seafood dinner and overnight in cruise cabin"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Halong Bay – Kayak, Cave & Return",
+        "image": "Halong Bay kayaking hidden lagoon emerald water narrow passage morning",
+        "activities": [
+          "6:30 AM: Sunrise on the top deck; Tai Chi session over the mist-covered bay",
+          "Morning: Kayaking through dark mangrove caves and around floating fishing villages",
+          "1 PM: Return to pier by boat; private car back to Hanoi; evening free to explore Dong Xuan Market"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Hanoi – Last Morning & Departure",
+        "image": "Hanoi West Lake Tran Quoc Pagoda lotus pink morning reflection",
+        "activities": [
+          "Morning: Peaceful walk to West Lake and visit Tran Quoc Pagoda – Hanoi's oldest Buddhist temple",
+          "Late morning: Last café stop in the French Quarter; final souvenir shopping on Hang Gai silk street",
+          "Transfer to Noi Bai International Airport for departure"
+        ]
+      }
+    ]
+  }
+]

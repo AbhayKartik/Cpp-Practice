@@ -1,0 +1,567 @@
+[
+  {
+    "id": "tamil-nadu-budget-001",
+    "destinationId": "tamil-nadu",
+    "title": "Tamil Nadu Budget Temple Trail",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹18,500",
+    "priceValue": 18500,
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+    "description": "Explore Tamil Nadu's ancient temple towns on a friendly budget. This itinerary takes you from Chennai's Marina Beach to the Dravidian temple towers of Madurai and the UNESCO-listed Shore Temple at Mahabalipuram. Comfortable budget lodges, local train journeys, and authentic South Indian meals make this an immersive and affordable trip.",
+    "inclusions": [
+      "4 nights in budget government-approved lodges and traveller hotels",
+      "Daily breakfast and 3 traditional South Indian meals (Sadhya thali style)",
+      "Mahabalipuram guided walking tour with ASI-certified guide",
+      "Madurai Meenakshi Temple evening guided tour with commentary",
+      "All inter-city travel by state AC bus or train (sleeper class)"
+    ],
+    "exclusions": [
+      "Flights or trains to/from Chennai",
+      "Personal expenses, temple photography fees, and tips",
+      "Lunches on unspecified days and premium transport upgrades",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Chennai – Marina Beach & Kapaleeshwarar Temple",
+        "image": "Chennai Marina Beach sunrise fishermen boats golden sky long shoreline",
+        "activities": [
+          "Arrive at Chennai Central or Chennai Airport; transfer to a hotel in the Mylapore area",
+          "Afternoon: Walk along Marina Beach – the world's second-longest urban beach (13 km); visit the statues and food stalls",
+          "Evening: Visit Kapaleeshwarar Temple in Mylapore – a Dravidian masterpiece with a towering gopuram and fragrant jasmine market"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mahabalipuram – UNESCO Rock Temples",
+        "image": "Mahabalipuram Shore Temple stone structure Bay of Bengal waves sunrise",
+        "activities": [
+          "8 AM: Bus to Mahabalipuram (60 km south of Chennai); arrive at the Shore Temple complex",
+          "Midday: Explore Arjuna's Penance (world's largest bas-relief), Five Rathas (Pancha Rathas), and the Krishna's Butter Ball",
+          "Evening: Return to Chennai by bus; dinner at an Udupi restaurant near Mylapore"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Kanchipuram – City of Thousand Temples",
+        "image": "Kanchipuram Ekambaranathar Temple gopuram silk weavers town Tamil Nadu",
+        "activities": [
+          "7 AM: Day trip to Kanchipuram (75 km from Chennai) – the silk city and temple town",
+          "Morning: Visit Ekambaranathar Temple (dedicated to Lord Shiva, with a 58m gopuram) and Kailasanathar Temple",
+          "Afternoon: Visit a traditional silk weaving cooperative; buy Kanchipuram silk sarees at factory prices; return to Chennai by evening"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Overnight Train to Madurai",
+        "image": "Madurai Meenakshi Amman Temple gopuram night lights reflections tank",
+        "activities": [
+          "Morning: Visit Fort St. George and the Tamil Nadu Legislative Assembly complex in Chennai",
+          "Afternoon: Government Museum Chennai – excellent collection of Roman coins, bronze Natarajas, and Amaravati sculptures",
+          "Evening: Board overnight express train to Madurai (Pandyan Express or Vaigai Express – approx. 8 hours)"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Madurai – Meenakshi Temple & Departure",
+        "image": "Madurai Meenakshi Temple Hall of Thousand Pillars stone carvings morning",
+        "activities": [
+          "Arrive Madurai early morning; freshen up at hotel; visit Meenakshi Amman Temple at sunrise (magnificent golden chariot tank)",
+          "Midday: Explore the Hall of Thousand Pillars and the temple museum; lunch at a Madurai famous Jigarthanda stall",
+          "Afternoon: Visit Thirumalai Nayakkar Palace; evening train or bus back to Chennai or departure from Madurai"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tamil-nadu-family-001",
+    "destinationId": "tamil-nadu",
+    "title": "Tamil Nadu Family Heritage Tour",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹68,000",
+    "priceValue": 68000,
+    "image": "https://images.unsplash.com/photo-1589308454676-22b4ecf99280?w=800",
+    "description": "Introduce your family to the grandeur of South India's temple civilisations and cool hill stations. This tour blends UNESCO heritage sites, the living temple city of Madurai, the serene hill town of Kodaikanal, and the spiritual shores of Rameswaram – all at a comfortable pace with family-friendly accommodation and home-cooked style South Indian meals.",
+    "inclusions": [
+      "5 nights in 3-star family rooms at well-located hotels",
+      "Daily breakfast and 3 dinners at restaurant or hotel",
+      "Private air-conditioned car and driver for all inter-city and city transfers",
+      "Kodaikanal boat ride on the lake and guided nature walk",
+      "Guided tour of Meenakshi Temple and Brihadeeswarar Temple with ASI-licensed guide"
+    ],
+    "exclusions": [
+      "Flights or trains to/from Chennai",
+      "Temple photography fees and personal shopping expenses",
+      "Lunches except where specified; tips for guides and driver",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Chennai – Beach & Colonial History",
+        "image": "Chennai Fort St George colonial building waterfront heritage building morning",
+        "activities": [
+          "Arrive at Chennai; private transfer to a family hotel in Egmore or T. Nagar",
+          "Afternoon: Visit Fort St. George (India's first English fortress) and St. Mary's Church inside the fort",
+          "Evening: Marina Beach evening walk; try family-favourite Chennai snacks – Sundal, Murukku, and filter coffee"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mahabalipuram – Ancient Monuments",
+        "image": "Mahabalipuram Five Rathas stone chariot temples children family monument",
+        "activities": [
+          "8 AM: Private drive to Mahabalipuram (1 hour); guided tour of the Five Rathas and Arjuna's Penance",
+          "Midday: Shore Temple complex – the atmospheric 7th-century Pallava temple by the sea; beach picnic lunch",
+          "Afternoon: Tiger Cave rock-cut monument on the drive back; arrive Chennai by 6 PM"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Drive to Kodaikanal – Hill Station Charm",
+        "image": "Kodaikanal Lake mist morning boat rowing green hills Tamil Nadu",
+        "activities": [
+          "8 AM: Depart Chennai by private car to Kodaikanal (500 km, 8 hours via Dindigul); check in to a hill resort",
+          "Evening: Sunset walk on Coaker's Walk promenade with views over the valley",
+          "Dinner: Family dinner at a local restaurant; try local strawberry jam and home-made chocolate (Kodai specialties)"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Kodaikanal – Lake, Waterfalls & Pine Forest",
+        "image": "Kodaikanal Bear Shola Waterfall misty forest waterfall family picnic Tamil Nadu",
+        "activities": [
+          "Morning: Pedal boat or rowboat on Kodaikanal Lake; walk the 5km lake circumference path",
+          "Midday: Visit Pillar Rocks and Guna Caves (Devil's Kitchen); packed lunch in the pine forest",
+          "Afternoon: Bear Shola Falls and Silver Cascade Falls; shopping on Anna Salai for eucalyptus oil and chocolates"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Madurai – Meenakshi Temple & Nayak Palace",
+        "image": "Madurai Meenakshi Amman Temple gopuram colourful sculpted deities evening",
+        "activities": [
+          "8 AM: Drive from Kodaikanal to Madurai (3 hours); check in to hotel near the temple",
+          "Midday: Comprehensive guided tour of Meenakshi Amman Temple – four towering gopurams and the Golden Lotus Tank",
+          "Afternoon: Thirumalai Nayakkar Palace – 17th-century Dravidian palace with 248 columns; evening aarti at the temple"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Rameswaram – Pilgrimage & Pamban Bridge",
+        "image": "Rameswaram Pamban Bridge sea railway blue water island Tamil Nadu",
+        "activities": [
+          "7 AM: Drive to Rameswaram (4 hours from Madurai); cross the iconic Pamban Bridge over the sea",
+          "Midday: Visit Ramanathaswamy Temple – walk the 1.2km outer corridor; bathe in the temple's 22 sacred theerthams",
+          "Afternoon: Dhanushkodi ghost town – the tip of India's land with a view towards Sri Lanka; depart for Madurai or Chennai"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tamil-nadu-honeymoon-001",
+    "destinationId": "tamil-nadu",
+    "title": "Tamil Nadu Romantic Heritage Escape",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹88,000",
+    "priceValue": 88000,
+    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800",
+    "description": "Discover the romance hidden within South India's ancient landscape on this honeymoon curated for culture-loving couples. Stroll misty hilltop gardens in Ooty, watch the sunrise over the world's greatest temple pyramid in Thanjavur, and walk to the edge of India at Dhanushkodi. With boutique heritage hotels and candlelit dinners, Tamil Nadu surprises at every turn.",
+    "inclusions": [
+      "5 nights in boutique heritage hotels and romantic hill resort properties",
+      "Daily breakfast and 3 romantic dinners with traditional South Indian multi-course meals",
+      "Ooty Nilgiri Mountain Railway toy train ride (heritage experience for couples)",
+      "Private car with dedicated driver and cultural guide for the entire trip",
+      "Private sunrise Brihadeeswarar Temple tour in Thanjavur with a historian"
+    ],
+    "exclusions": [
+      "Flights or trains to/from Chennai or Coimbatore",
+      "Personal expenses, spa treatments, and tips",
+      "Lunches on unspecified days",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Ooty – Nilgiri Hill Station",
+        "image": "Ooty Nilgiri Hills botanical garden couple walking morning mist green",
+        "activities": [
+          "Fly into Coimbatore; private transfer to Ooty (90 km, 3 hours via Coonoor ghat road)",
+          "Afternoon: Visit the Government Botanical Garden – 22 hectares of terraced gardens with rare species",
+          "Evening: Sunset at Doddabetta Peak (Tamil Nadu's highest point at 2,637m); romantic dinner at a heritage hotel with valley views"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ooty – Toy Train & Tea Gardens",
+        "image": "Nilgiri Mountain Railway toy train Ooty misty valley UNESCO heritage",
+        "activities": [
+          "Morning: UNESCO-listed Nilgiri Mountain Railway toy train ride from Ooty to Coonoor (23 km through hills and tunnels)",
+          "Midday: Visit Highfield Tea Factory in Coonoor for a guided tour and tea tasting; lunch at a Coonoor café",
+          "Afternoon: Explore Sim's Park in Coonoor; return to Ooty; candlelit dinner at the heritage resort"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Drive to Thanjavur – Big Temple City",
+        "image": "Thanjavur Brihadeeswarar Temple grand Chola vimana tower Nandi morning",
+        "activities": [
+          "8 AM: Scenic drive from Ooty to Thanjavur (250 km, 5 hours) via Palani and Trichy",
+          "Evening: Check in to a heritage hotel near the temple; sunset visit to Brihadeeswarar Temple",
+          "Dinner: South Indian wedding-style Sadhya meal at a traditional restaurant with Tamil classical music"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Thanjavur – Chola Heritage & Tanjore Paintings",
+        "image": "Thanjavur Brihadeeswarar Temple UNESCO aerial view Chola granite vimana",
+        "activities": [
+          "Dawn: Private sunrise access to the Brihadeeswarar Temple – the UNESCO World Heritage Chola masterpiece",
+          "Midday: Thanjavur Palace Museum – see the royal armoury, painting gallery, and magnificent saraswathi mahal library",
+          "Afternoon: Watch a live Tanjore painting and bronze casting demonstration by local artisans"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Madurai – Meenakshi Temple Romance",
+        "image": "Madurai Meenakshi Temple golden lotus tank reflection evening lights couple",
+        "activities": [
+          "Morning: Drive to Madurai (4 hours via Pudukkottai); check in to a hotel near the temple",
+          "Afternoon: Guided couple's walk through the Meenakshi Amman Temple with a heritage guide",
+          "Evening: Attend the dramatic closing aarti ceremony (Alagar procession) at 9:45 PM; dinner on a rooftop with temple views"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Rameswaram Sunrise & Departure",
+        "image": "Rameswaram Ramanathaswamy Temple sunrise sea shore Tamil Nadu pilgrimage couple",
+        "activities": [
+          "5 AM: Drive to Rameswaram for sunrise at the beach – dramatic sea view as the sun rises over the Palk Strait",
+          "Morning: Walk the corridor of Ramanathaswamy Temple hand in hand; touch the water at the southernmost tip",
+          "Midday: Drive back to Madurai for departure flight or train"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tamil-nadu-adventure-001",
+    "destinationId": "tamil-nadu",
+    "title": "Tamil Nadu Outdoor Adventure",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹52,000",
+    "priceValue": 52000,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "description": "Tamil Nadu's Western Ghats offer incredible trekking, wildlife safaris, and white-water rafting, while its coastline provides surfing and sea kayaking. Trek the misty Nilgiri hills, camp in Anamalai Tiger Reserve, white-water raft the Bhavani River, and finish with surfing lessons at Chennai's famous break. Tamil Nadu's wild side is deeply underrated.",
+    "inclusions": [
+      "5 nights in eco-camps, jungle lodges, and trekking hostels",
+      "Daily breakfast and packed lunches on trekking and rafting days",
+      "Anamalai Tiger Reserve jeep safari (2 safaris) with naturalist",
+      "Bhavani River white-water rafting (Grade 2-3) with safety gear",
+      "Guided trekking to Kodaikanal's Dolphin's Nose and Green Valley View"
+    ],
+    "exclusions": [
+      "Flights or trains to/from Chennai or Coimbatore",
+      "Personal trekking gear beyond basic provisions; personal expenses",
+      "Travel insurance (strongly recommended for adventure activities)",
+      "Tips for guides, naturalists, and safari drivers"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Coimbatore – Anamalai Base",
+        "image": "Anamalai Tiger Reserve jungle elephant path mist Western Ghats morning",
+        "activities": [
+          "Fly into Coimbatore; transfer to Valparai (80 km, 2.5 hours via 40 hairpin bends) – gateway to Anamalai",
+          "Afternoon: Orientation walk through the Sholayar Reserve Forest area; birdwatching on the estate roads",
+          "Evening: Briefing at the eco-lodge; dinner with fellow trekkers and trip planning for the days ahead"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Anamalai Tiger Reserve – Jeep Safaris",
+        "image": "Anamalai Tiger Reserve jeep safari elephant herd grassland morning light",
+        "activities": [
+          "6 AM: Morning jeep safari (3 hours) into Anamalai Tiger Reserve – chance to see elephants, gaur, and leopards",
+          "Midday: Lunch at the forest rest house; afternoon rest",
+          "4 PM: Evening jeep safari in a different zone; watch elephants at the watering hole at dusk"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Bhavani River – White-Water Rafting",
+        "image": "Bhavani River rafting Hogenakkal rapids water spray Tamil Nadu adventure",
+        "activities": [
+          "8 AM: Drive to the Bhavani River launching point near Mettupalayam (2 hours)",
+          "Midday: Full-day white-water rafting experience through Grade 2-3 rapids; safety briefing with certified instructor",
+          "Evening: Transfer to Ooty for the night; rest at trekking hostel"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Kodaikanal Trek – Dolphin's Nose & Green Valley",
+        "image": "Kodaikanal Dolphin Nose viewpoint valley Tamil Nadu trekker misty gorge",
+        "activities": [
+          "7 AM: Drive to Kodaikanal (3 hours from Ooty); arrive and start the Dolphin's Nose trail (3 km each way through dense forests)",
+          "Midday: Packed lunch at Dolphin's Nose viewpoint – a rocky promontory jutting over a 6,000-foot deep valley",
+          "Afternoon: Trek to Green Valley View (also called Suicide Point) for a panorama over the plains"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Kodaikanal to Chennai – Surfing at Marina",
+        "image": "Chennai Marina Beach surfing lesson young surfer wave Tamil Nadu coast",
+        "activities": [
+          "Morning: Early drive from Kodaikanal to Chennai (470 km, 8 hours via Dindigul and Salem)",
+          "Late afternoon: Check into a hostel near Marina Beach; beginner surfing lesson on Marina Beach at sunset",
+          "Evening: Recover with a Chennai-style street dinner on Besant Nagar Beach Road"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Chennai – Kayaking & Departure",
+        "image": "Chennai Kovalam Beach sea kayaking early morning fishing boats coastline",
+        "activities": [
+          "Morning: Sea kayaking session at Kovalam Beach (30 km south of Chennai) with a local kayaking club",
+          "Midday: Cycle along ECR (East Coast Road) to a clifftop café for brunch",
+          "Afternoon: Transfer to Chennai Airport for departure flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tamil-nadu-luxury-001",
+    "destinationId": "tamil-nadu",
+    "title": "Tamil Nadu Grand Temple Luxury",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹1,95,000",
+    "priceValue": 195000,
+    "image": "https://images.unsplash.com/photo-1585135497273-1a86b09fe70e?w=800",
+    "description": "Tamil Nadu's finest temples, most opulent heritage hotels, and best Chettinad cuisine await on this luxury journey through the ancient Dravidian heartland. Stay in converted palace hotels and award-winning heritage properties, travel by private chauffeur, enjoy private dawn temple access with senior priests, and taste royal Chettinad meals prepared by master cooks. This is Tamil Nadu at its most magnificent.",
+    "inclusions": [
+      "6 nights in 5-star heritage hotels and palace properties (Taj, ITC, Visalam, or equivalent)",
+      "All breakfasts, 3 heritage lunches, and 5 fine dining dinners with wine or traditional welcome drink",
+      "Private AC car with experienced cultural guide for the entire journey",
+      "Exclusive dawn access to Brihadeeswarar and Meenakshi temples with senior priest blessings",
+      "Private Chettinad royal cooking demonstration and lunch with a Natukotai Chettiar family"
+    ],
+    "exclusions": [
+      "Flights or trains to/from Chennai",
+      "Personal spa and wellness treatments beyond complimentary inclusions",
+      "Shopping and personal expenses; tips for priests and guides",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Chennai – Heritage Colonial Stay",
+        "image": "Chennai Taj Coromandel Hotel grand lobby heritage elegance evening golden",
+        "activities": [
+          "Arrive at Chennai Airport; VIP transfer to a 5-star heritage hotel in Nungambakkam",
+          "Afternoon: Private guided tour of Fort St. George, the Government Museum (Pallava and Chola bronzes), and the National Art Gallery",
+          "Evening: Welcome dinner with Chettinad cuisine at the hotel's award-winning restaurant"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mahabalipuram – Private Archaeological Tour",
+        "image": "Mahabalipuram Shore Temple sunrise private heritage expert stone carvings",
+        "activities": [
+          "Early morning: Private chauffeur to Mahabalipuram for sunrise at the Shore Temple (before general public entry)",
+          "Midday: Exclusive guided archaeological tour of Arjuna's Penance and the Five Rathas with a senior ASI archaeologist",
+          "Afternoon: Lunch at the Taj Fisherman's Cove resort; return to Chennai by evening"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Fly to Trichy – Onward to Thanjavur",
+        "image": "Thanjavur Brihadeeswarar Temple interior Nandi bull sanctum sanctorum priest",
+        "activities": [
+          "Morning flight Chennai to Trichy; private transfer to a heritage hotel in Thanjavur (60 km)",
+          "Afternoon: Private tour of the Thanjavur Palace and Saraswathi Mahal Library (rare palm leaf manuscripts)",
+          "Evening: Private sunset access to Brihadeeswarar Temple with a senior Shaivite priest; brass lamp-lit aarti"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Chettinad – Royal Cuisine & Mansions",
+        "image": "Chettinad heritage mansion carved wooden pillars Nattukotai Chettiar antique hall",
+        "activities": [
+          "Morning: Private transfer to Chettinad (90 km from Thanjavur); check in to Visalam heritage hotel",
+          "Midday: Exclusive private cooking demonstration at a Natukotai Chettiar mansion; 12-dish royal Chettinad lunch",
+          "Afternoon: Walk through Karaikudi and Kanadukathan – historic Chettiar mansions with imported Italian tiles, Burmese teak, and antique chandeliers"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Madurai – Meenakshi Temple at Dawn",
+        "image": "Madurai Meenakshi Temple golden chariot tank priests rituals morning sacred",
+        "activities": [
+          "5 AM: Private car to Madurai; exclusive early-access Meenakshi Amman Temple tour before public opening",
+          "Midday: Thirumalai Nayakkar Palace private tour with a heritage archaeologist; traditional Madurai lunch",
+          "Afternoon: Check in to a heritage hotel; evening Meenakshi Amman night aarti (Arthajama Puja) with VIP passes"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Rameswaram – Sacred Island & Sea",
+        "image": "Rameswaram Ramanathaswamy Temple corridor longest temple corridor India stone pillars",
+        "activities": [
+          "6 AM: Drive to Rameswaram (4 hours); arrive at the holiest pilgrimage site in South India",
+          "Midday: Private guided tour of Ramanathaswamy Temple – the world's longest temple corridor (1.2 km) adorned with 1,212 pillars",
+          "Afternoon: Visit Dhanushkodi – the ghost town at the edge of India; sunset by the sea; farewell gourmet dinner"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Drive Back to Madurai – Departure",
+        "image": "Madurai city skyline temple towers sunrise aerial Tamil Nadu cultural",
+        "activities": [
+          "Morning: Leisurely breakfast at the Rameswaram hotel; private drive back to Madurai (4 hours)",
+          "Midday: Last shopping stop for Madurai jasmine garlands, Kanchipuram silk, and bronze Nataraja figurines",
+          "Afternoon: Transfer to Madurai Airport for departure flight to Chennai or home city"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tamil-nadu-cultural-001",
+    "destinationId": "tamil-nadu",
+    "title": "Tamil Nadu Classical Culture Circuit",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹46,000",
+    "priceValue": 46000,
+    "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800",
+    "description": "Tamil Nadu is the cradle of Dravidian civilisation and classical arts. This deeply cultural itinerary follows the magnificent Chola, Pallava, and Pandya dynasties through their living temple monuments in Mahabalipuram, Thanjavur, and Madurai. Witness a traditional Bharatanatyam performance, attend temple ceremonies unchanged for 1,000 years, and marvel at the world's greatest Dravidian architecture.",
+    "inclusions": [
+      "4 nights in heritage-located 3-star hotels near major temple sites",
+      "Daily breakfast and 2 traditional multi-course South Indian cultural meals",
+      "ASI-licensed cultural guide for all temple tours (speaks English and Tamil)",
+      "Evening Bharatanatyam classical dance performance with lecture on classical arts",
+      "Private car for inter-city and local transfers"
+    ],
+    "exclusions": [
+      "Flights or trains to/from Chennai",
+      "Temple photography permits and personal shopping",
+      "Dinners except where specified; tips for guides and driver",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Chennai – Pallava Heritage & Classical Museum",
+        "image": "Chennai Government Museum Chola bronze Nataraja sculpture ancient Tamil Nadu",
+        "activities": [
+          "Arrive at Chennai; check in to a hotel in the Mylapore heritage district",
+          "Afternoon: Government Museum Chennai – India's finest collection of South Indian bronzes (Nataraja, Parvati, Vishnu)",
+          "Evening: Attend a Bharatanatyam classical dance performance at the Music Academy or Kalakshetra Foundation"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mahabalipuram – Pallava Rock Monuments",
+        "image": "Mahabalipuram Arjuna Penance bas relief granite stone massive ancient Pallava",
+        "activities": [
+          "7 AM: Private car to Mahabalipuram; guided archaeological tour of the Pallava monuments",
+          "Midday: Shore Temple, Mahishasura Mardini Cave, and Tiger Cave – 1,400 years of unbroken rock-cut tradition",
+          "Afternoon: Visit the new Tamil Nadu Sculpture Museum at Mahabalipuram; return to Chennai by evening"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Fly to Trichy – Thanjavur & Chola Greatness",
+        "image": "Thanjavur Brihadeeswarar Temple Chola vimana UNESCO World Heritage stone monolith",
+        "activities": [
+          "Morning flight Chennai to Trichy; drive to Thanjavur (60 km); check in to heritage hotel",
+          "Afternoon: Comprehensive guided tour of Brihadeeswarar Temple – UNESCO Big Temple built by Raja Raja Chola I in 1010 CE",
+          "Evening: Thanjavur bronze-casting workshop tour; see masters create Chola-style Natarajas by the lost-wax method"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Madurai – Pandya Capital & Meenakshi Temple",
+        "image": "Madurai Meenakshi Amman Temple thousand pillar hall stone carvings close up",
+        "activities": [
+          "8 AM: Drive to Madurai (4 hours); check in to temple-facing hotel",
+          "Midday: Full guided tour of Meenakshi Amman Temple – the Pandya dynasty masterpiece; explore the Ashta Shakti Mandapam and the Hall of Thousand Pillars",
+          "Evening: Attend the nightly Alankara Seva (divine adornment ceremony); visit the Thirumalai Nayakkar Palace for the sound and light show"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Madurai Markets & Departure",
+        "image": "Madurai old bazaar jasmine flower market women colours morning Tamil Nadu",
+        "activities": [
+          "Morning: Sunrise walk through the Madurai flower market – one of India's most colourful and fragrant markets",
+          "Midday: Guided tour of the Gandhi Museum Madurai; traditional Madurai lunch of Idli, Vada, and filter coffee at a classic hotel",
+          "Afternoon: Transfer to Madurai Airport or station for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tamil-nadu-weekend-001",
+    "destinationId": "tamil-nadu",
+    "title": "Chennai & Mahabalipuram Weekend Getaway",
+    "duration": "4 Days / 3 Nights",
+    "price": "₹22,000",
+    "priceValue": 22000,
+    "image": "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?w=800",
+    "description": "The perfect long-weekend escape from a busy schedule. Experience Chennai's vibrant Mylapore culture, Kanchipuram's silk tradition, and the extraordinary UNESCO rock monuments of Mahabalipuram – all without the need for long-haul travel. Comfortable hotels, authentic South Indian cuisine, and a relaxing beach finish make this a well-rounded short break.",
+    "inclusions": [
+      "3 nights in centrally located 3-star hotels in Chennai and Mahabalipuram",
+      "Daily breakfast and 1 traditional Chettinad dinner in Chennai",
+      "Guided half-day tour of Mahabalipuram monuments with ASI guide",
+      "Kanchipuram silk-weaving cooperative visit and temple tour",
+      "Airport transfers and inter-city private transfers by AC cab"
+    ],
+    "exclusions": [
+      "Flights or trains to/from Chennai",
+      "Personal shopping (silk sarees, bronzes, etc.) and tips",
+      "Dinners except for the one specified; personal expenses",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Chennai – Mylapore & Marina",
+        "image": "Chennai Kapaleeshwarar Temple gopuram colourful sculptures blue sky evening",
+        "activities": [
+          "Arrive in Chennai; transfer to a hotel in Mylapore or T. Nagar (cultural heart of the city)",
+          "Afternoon: Visit Kapaleeshwarar Temple – the magnificent Pallava-style Dravidian temple dedicated to Lord Shiva",
+          "Evening: Sunset walk on Marina Beach; enjoy fresh sundal and bhel puri from beachside stalls; Chettinad dinner at a classic restaurant"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Kanchipuram & Mahabalipuram Day Trip",
+        "image": "Mahabalipuram Shore Temple sunrise Bay of Bengal stone ancient Pallava",
+        "activities": [
+          "7 AM: Private cab to Kanchipuram (75 km); visit Ekambaranathar Temple and a Kanchipuram silk weaving factory",
+          "Midday: Continue to Mahabalipuram (60 km from Kanchipuram); guided tour of Five Rathas and Arjuna's Penance",
+          "Evening: Shore Temple at sunset; dinner at a seafood restaurant in Mahabalipuram town; stay overnight"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Mahabalipuram Beach & Colonial Chennai",
+        "image": "Mahabalipuram beach morning fishermen shore temple backdrop sunrise peaceful",
+        "activities": [
+          "Morning: Swim at Mahabalipuram Beach (calm and clean); fresh fish fry breakfast at a beach café",
+          "Midday: Return to Chennai; visit Fort St. George and St. Mary's Church (oldest Anglican church in Asia)",
+          "Afternoon: Government Museum (Chola bronzes); evening at Besant Nagar Beach (Elliot's Beach) for filter coffee"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Chennai – Last Morning & Departure",
+        "image": "Chennai T Nagar shopping street morning silk saree shops South India city life",
+        "activities": [
+          "Morning: Traditional South Indian breakfast at a classic Brahmin restaurant (Idli, Pongal, Vada, filter coffee)",
+          "Late morning: Last-minute souvenir shopping at T. Nagar – silk sarees, bronze Natarajas, and spice mixes",
+          "Afternoon: Transfer to Chennai Airport or Central Station for departure"
+        ]
+      }
+    ]
+  }
+]

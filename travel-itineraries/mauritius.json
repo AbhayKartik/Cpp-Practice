@@ -1,0 +1,567 @@
+[
+  {
+    "id": "mauritius-budget-001",
+    "destinationId": "mauritius",
+    "title": "Mauritius Budget Explorer",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹42,000",
+    "priceValue": 42000,
+    "image": "https://images.unsplash.com/photo-1504464101985-c979d75b4f94?w=800",
+    "description": "Discover the natural wonders of Mauritius without breaking the bank. This budget-friendly itinerary covers the island's iconic highlights including the famous Seven Coloured Earths, Blue Bay Marine Park, and the vibrant Port Louis markets. Comfortable guesthouses and local dining ensure an authentic Mauritian experience at an affordable price.",
+    "inclusions": [
+      "4 nights accommodation in 3-star guesthouses or budget hotels",
+      "Daily breakfast included",
+      "Airport transfers by shared shuttle",
+      "Guided day tour to Chamarel and Black River Gorges",
+      "Visa assistance and documentation support"
+    ],
+    "exclusions": [
+      "International flights to/from Mauritius",
+      "Visa fees (if applicable)",
+      "Personal expenses and shopping",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival & Port Louis Discovery",
+        "image": "Port Louis Mauritius harbour waterfront Le Caudan shopping district",
+        "activities": [
+          "Arrive at Sir Seewoosagur Ramgoolam International Airport and transfer to Port Louis hotel (approx. 45 mins)",
+          "Afternoon stroll through Le Caudan Waterfront – enjoy harbour views, local craft shops, and street snacks",
+          "Evening visit to Port Louis Central Market for fresh tropical fruits and spices; dinner at a local Creole restaurant"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Port Louis Heritage & Pamplemousses",
+        "image": "Pamplemousses Botanical Garden giant Victoria amazonica water lilies Mauritius",
+        "activities": [
+          "Morning visit to Aapravasi Ghat UNESCO World Heritage Site and Blue Penny Museum (9:00 AM – 11:30 AM)",
+          "Afternoon tour of Sir Seewoosagur Ramgoolam Botanical Garden in Pamplemousses – giant water lilies, spice gardens, and deer park",
+          "Return to hotel by evening; dinner at a local Indian-Creole fusion restaurant near Trou aux Biches"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Chamarel & Black River Gorges",
+        "image": "Chamarel Seven Coloured Earths Mauritius volcanic dunes rainbow colours",
+        "activities": [
+          "Early morning drive to Black River Gorges National Park – nature trail spotting endemic birds and tropical flora (8:00 AM – 10:30 AM)",
+          "Visit the spectacular Seven Coloured Earths at Chamarel and nearby Chamarel Waterfall (11:00 AM – 1:00 PM)",
+          "Afternoon stop at Chamarel Rum Distillery for a free tasting tour before returning to hotel"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Blue Bay Marine Park & Mahebourg",
+        "image": "Blue Bay Marine Park Mauritius coral reef snorkeling crystal clear turquoise water",
+        "activities": [
+          "Full morning at Blue Bay Marine Park – snorkeling over vibrant coral reefs, spotting tropical fish and sea turtles (8:30 AM – 12:00 PM)",
+          "Lunch at a beachside shack in Mahebourg; afternoon visit to the SSR Sugar Museum to learn about Mauritius's colonial sugar heritage",
+          "Sunset walk along Mahebourg waterfront promenade before heading back to hotel"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Grand Baie & Departure",
+        "image": "Grand Baie Mauritius beach resort turquoise lagoon white sand",
+        "activities": [
+          "Morning leisure at Grand Baie beach – swimming and relaxing on white sand (8:00 AM – 11:00 AM)",
+          "Quick visit to Grand Baie market for last-minute souvenir shopping",
+          "Transfer to airport for departure flight; check-in and farewell to Mauritius"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mauritius-family-001",
+    "destinationId": "mauritius",
+    "title": "Mauritius Family Fun Package",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹95,000",
+    "priceValue": 95000,
+    "image": "https://images.unsplash.com/photo-1586861635167-e5223aadc9fe?w=800",
+    "description": "Create unforgettable family memories in the paradise island of Mauritius. From thrilling water sports at Île aux Cerfs to adventure activities at Casela World of Adventures, this package is designed to keep every family member entertained and delighted. Stay in comfortable family-friendly resorts with pools and kids' facilities.",
+    "inclusions": [
+      "5 nights in 4-star family resort with pool access",
+      "Daily breakfast and dinner (half-board basis)",
+      "Private airport transfers for the whole family",
+      "Full-day boat trip to Île aux Cerfs with BBQ lunch included",
+      "Entry tickets to Casela World of Adventures and visa assistance"
+    ],
+    "exclusions": [
+      "International flights to/from Mauritius",
+      "Visa fees and passport processing",
+      "Personal expenses, extra water sports, and shopping",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival & Beach Resort Check-In",
+        "image": "Mauritius family beach resort swimming pool tropical garden children playing",
+        "activities": [
+          "Arrive at SSR International Airport; private family transfer to Trou aux Biches or Flic en Flac resort (approx. 1 hour)",
+          "Check in, settle into family rooms; kids enjoy the resort pool while adults relax on the beach",
+          "Welcome dinner at resort restaurant with Creole buffet spread"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Casela World of Adventures",
+        "image": "Casela World of Adventures Mauritius zip line safari lions giraffes children",
+        "activities": [
+          "Full day at Casela World of Adventures – zip-lining, quad biking, and walking with lions for older kids (9:00 AM – 5:00 PM)",
+          "Afternoon visit to the park's bird sanctuary and giraffe feeding station, perfect for younger children",
+          "Evening return to resort; relaxed dinner and early rest"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Île aux Cerfs Island Day Trip",
+        "image": "Ile aux Cerfs Mauritius turquoise lagoon boat trip water sports parasailing",
+        "activities": [
+          "Morning boat trip to Île aux Cerfs – snorkeling, glass-bottom boat ride over coral reefs (8:30 AM – 1:00 PM)",
+          "BBQ lunch on the island beach; afternoon water sports – banana boat, parasailing options for teens",
+          "Sunset boat return; evening free for family games and resort activities"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Chamarel & Rum Distillery",
+        "image": "Chamarel Mauritius Seven Coloured Earths volcanic landscape waterfall scenic",
+        "activities": [
+          "Morning drive to Chamarel – visit the iconic Seven Coloured Earths geological phenomenon (9:00 AM – 11:00 AM)",
+          "Stop at Chamarel Waterfall viewpoint and Chamarel Rum Distillery for a family-friendly tour",
+          "Afternoon at Flic en Flac beach for swimming; return to resort for half-board dinner"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Pamplemousses & Port Louis",
+        "image": "Port Louis Mauritius Central Market colourful spices fruits local vendors",
+        "activities": [
+          "Morning visit to Pamplemousses Botanical Garden – giant tortoises, water lilies, and spice trees (8:30 AM – 11:00 AM)",
+          "Afternoon in Port Louis – Blue Penny Museum and Le Caudan Waterfront for shopping and street food",
+          "Sunset dinner cruise on Port Louis harbour (optional add-on)"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Beach Morning & Departure",
+        "image": "Mauritius turquoise beach sunrise palm trees golden sand family vacation",
+        "activities": [
+          "Leisurely morning on the beach; hotel pool time for final family swim (7:00 AM – 10:00 AM)",
+          "Check out and souvenirs shopping at nearest local market",
+          "Private transfer to SSR International Airport for departure flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mauritius-honeymoon-001",
+    "destinationId": "mauritius",
+    "title": "Mauritius Romantic Honeymoon Escape",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹165,000",
+    "priceValue": 165000,
+    "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800",
+    "description": "Celebrate your love in one of the world's most romantic destinations. This honeymoon package features luxurious beachfront villa accommodation, private sunset cruises around Le Morne Brabant, and intimate dining under the stars. Every detail is curated to create the most magical start to your married life.",
+    "inclusions": [
+      "5 nights in 5-star beachfront resort with ocean-view room or villa",
+      "Daily breakfast and one candlelit dinner included",
+      "Private airport transfers with welcome flowers and champagne",
+      "Sunset catamaran cruise with dolphin watching near Le Morne",
+      "Couples spa treatment (60-min) and visa assistance"
+    ],
+    "exclusions": [
+      "International flights to/from Mauritius",
+      "Visa fees",
+      "Additional spa treatments and personal shopping",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival & Romantic Welcome",
+        "image": "Mauritius luxury beachfront villa overwater bungalow couple sunset champagne",
+        "activities": [
+          "Arrive at SSR Airport; private chauffeur transfer to Le Morne or Black River resort with flower garlands and chilled champagne",
+          "Check in to ocean-view villa; private beach welcome – rose petals, candles, and evening hors d'oeuvres",
+          "Romantic candlelit dinner at the resort's signature restaurant overlooking the Indian Ocean"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Le Morne & Underwater Waterfall",
+        "image": "Le Morne Brabant Mauritius UNESCO mountain lagoon underwater waterfall illusion aerial",
+        "activities": [
+          "Morning helicopter or speed boat trip to view the stunning Underwater Waterfall optical illusion off Le Morne Brabant peninsula",
+          "Hike around the base of Le Morne Brabant UNESCO World Heritage mountain with scenic Indian Ocean views",
+          "Sunset champagne picnic on a secluded beach near the lagoon"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Sunset Catamaran Cruise & Dolphins",
+        "image": "Mauritius catamaran sunset cruise dolphins couple ocean turquoise lagoon",
+        "activities": [
+          "Morning leisure at the resort beach; couples breakfast in bed option",
+          "Afternoon private catamaran cruise – snorkeling at coral reefs, swimming with wild spinner dolphins in their natural habitat",
+          "Sundowner cocktails on the catamaran as the sun sets over the Indian Ocean horizon"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Chamarel Scenic Drive & Spa",
+        "image": "Chamarel Mauritius couple scenic mountain drive tropical forest waterfall",
+        "activities": [
+          "Scenic morning drive to Chamarel – Seven Coloured Earths, waterfall viewpoint, and local rum tasting (9:00 AM – 1:00 PM)",
+          "Return to resort for a relaxing couples spa treatment – hot stone massage or Creole herbal ritual",
+          "Private dinner on the beach with live acoustic music and star-filled sky"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Blue Bay Coral Reef & Grand Baie",
+        "image": "Blue Bay Marine Park Mauritius couple snorkeling coral reef tropical fish",
+        "activities": [
+          "Morning glass-bottom boat tour over Blue Bay Marine Park – marvel at pristine coral gardens and sea turtles",
+          "Afternoon drive north to Grand Baie – couples' shopping, beachside café, and sunset cocktails",
+          "Farewell romantic dinner at a beachfront restaurant in Grand Baie"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Leisure Morning & Departure",
+        "image": "Mauritius sunrise beach couple footprints sand Indian Ocean farewell",
+        "activities": [
+          "Final sunrise beach walk holding hands; in-room breakfast served to your villa",
+          "Late check-out if available; last dip in the resort pool or beach",
+          "Private chauffeur transfer to SSR International Airport with warm send-off"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mauritius-adventure-001",
+    "destinationId": "mauritius",
+    "title": "Mauritius Adventure Rush",
+    "duration": "6 Days / 5 Nights",
+    "price": "₹82,000",
+    "priceValue": 82000,
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800",
+    "description": "For thrill-seekers, Mauritius offers so much more than beaches. This adventure package packs in kite surfing at Le Morne, canyoning in the lush Black River Gorges, deep-sea fishing in the Indian Ocean, and quad biking through volcanic terrains. Get your adrenaline pumping in one of the world's most beautiful settings.",
+    "inclusions": [
+      "5 nights in comfortable 3-star adventure lodge near Black River",
+      "Daily breakfast included",
+      "Airport transfers by private vehicle",
+      "Guided canyoning experience in Black River Gorges (full day)",
+      "Deep-sea fishing half-day trip and visa assistance"
+    ],
+    "exclusions": [
+      "International flights to/from Mauritius",
+      "Visa fees",
+      "Personal adventure gear rentals not included in package",
+      "Travel insurance (strongly recommended)"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival & Kite Surf Introduction",
+        "image": "Le Morne Mauritius kite surfing turquoise lagoon extreme sports beach",
+        "activities": [
+          "Arrive at SSR Airport; transfer to Black River area lodge (approx. 1.5 hours)",
+          "Afternoon beginner kite surfing lesson at Le Morne lagoon with certified IKO instructor (2:00 PM – 5:00 PM)",
+          "Evening briefing for the week's adventure activities; dinner at local seafood grill"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Canyoning in Black River Gorges",
+        "image": "Black River Gorges Mauritius canyoning waterfall rappelling lush tropical forest",
+        "activities": [
+          "Full-day guided canyoning experience through Black River Gorges – rappelling down waterfalls, cliff jumping, and jungle trekking (7:00 AM – 4:00 PM)",
+          "Picnic lunch packed by the lodge on a rocky outcrop beside a natural pool",
+          "Evening stretching and recovery; hearty dinner at the lodge"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Deep-Sea Fishing & Snorkeling",
+        "image": "Mauritius deep sea fishing boat Indian Ocean marlin tuna sunrise",
+        "activities": [
+          "Early morning deep-sea fishing expedition from Black River harbour – targeting marlin, tuna, and dorado (5:30 AM – 12:00 PM)",
+          "Afternoon snorkeling at Crystal Rock near Grand Baie – crystal-clear waters teeming with tropical fish",
+          "Beach bonfire evening with freshly cooked catch of the day"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Quad Biking & Zip-Lining at Casela",
+        "image": "Casela Mauritius quad biking adventure park volcanic terrain thrill",
+        "activities": [
+          "Morning quad biking through sugarcane fields and volcanic terrain in the Black River region (8:00 AM – 11:00 AM)",
+          "Afternoon at Casela World of Adventures – zip-lining, abseiling, and canyon swing (1:00 PM – 5:00 PM)",
+          "Adrenaline debrief over cold beers at a local beach bar"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Île aux Cerfs Water Sports Blitz",
+        "image": "Ile aux Cerfs Mauritius water sports jet ski wakeboard parasailing lagoon",
+        "activities": [
+          "Boat trip to Île aux Cerfs island – full morning of water sports: jet skiing, wakeboarding, and parasailing (8:30 AM – 1:00 PM)",
+          "Lunch on the island; afternoon glass-bottom boat tour over coral reefs",
+          "Return by speedboat; sunset run along the beach trail"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Hiking & Departure",
+        "image": "Mauritius mountain hiking trail scenic ocean view birds Black River Gorges",
+        "activities": [
+          "Morning sunrise hike in Black River Gorges – Macchabée Trail with endemic bird spotting (5:30 AM – 9:00 AM)",
+          "Return to lodge; shower, pack, and check out",
+          "Transfer to SSR International Airport for departure flight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mauritius-luxury-001",
+    "destinationId": "mauritius",
+    "title": "Mauritius Ultra-Luxury Retreat",
+    "duration": "7 Days / 6 Nights",
+    "price": "₹320,000",
+    "priceValue": 320000,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
+    "description": "Experience Mauritius at its most exclusive – private villa resorts, helicopter transfers, bespoke dining on sandbanks, and private yacht charters around the island's most pristine lagoons. This meticulously crafted luxury itinerary leaves nothing to chance, ensuring every moment is extraordinary and every experience is one of a kind.",
+    "inclusions": [
+      "6 nights in 5-star luxury villa resort with private plunge pool and butler service",
+      "Full-board (breakfast, lunch, and dinner) at resort and curated restaurants",
+      "Private helicopter transfer from airport to resort",
+      "Private yacht charter for full-day lagoon cruise with gourmet lunch",
+      "Couples spa day and visa concierge service"
+    ],
+    "exclusions": [
+      "International business/first class flights to/from Mauritius",
+      "Visa fees",
+      "Premium wine cellar and personal shopping",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Helicopter Arrival & Private Villa",
+        "image": "Mauritius luxury resort private villa plunge pool Indian Ocean aerial view helicopter",
+        "activities": [
+          "VIP fast-track arrival at SSR Airport; private helicopter transfer offering aerial views of the island's lagoons and mountains (30-min flight)",
+          "Check in to private villa suite with dedicated butler; welcome fruit platter, rum cocktail, and rose petal turndown service",
+          "Private candlelit dinner on the villa terrace prepared by in-villa chef"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Private Yacht Charter",
+        "image": "Mauritius private yacht charter luxury sunset catamaran coral lagoon turquoise",
+        "activities": [
+          "Full-day private yacht charter circumnavigating the island's southern coast – dolphin watching and snorkeling at pristine reefs (8:00 AM – 5:00 PM)",
+          "Gourmet lunch served on board by private chef – fresh lobster, ceviche, and chilled Chablis",
+          "Sunset champagne as the yacht anchors at an isolated sandbank"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Le Morne & Underwater Waterfall by Helicopter",
+        "image": "Mauritius underwater waterfall aerial helicopter view Le Morne Brabant luxury tour",
+        "activities": [
+          "Private helicopter excursion over Le Morne Brabant and the famous Underwater Waterfall illusion – with aerial photography service (9:00 AM – 11:00 AM)",
+          "Exclusive access to a private beach at Le Morne for a gourmet picnic lunch",
+          "Afternoon in-villa spa: traditional Ayurvedic full-body treatment and aromatherapy"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Île aux Cerfs by Speedboat & Golf",
+        "image": "Ile aux Cerfs Mauritius golf course ocean view luxury resort tropical",
+        "activities": [
+          "Private speedboat to Île aux Cerfs – exclusive beach cabana with butler service, snorkeling, and paddleboard (8:30 AM – 1:00 PM)",
+          "Afternoon tee time at Île aux Cerfs Golf Course – 18-hole championship course overlooking the turquoise lagoon",
+          "Return at sunset; fine dining at the resort's gourmet seafood restaurant"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Cultural Immersion & Rum Estate",
+        "image": "Mauritius luxury rum estate private tour colonial estate Chamarel rolling hills",
+        "activities": [
+          "Private guided tour of Chamarel Rum Distillery with a premium tasting masterclass and lunch at the estate restaurant",
+          "Visit to Pamplemousses Botanical Garden with a private botanist guide (11:00 AM – 1:00 PM)",
+          "Evening visit to Le Caudan Waterfront for designer shopping; sunset dinner cruise on Port Louis harbour"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Spa Day & Sunset Sandbank Dinner",
+        "image": "Mauritius luxury spa couple overwater bungalow sunset sandbank private dining ocean",
+        "activities": [
+          "Full-morning resort spa day: hot stone massage, hydrotherapy bath, and facial with premium L'Occitane products",
+          "Leisurely afternoon at the private beach; water villa afternoon tea service",
+          "Exclusive sunset dinner arranged on a private sandbank – live Sega music, lanterns, and chef-prepared 5-course tasting menu"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Final Luxury Morning & Departure",
+        "image": "Mauritius sunrise Indian Ocean luxury villa pool champagne breakfast farewell",
+        "activities": [
+          "In-villa gourmet breakfast with Indian Ocean sunrise views; final dip in private plunge pool",
+          "Late check-out at 2 PM; butler assists with packing and luggage handling",
+          "Private helicopter or luxury chauffeur transfer to SSR International Airport for departure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mauritius-cultural-001",
+    "destinationId": "mauritius",
+    "title": "Mauritius Cultural Heritage Journey",
+    "duration": "5 Days / 4 Nights",
+    "price": "₹62,000",
+    "priceValue": 62000,
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+    "description": "Dive deep into the rich multicultural tapestry of Mauritius – a unique blend of African, Indian, French, and Chinese influences. Visit UNESCO World Heritage Sites, explore colonial plantations, sample Creole cuisine at local markets, and witness traditional Sega dance performances. This journey is for the culturally curious traveller.",
+    "inclusions": [
+      "4 nights in a heritage boutique hotel in Port Louis or Mahebourg",
+      "Daily breakfast and two cultural Creole dinners",
+      "Private air-conditioned vehicle with local guide for all tours",
+      "Entry tickets to Aapravasi Ghat, Blue Penny Museum, and SSR Sugar Museum",
+      "Traditional Sega dance cultural show ticket and visa assistance"
+    ],
+    "exclusions": [
+      "International flights to/from Mauritius",
+      "Visa fees",
+      "Personal shopping and tips for guides",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival & Port Louis Heritage Walk",
+        "image": "Port Louis Mauritius Aapravasi Ghat UNESCO World Heritage colonial waterfront",
+        "activities": [
+          "Arrive at SSR Airport; private transfer to boutique hotel in Port Louis (45 mins)",
+          "Guided heritage walk through Port Louis – Aapravasi Ghat UNESCO Site (the first indentured labour immigration depot), Government House, and St Louis Cathedral",
+          "Evening at Port Louis Central Market for a Creole street food experience – dholl puri, gato piment, and alouda"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Blue Penny Museum & Pamplemousses",
+        "image": "Blue Penny Museum Mauritius stamp collection colonial history exhibits",
+        "activities": [
+          "Morning visit to the Blue Penny Museum – world-renowned for rare stamps and Mauritian colonial history exhibits (9:00 AM – 12:00 PM)",
+          "Afternoon at Pamplemousses Botanical Garden – one of the oldest botanical gardens in the southern hemisphere, established in 1736",
+          "Evening Sega dance cultural show at a local cultural centre – witness the vibrant African-Creole heritage dance"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "SSR Sugar Museum & Mahebourg",
+        "image": "Mauritius sugar cane plantation SSR Sugar Museum colonial history grinding mill",
+        "activities": [
+          "Morning visit to the SSR Sugar Museum at L'Aventure du Sucre – learn about 400 years of sugarcane history in Mauritius with interactive exhibits (9:00 AM – 12:00 PM)",
+          "Lunch at a Mauritian family table (table d'hôte) for authentic home-cooked Creole cuisine",
+          "Afternoon at Mahebourg Historical Museum and waterfront promenade – overlooking the scene of the 1810 Battle of Grand Port"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Chamarel Village & Creole Cooking",
+        "image": "Chamarel Mauritius Creole village cooking class cultural heritage traditional food",
+        "activities": [
+          "Morning drive to Chamarel village – explore the Rhumerie de Chamarel estate and learn about traditional rum production methods",
+          "Hands-on Creole cooking class with a local family – prepare rougaille, briani, and coconut chutney",
+          "Evening cultural walk through Floréal area – exploring Mauritian Chinese and Tamil community temples"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Local Markets & Departure",
+        "image": "Mauritius local market artisan crafts basket weaving cultural souvenirs colourful",
+        "activities": [
+          "Morning visit to Quatre Bornes craft market for handmade Mauritian baskets, model ships, and Creole spice kits",
+          "Final breakfast at a traditional Mauritian Dholl Puri roadside vendor",
+          "Transfer to SSR International Airport; depart with memories of Mauritius's extraordinary cultural mosaic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mauritius-weekend-001",
+    "destinationId": "mauritius",
+    "title": "Mauritius Weekend Beach Escape",
+    "duration": "4 Days / 3 Nights",
+    "price": "₹55,000",
+    "priceValue": 55000,
+    "image": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=800",
+    "description": "When time is short but the need for a tropical escape is urgent, this Mauritius weekend getaway delivers maximum relaxation and stunning scenery in just four days. Lounge on pristine beaches, snorkel clear lagoons, and sample fresh seafood before heading home refreshed and rejuvenated.",
+    "inclusions": [
+      "3 nights in 4-star beachfront hotel with sea view room",
+      "Daily breakfast and one beachside dinner",
+      "Private airport transfers both ways",
+      "Half-day glass-bottom boat tour over Blue Bay coral reef",
+      "Visa assistance and welcome beach kit (sunscreen, snorkel set)"
+    ],
+    "exclusions": [
+      "International flights to/from Mauritius",
+      "Visa fees",
+      "Water sports and personal activities",
+      "Travel insurance"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival & Trou aux Biches",
+        "image": "Trou aux Biches Mauritius turquoise lagoon white sand beach sunset palm trees",
+        "activities": [
+          "Arrive at SSR Airport; private transfer to Trou aux Biches or Flic en Flac beachfront hotel (1 hour)",
+          "Afternoon on the beach – swimming in the sheltered turquoise lagoon; cocktails at the beach bar",
+          "Sunset dinner at a beachfront Creole restaurant – fresh grilled fish and lobster"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Blue Bay & Île aux Cerfs Highlights",
+        "image": "Mauritius Blue Bay coral reef glass bottom boat snorkeling tropical marine life",
+        "activities": [
+          "Morning glass-bottom boat tour over Blue Bay Marine Park – incredible coral formations and colourful marine life (8:30 AM – 11:30 AM)",
+          "Quick boat excursion to Île aux Cerfs for an afternoon beach picnic and paddleboarding",
+          "Return to hotel; evening free for resort pool and relaxation"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Chamarel Quick Tour & Grand Baie",
+        "image": "Chamarel Seven Coloured Earths Mauritius scenic overlook bright rainbow soil formations",
+        "activities": [
+          "Morning scenic drive to Chamarel Seven Coloured Earths for iconic photos (8:30 AM – 11:00 AM)",
+          "Afternoon in Grand Baie – beach time, local shopping, and a cold coconut on the shore",
+          "Dinner at a Grand Baie seafood restaurant overlooking the beach"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Final Beach Morning & Departure",
+        "image": "Mauritius tropical beach sunrise final day farewell golden sand Indian Ocean",
+        "activities": [
+          "Early morning swim before breakfast; last photographs on the beach (6:30 AM – 8:30 AM)",
+          "Hotel check-out; souvenir shopping at Le Caudan Waterfront in Port Louis",
+          "Private transfer to SSR International Airport for departure flight"
+        ]
+      }
+    ]
+  }
+]
